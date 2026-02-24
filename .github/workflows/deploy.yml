@@ -24,38 +24,15 @@ jobs:
       - uses: actions/checkout@v4
 
       - uses: quarto-dev/quarto-actions/setup@v2
-        with:
-          tinytex: true
 
       - uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      - name: Install system fonts for PDF
-        run: |
-          sudo apt-get update -qq
-          sudo apt-get install -y -qq fonts-texgyre
-          mkdir -p ~/.config/fontconfig
-          cat > ~/.config/fontconfig/fonts.conf << 'FONTCFG'
-          <?xml version="1.0"?>
-          <!DOCTYPE fontconfig SYSTEM "urn:fontconfig:fonts.dtd">
-          <fontconfig>
-            <alias>
-              <family>Palatino</family>
-              <prefer><family>TeX Gyre Pagella</family></prefer>
-            </alias>
-            <alias>
-              <family>Helvetica Neue</family>
-              <prefer><family>TeX Gyre Heros</family></prefer>
-            </alias>
-          </fontconfig>
-          FONTCFG
-          fc-cache -f
-
-      - name: Render Quarto Book
+      - name: Render Quarto Book (HTML only)
         run: |
           cd 05_New_Committee
-          quarto render
+          quarto render --to html
 
       - name: Encrypt HTML with StaticCrypt
         run: |
