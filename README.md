@@ -1,6 +1,6 @@
 # SET Matters
 
-Policy research and reform documentation for Student Evaluations of Teaching (SET) at Cal Poly's Orfalea College of Business (OCOB).
+Policy research and reform documentation for Student Evaluations of Teaching (SET) at Cal Poly. This is an unofficial document and a work in progress.
 
 ## Purpose
 
