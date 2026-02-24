@@ -1,0 +1,293 @@
+---
+title: "Reporting Guidelines — Visualization Examples"
+subtitle: "Draft mockups for the Student Learning Experience Survey"
+format:
+  html:
+    theme: cosmo
+    fontsize: 1.05em
+    linestretch: 1.4
+    mainfont: "Palatino, Georgia, serif"
+    embed-resources: true
+---
+
+```{r setup, include=FALSE}
+library(ggplot2)
+library(ggthemes)
+library(dplyr)
+library(knitr)
+library(kableExtra)
+library(HH)
+
+# ── Data ────────────────────────────────────────────────────
+# Mock data for a single course with richer response spread.
+enrolled   <- 33
+responded  <- 22
+
+resp_levels <- c("Strongly Disagree", "Disagree",
+                 "Neither Agree\nnor Disagree", "Agree",
+                 "Strongly Agree")
+
+resp_levels_clean <- c("Strongly Disagree", "Disagree",
+                       "Neither Agree nor Disagree", "Agree",
+                       "Strongly Agree")
+
+q1_counts <- c(2, 3, 4, 7, 6)   # 22 respondents
+q2_counts <- c(1, 4, 3, 8, 6)   # 22 respondents
+
+q1 <- data.frame(
+  response = factor(resp_levels, levels = resp_levels),
+  count    = q1_counts
+)
+
+q2 <- data.frame(
+  response = factor(resp_levels, levels = resp_levels),
+  count    = q2_counts
+)
+
+# ── Color palette ───────────────────────────────────────────
+pal5 <- c("#C06060",   # Strongly Disagree — muted red
+          "#D4967A",   # Disagree — salmon
+          "#C8C0B0",   # Neither — warm grey
+          "#7A9AB5",   # Agree — steel blue
+          "#3F6D8E")   # Strongly Agree — deep slate blue
+```
+
+## 1. Frequency Table
+
+The simplest and most transparent format. Raw counts, visible denominator, no percentages, no averages.
+
+```{r table, echo=FALSE}
+tbl <- data.frame(
+  Response = resp_levels_clean,
+  Q1 = q1_counts,
+  Q2 = q2_counts
+)
+
+tbl %>%
+  kable(col.names = c("", "Question 1", "Question 2"),
+        align = c("l", "c", "c"),
+        caption = paste0("Frequency distribution of responses (",
+                         responded, " of ", enrolled,
+                         " enrolled students responded)")) %>%
+  kable_styling(bootstrap_options = c("condensed"),
+                full_width = FALSE,
+                font_size = 15) %>%
+  row_spec(0, bold = TRUE, color = "#333333") %>%
+  column_spec(1, width = "14em", color = "#333333") %>%
+  column_spec(2:3, width = "8em")
+```
+
+<br>
+
+## 2. Vertical Bar Chart — Single Question
+
+The recommended format for individual instructor reports. Each bar is one response category; the vertical axis shows the count of respondents.
+
+```{r bar-q1, echo=FALSE, fig.width=5.5, fig.height=4, fig.align='center', dpi=150}
+ggplot(q1, aes(x = response, y = count)) +
+  geom_col(fill = "#3F6D8E", width = 0.6) +
+  geom_text(aes(label = count), vjust = -0.7,
+            size = 3.8, color = "#333333") +
+  scale_y_continuous(breaks = seq(0, max(q1$count) + 1, by = 2),
+                     limits = c(0, max(q1$count) + 1.5),
+                     expand = c(0, 0)) +
+  labs(title    = "Question 1",
+       subtitle = paste0(responded, " of ", enrolled, " enrolled students responded"),
+       x = NULL, y = NULL) +
+  theme_tufte(base_size = 13, base_family = "Palatino") +
+  theme(
+    plot.title    = element_text(size = 14, face = "bold", color = "#222222"),
+    plot.subtitle = element_text(size = 10, color = "#666666", margin = margin(b = 12)),
+    axis.ticks.x  = element_blank(),
+    axis.ticks.y  = element_line(color = "#CCCCCC", linewidth = 0.3),
+    axis.text.x   = element_text(size = 9, color = "#333333", lineheight = 0.9),
+    axis.text.y   = element_text(size = 9, color = "#999999"),
+    panel.grid    = element_blank(),
+    plot.margin   = margin(10, 15, 10, 10)
+  )
+```
+
+<br>
+
+```{r bar-q2, echo=FALSE, fig.width=5.5, fig.height=4, fig.align='center', dpi=150}
+ggplot(q2, aes(x = response, y = count)) +
+  geom_col(fill = "#3F6D8E", width = 0.6) +
+  geom_text(aes(label = count), vjust = -0.7,
+            size = 3.8, color = "#333333") +
+  scale_y_continuous(breaks = seq(0, max(q2$count) + 1, by = 2),
+                     limits = c(0, max(q2$count) + 1.5),
+                     expand = c(0, 0)) +
+  labs(title    = "Question 2",
+       subtitle = paste0(responded, " of ", enrolled, " enrolled students responded"),
+       x = NULL, y = NULL) +
+  theme_tufte(base_size = 13, base_family = "Palatino") +
+  theme(
+    plot.title    = element_text(size = 14, face = "bold", color = "#222222"),
+    plot.subtitle = element_text(size = 10, color = "#666666", margin = margin(b = 12)),
+    axis.ticks.x  = element_blank(),
+    axis.ticks.y  = element_line(color = "#CCCCCC", linewidth = 0.3),
+    axis.text.x   = element_text(size = 9, color = "#333333", lineheight = 0.9),
+    axis.text.y   = element_text(size = 9, color = "#999999"),
+    panel.grid    = element_blank(),
+    plot.margin   = margin(10, 15, 10, 10)
+  )
+```
+
+<br>
+
+## 3. Diverging Stacked Bar Chart — Comparing Multiple Questions
+
+The design recommended by Heiberger & Robbins (2014) for comparing multiple survey items at a glance. Bars diverge from the neutral midpoint: agreement extends right, disagreement extends left. The count label appears on each segment. This format makes the balance between agreement and disagreement immediately visible.
+
+```{r diverging, echo=FALSE, fig.width=8, fig.height=3.5, fig.align='center', dpi=150}
+# ── Build the matrix for HH::likert ────────────────────────
+mat <- matrix(c(q1_counts, q2_counts), nrow = 2, byrow = TRUE,
+              dimnames = list(
+                c("Question 1", "Question 2"),
+                c("Strongly\nDisagree", "Disagree",
+                  "Neither", "Agree",
+                  "Strongly\nAgree")
+              ))
+
+likert(mat,
+       positive.order = FALSE,
+       as.percent = FALSE,
+       main = paste0("Student Learning Experience Survey  (",
+                     responded, " of ", enrolled,
+                     " enrolled students responded)"),
+       sub = "",
+       ylab = NULL,
+       xlab = "Number of respondents",
+       col  = pal5,
+       border.fill = NA,
+       rightAxis = FALSE,
+       scales = list(
+         x = list(
+           cex = 0.85,
+           col = "#666666"
+         ),
+         y = list(
+           cex = 1,
+           col = "#333333"
+         )
+       ),
+       par.settings = list(
+         axis.line = list(col = "transparent"),
+         par.main.text = list(cex = 1, col = "#222222", font = 2)
+       ))
+```
+
+<br>
+
+## 4. Diverging Stacked Bar Chart — ggplot2 version
+
+A ggplot2 implementation of the same chart, offering finer typographic control and a Tufte-inspired aesthetic.
+
+```{r diverging-gg, echo=FALSE, fig.width=8, fig.height=3.2, fig.align='center', dpi=150}
+# ── Compute diverging positions ─────────────────────────────
+div_data <- data.frame(
+  question = rep(c("Question 1", "Question 2"), each = 5),
+  response = factor(rep(resp_levels_clean, 2), levels = resp_levels_clean),
+  count    = c(q1_counts, q2_counts)
+)
+
+# Center on the middle category (Neither): split it in half,
+# disagreement goes left (negative), agreement goes right.
+div_data <- div_data %>%
+  mutate(
+    side = case_when(
+      response %in% c("Strongly Disagree", "Disagree") ~ "left",
+      response %in% c("Agree", "Strongly Agree") ~ "right",
+      TRUE ~ "center"
+    )
+  )
+
+# Compute positions: left side negative, right side positive, center split
+div_pos <- div_data %>%
+  group_by(question) %>%
+  mutate(
+    half_neutral = count[response == "Neither Agree nor Disagree"] / 2,
+    value = case_when(
+      response == "Strongly Disagree" ~ -count,
+      response == "Disagree" ~ -count,
+      response == "Neither Agree nor Disagree" ~ count,
+      response == "Agree" ~ count,
+      response == "Strongly Agree" ~ count
+    )
+  ) %>%
+  ungroup()
+
+# Manual position calculation for each bar segment
+build_diverging <- function(counts, levels) {
+  n <- length(counts)
+  mid_idx <- 3  # Neither
+  half_mid <- counts[mid_idx] / 2
+
+  xmin <- numeric(n)
+  xmax <- numeric(n)
+
+  # Right side: neutral-right-half, Agree, Strongly Agree
+  xmin[mid_idx] <- 0;           xmax[mid_idx] <- half_mid
+  xmin[4] <- half_mid;          xmax[4] <- half_mid + counts[4]
+  xmin[5] <- xmax[4];           xmax[5] <- xmax[4] + counts[5]
+
+  # Left side: neutral-left-half, Disagree, Strongly Disagree
+  xmax[mid_idx] <- half_mid  # already set; use negative mirror
+  neg_start <- 0
+  xmax_l3 <- -half_mid
+  xmin[mid_idx] <- xmax_l3  # override: neutral spans from -half to +half
+  xmax[mid_idx] <- half_mid
+
+  xmax[2] <- -half_mid;          xmin[2] <- -half_mid - counts[2]
+  xmax[1] <- xmin[2];            xmin[1] <- xmin[2] - counts[1]
+
+  data.frame(
+    response = factor(levels, levels = levels),
+    count = counts,
+    xmin = xmin,
+    xmax = xmax,
+    xmid = (xmin + xmax) / 2
+  )
+}
+
+seg1 <- build_diverging(q1_counts, resp_levels_clean) %>% mutate(question = "Question 1")
+seg2 <- build_diverging(q2_counts, resp_levels_clean) %>% mutate(question = "Question 2")
+segments <- bind_rows(seg1, seg2)
+
+ggplot(segments, aes(y = question)) +
+  geom_rect(aes(xmin = xmin, xmax = xmax, ymin = as.numeric(factor(question)) - 0.28,
+                ymax = as.numeric(factor(question)) + 0.28, fill = response),
+            color = "white", linewidth = 0.3) +
+  geom_text(data = filter(segments, count > 0),
+            aes(x = xmid, label = count,
+                y = as.numeric(factor(question))),
+            color = "white", fontface = "bold", size = 3.5) +
+  geom_vline(xintercept = 0, color = "#999999", linewidth = 0.3, linetype = "dashed") +
+  scale_fill_manual(values = pal5, name = NULL,
+                    guide = guide_legend(nrow = 1)) +
+  scale_y_discrete(limits = c("Question 2", "Question 1")) +
+  scale_x_continuous(
+    breaks = seq(-10, 15, by = 5),
+    labels = abs(seq(-10, 15, by = 5))
+  ) +
+  labs(title    = "Student Learning Experience Survey",
+       subtitle = paste0(responded, " of ", enrolled, " enrolled students responded"),
+       x = "Number of respondents", y = NULL) +
+  theme_tufte(base_size = 13, base_family = "Palatino") +
+  theme(
+    plot.title       = element_text(size = 14, face = "bold", color = "#222222"),
+    plot.subtitle    = element_text(size = 10, color = "#666666", margin = margin(b = 10)),
+    axis.text.y      = element_text(size = 11, color = "#333333"),
+    axis.text.x      = element_text(size = 9, color = "#999999"),
+    axis.title.x     = element_text(size = 9, color = "#999999", margin = margin(t = 6)),
+    axis.ticks.y     = element_blank(),
+    axis.ticks.x     = element_line(color = "#CCCCCC", linewidth = 0.3),
+    legend.position  = "bottom",
+    legend.text      = element_text(size = 8.5, color = "#555555"),
+    legend.key.size  = unit(0.4, "cm"),
+    legend.spacing.x = unit(0.15, "cm"),
+    legend.margin    = margin(t = 2),
+    panel.grid       = element_blank(),
+    plot.margin      = margin(10, 15, 5, 10)
+  )
+```

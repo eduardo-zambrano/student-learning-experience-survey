@@ -16,10 +16,186 @@ The following scoring approach applies to both the summative and formative porti
 
 ## Reporting Guidelines
 
-- **Frequency distributions.** The fraction of students whose response falls in each category should be reported. The denominator of the fraction should be the total respondents, to assist proper interpretation of the data. If a summary is desired, the report can present ratios of counts: for example, how many out of the total respondents agree or strongly agree with a statement, and what fraction of those strongly agree. Frequency distributions should not be reported as percentages. With the class sizes typical of most courses, percentages create a misleading impression of precision: a single student's response can shift a percentage by several points, and the small denominator is hidden from the reader. Reporting counts — e.g., "7 out of 23 respondents" — keeps the sample size visible and discourages over-interpretation ([Lang and Secic, 2006, Ch. 1](https://books.google.com/books/about/How_to_Report_Statistics_in_Medicine.html?id=kBUBRh1AWG4C)).
+- **Frequency distributions.** The number of students whose response falls in each category should be reported.  Frequency distributions should not be reported as percentages. With the class sizes typical of most courses, percentages create a misleading impression of precision: a single student's response can shift a percentage by several points, and the small denominator is hidden from the reader. Reporting counts — e.g., "7 out of 23 respondents" — keeps the sample size visible and discourages over-interpretation ([Lang and Secic, 2006, Ch. 1](https://books.google.com/books/about/How_to_Report_Statistics_in_Medicine.html?id=kBUBRh1AWG4C)).
 
 - **Response rates.** Both the number of enrolled students and the number of respondents should be reported.
 
 - **No extrapolation.** Results should not be extrapolated from responders to nonresponders.
 
-- **No cross-comparisons.** Results should not be compared across course formats, levels, topics, or disciplines ([Stark and Freishtat, 2014, Recommendation 5](https://www.scienceopen.com/hosted-document?doi=10.14293/S2199-1006.1.SOR-EDU.AOFRQA.v1)). Cross-comparisons are invalid because survey responses are confounded by course characteristics that have nothing to do with teaching effectiveness: class size, course level, whether the course is required or elective, and student preparation. As McKeachie observes, "Comparisons of ratings in different classes are dubious not only because of between-classes differences in the students but also because of differences in goals, teaching methods, content, and a myriad of other variables" ([McKeachie, 1997, p. 1222](https://doi.org/10.1037/0003-066X.52.11.1218)).
+- **No cross-comparisons.** Results should not be compared across instructors, courses, departments, or disciplines. This is so for the following two reasons:
+
+    First, student experience scores are confounded with variables unrelated to teaching effectiveness — including the instructor's gender, race, and age — and these biases are large enough to cause more effective instructors to receive lower scores than less effective ones ([Boring, Ottoboni, and Stark, 2016](https://www.scienceopen.com/hosted-document?doi=10.14293/S2199-1006.1.SOR-EDU.AETBZC.v1)). The bias cannot be corrected because it varies by discipline, by student gender, by survey item, and by other factors. This means that comparing Instructor A's scores to Instructor B's scores — even for the same course — does not reveal who taught more effectively. It reveals the combined effect of demographics, student biases, and nonresponse patterns.
+
+    Second, cross-comparisons are invalidated by differences in course characteristics that have nothing to do with teaching: class size, course level, whether the course is required or elective, and student preparation ([Stark and Freishtat, 2014, Recommendation 5](https://www.scienceopen.com/hosted-document?doi=10.14293/S2199-1006.1.SOR-EDU.AOFRQA.v1); [McKeachie, 1997, p. 1222](https://doi.org/10.1037/0003-066X.52.11.1218)).
+
+The following table illustrates the recommended reporting format. Each cell contains the raw count of respondents selecting that category. The table caption states both the number of respondents and the number of enrolled students, making the response rate immediately visible. No percentages, numerical averages, or information about other instructors or groups of instructors appear.
+
+```{r table-setup, include=FALSE}
+library(knitr)
+library(kableExtra)
+```
+
+```{r frequency-table, echo=FALSE}
+tbl <- data.frame(
+  Response = c("Strongly Agree", "Agree", "Neither Agree nor Disagree",
+               "Disagree", "Strongly Disagree"),
+  Q1 = c(6, 7, 4, 3, 2),
+  Q2 = c(6, 8, 3, 4, 1)
+)
+
+tbl %>%
+  kable(col.names = c("", "Question 1", "Question 2"),
+        align = c("l", "c", "c"),
+        caption = "Frequency distribution of responses (22 of 33 enrolled students responded)") %>%
+  kable_styling(bootstrap_options = c("condensed"),
+                full_width = FALSE,
+                font_size = 15) %>%
+  row_spec(0, bold = TRUE, color = "#333333") %>%
+  column_spec(1, width = "14em", color = "#333333") %>%
+  column_spec(2:3, width = "8em")
+```
+
+## Visualization Guidelines
+
+```{r viz-setup, include=FALSE}
+library(ggplot2)
+library(ggthemes)
+library(dplyr)
+
+enrolled   <- 33
+responded  <- 22
+
+resp_levels <- c("Strongly\nDisagree", "Disagree",
+                 "Neither Agree\nnor Disagree", "Agree",
+                 "Strongly\nAgree")
+
+resp_levels_clean <- c("Strongly Disagree", "Disagree",
+                       "Neither Agree nor Disagree", "Agree",
+                       "Strongly Agree")
+
+q1_counts <- c(2, 3, 4, 7, 6)
+q2_counts <- c(1, 4, 3, 8, 6)
+
+q1 <- data.frame(
+  response = factor(resp_levels, levels = resp_levels),
+  count    = q1_counts
+)
+
+q2 <- data.frame(
+  response = factor(resp_levels, levels = resp_levels),
+  count    = q2_counts
+)
+
+pal5 <- c("#C06060",   # Strongly Disagree
+          "#D4967A",   # Disagree
+          "#C8C0B0",   # Neither
+          "#7A9AB5",   # Agree
+          "#3F6D8E")   # Strongly Agree
+```
+
+The distribution of responses should also be displayed as a bar chart showing the count of respondents in each category. "The distribution is easy to convey using a bar chart" — and the chart should show counts, not percentages or averages ([Stark and Freishtat, 2014](https://www.scienceopen.com/hosted-document?doi=10.14293/S2199-1006.1.SOR-EDU.AOFRQA.v1)).
+
+### Bar chart for a single question
+
+For individual instructor reports, a simple vertical bar chart is the most transparent format. Each bar represents one response category; the vertical axis shows the count of respondents. The response rate appears as a subtitle.
+
+```{r bar-single, echo=FALSE, fig.width=5.5, fig.height=4, fig.align='center', dpi=150}
+ggplot(q1, aes(x = response, y = count)) +
+  geom_col(fill = "#3F6D8E", width = 0.6) +
+  geom_text(aes(label = count), vjust = -0.7,
+            size = 3.8, color = "#333333") +
+  scale_y_continuous(breaks = seq(0, max(q1$count) + 1, by = 2),
+                     limits = c(0, max(q1$count) + 1.5),
+                     expand = c(0, 0)) +
+  labs(title    = "Question 1",
+       subtitle = paste0(responded, " of ", enrolled, " enrolled students responded"),
+       x = NULL, y = NULL) +
+  theme_tufte(base_size = 13, base_family = "Palatino") +
+  theme(
+    plot.title    = element_text(size = 14, face = "bold", color = "#222222"),
+    plot.subtitle = element_text(size = 10, color = "#666666", margin = margin(b = 12)),
+    axis.ticks.x  = element_blank(),
+    axis.ticks.y  = element_line(color = "#CCCCCC", linewidth = 0.3),
+    axis.text.x   = element_text(size = 9, color = "#333333", lineheight = 0.9),
+    axis.text.y   = element_text(size = 9, color = "#999999"),
+    panel.grid    = element_blank(),
+    plot.margin   = margin(10, 15, 10, 10)
+  )
+```
+
+### Diverging stacked bar chart for comparing multiple questions
+
+When multiple survey items from an individual need to be compared at a glance, a diverging stacked bar chart is recommended. In this design, proposed by Heiberger and Robbins as "the primary graphical display technique for Likert scales," bars diverge from the neutral midpoint: agreement categories extend to the right, disagreement categories extend to the left, and the neutral category is split evenly across both sides ([Heiberger and Robbins, 2014](https://doi.org/10.18637/jss.v057.i05)). This layout makes the balance between agreement and disagreement immediately visible — the reader can judge the overall sentiment by comparing the visual mass on each side of the center line. Each segment is labeled with the raw count; zero-count categories are omitted.
+
+```{r diverging, echo=FALSE, fig.width=8, fig.height=3.2, fig.align='center', dpi=150}
+build_diverging <- function(counts, levels) {
+  n <- length(counts)
+  mid_idx <- 3
+  half_mid <- counts[mid_idx] / 2
+
+  xmin <- numeric(n)
+  xmax <- numeric(n)
+
+  # Right side: neutral right half, Agree, Strongly Agree
+  xmin[mid_idx] <- 0;    xmax[mid_idx] <- half_mid
+  xmin[4] <- half_mid;   xmax[4] <- half_mid + counts[4]
+  xmin[5] <- xmax[4];    xmax[5] <- xmax[4] + counts[5]
+
+  # Left side: neutral left half, Disagree, Strongly Disagree
+  xmin[mid_idx] <- -half_mid
+  xmax[2] <- -half_mid;          xmin[2] <- -half_mid - counts[2]
+  xmax[1] <- xmin[2];            xmin[1] <- xmin[2] - counts[1]
+
+  data.frame(
+    response = factor(levels, levels = levels),
+    count = counts,
+    xmin = xmin, xmax = xmax,
+    xmid = (xmin + xmax) / 2
+  )
+}
+
+seg1 <- build_diverging(q1_counts, resp_levels_clean) %>% mutate(question = "Question 1")
+seg2 <- build_diverging(q2_counts, resp_levels_clean) %>% mutate(question = "Question 2")
+segments <- bind_rows(seg1, seg2)
+
+ggplot(segments, aes(y = question)) +
+  geom_rect(aes(xmin = xmin, xmax = xmax,
+                ymin = as.numeric(factor(question)) - 0.28,
+                ymax = as.numeric(factor(question)) + 0.28,
+                fill = response),
+            color = "white", linewidth = 0.3) +
+  geom_text(data = filter(segments, count > 0),
+            aes(x = xmid, label = count,
+                y = as.numeric(factor(question))),
+            color = "white", fontface = "bold", size = 3.5) +
+  geom_vline(xintercept = 0, color = "#999999", linewidth = 0.3,
+             linetype = "dashed") +
+  scale_fill_manual(values = pal5, name = NULL,
+                    guide = guide_legend(nrow = 1)) +
+  scale_y_discrete(limits = c("Question 2", "Question 1")) +
+  scale_x_continuous(breaks = seq(-10, 15, by = 5),
+                     labels = abs(seq(-10, 15, by = 5))) +
+  labs(title    = "Student Learning Experience Survey",
+       subtitle = paste0(responded, " of ", enrolled,
+                         " enrolled students responded"),
+       x = "Number of respondents", y = NULL) +
+  theme_tufte(base_size = 13, base_family = "Palatino") +
+  theme(
+    plot.title       = element_text(size = 14, face = "bold", color = "#222222"),
+    plot.subtitle    = element_text(size = 10, color = "#666666",
+                                    margin = margin(b = 10)),
+    axis.text.y      = element_text(size = 11, color = "#333333"),
+    axis.text.x      = element_text(size = 9, color = "#999999"),
+    axis.title.x     = element_text(size = 9, color = "#999999",
+                                    margin = margin(t = 6)),
+    axis.ticks.y     = element_blank(),
+    axis.ticks.x     = element_line(color = "#CCCCCC", linewidth = 0.3),
+    legend.position  = "bottom",
+    legend.text      = element_text(size = 8.5, color = "#555555"),
+    legend.key.size  = unit(0.4, "cm"),
+    legend.spacing.x = unit(0.15, "cm"),
+    legend.margin    = margin(t = 2),
+    panel.grid       = element_blank(),
+    plot.margin      = margin(10, 15, 5, 10)
+  )
+```
