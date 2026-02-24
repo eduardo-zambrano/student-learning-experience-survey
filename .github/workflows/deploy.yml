@@ -36,7 +36,7 @@ jobs:
 
       - name: Install R packages
         run: |
-          Rscript -e 'install.packages(c("knitr", "kableExtra", "ggplot2", "ggthemes", "dplyr"), repos = "https://cloud.r-project.org")'
+          Rscript -e 'install.packages(c("knitr", "kableExtra", "ggplot2", "ggthemes", "dplyr"), repos = "https://packagemanager.posit.co/cran/__linux__/jammy/latest")'
 
       - uses: actions/setup-node@v4
         with:

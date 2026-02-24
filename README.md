@@ -1,33 +1,35 @@
-# SET Matters
+# The Student Learning Experience Survey
 
-Policy research and reform documentation for Student Evaluations of Teaching (SET) at Cal Poly. This is an unofficial document and a work in progress.
+**Rationale and Broad Principles of Design**
 
-## Purpose
+A proposal by the Sub-Committee of the Ad Hoc Committee on Student Perceptions of Teaching Effectiveness at Cal Poly.
 
-This repository contains materials supporting the review and reform of student evaluation processes, addressing documented biases in SET instruments and proposing evidence-based improvements.
+> *This draft is a preliminary unofficial and incomplete working document, subject to additions and revisions.*
 
-## Contents
+## About
 
-### 01_Proposed_Reforms/
-Core policy documents including:
-- Existing policy analysis
-- Reform recommendations
-- Resolution for faculty vote
-- FAQ responses
-- Presentation materials
+This repository contains the source for a proposal to reform student evaluations of teaching at Cal Poly's Orfalea College of Business. The proposal recommends:
 
-### 02_Key_References/
-Research literature and legal references:
-- Summaries of SET bias research
-- Gender bias in teaching evaluations
-- RFA v. Ryerson case materials (expert report and arbitrator order)
+1. **Renaming** the instrument from "Student Evaluation of Instruction/Faculty" to **Student Learning Experience Survey**
+2. **Centering** the survey on five dimensions of class climate that students are qualified to report on: Respect, Fairness, Participatory Climate, Approachability, and Inclusivity
+3. **Removing** the open-ended question from the summative component
+4. **Reporting** results as frequency distributions of ordered categorical responses — no numerical averages, no percentages, no cross-comparisons
 
-### 03_Training_Template/
-- Performance evaluation meeting agenda and training materials
+The proposal is grounded in the peer-reviewed literature on bias in student evaluations of teaching, including work by Stark, Boring, Ottoboni, Heiberger, and others.
 
-## Key Issues Addressed
+## Website
 
-- Validity and reliability concerns with student evaluations
-- Documented gender and other demographic biases in SET
-- Legal precedents regarding use of biased evaluation instruments
-- Alternative and supplementary evaluation methods
+The rendered document is published at:
+
+**https://eduardo-zambrano.github.io/student-learning-experience-survey/**
+
+## Building locally
+
+The document is a [Quarto Book](https://quarto.org/docs/books/). To render locally:
+
+```bash
+cd 05_New_Committee
+quarto render
+```
+
+This produces HTML and PDF output in `05_New_Committee/_book/`. Requires [Quarto](https://quarto.org/) and R with the following packages: `knitr`, `kableExtra`, `ggplot2`, `ggthemes`, `dplyr`.
