@@ -1,46 +1,4 @@
----
-title: "The Student Learning Experience Survey"
-subtitle: "Rationale and Broad Principles of Design"
-author: "Ad Hoc Committee on Student Perceptions of Teaching Effectiveness"
-date: today
-format:
-  pdf:
-    documentclass: article
-    papersize: letter
-    geometry:
-      - top=1in
-      - bottom=1in
-      - left=1.25in
-      - right=1.25in
-    fontsize: 11pt
-    mainfont: "Palatino"
-    sansfont: "Helvetica Neue"
-    linestretch: 1.15
-    number-sections: true
-    colorlinks: true
-    linkcolor: NavyBlue
-    urlcolor: NavyBlue
-    include-in-header:
-      text: |
-        \usepackage{xcolor}
-        \usepackage{titlesec}
-        \titleformat{\section}{\Large\bfseries\sffamily}{\thesection}{1em}{}
-        \titleformat{\subsection}{\large\bfseries\sffamily}{\thesubsection}{1em}{}
-        \titlespacing*{\section}{0pt}{1.5em}{0.75em}
-        \titlespacing*{\subsection}{0pt}{1.25em}{0.5em}
-  html:
-    toc: true
-    toc-depth: 3
-    theme: cosmo
-    number-sections: true
-    fontsize: 1.05em
-    linestretch: 1.4
-    mainfont: "Palatino, Georgia, serif"
----
-
-*Prepared with input from Jean Lee (Materials Engineering), Jett Palmer (ASI), Anelise Sabbag (Statistics), Patrick O'Sullivan (CTLT), Jermaine Washington (Architecture) and Eduardo Zambrano (Economics).*
-
-*This draft is a preliminary **unofficial** and incomplete working document, subject to additions and revisions. Everyone's input is welcome.*
+# The Proposal
 
 ## Introduction
 
@@ -147,7 +105,7 @@ The scoring and reporting methodology for the **Student Learning Experience Surv
 
 The **Student Learning Experience Survey** proposed here is a short, focused instrument grounded in the peer-reviewed literature and aligned with the UFPA's requirements. By renaming the instrument, centering it on the five dimensions of class climate that students are qualified to report on, and removing the open-ended question from the summative component, we can give students a meaningful voice in the evaluation of teaching while protecting both students and instructors from the well-documented biases of traditional teaching evaluations. This is an achievable reform — one that strengthens the integrity of the evaluation process and brings Cal Poly's practices in line with current best practices in higher education.
 
-This proposal will subsequently incorporate three companion documents addressing: (1) scoring, reporting and visualization guidelines for survey results; (2) a "manual for evaluators" on interpreting responses, including appropriate and inappropriate uses of the data; and (3) implementation details, including timing, administration, and best practices for maximizing response rates without bias.
+This proposal incorporates three companion documents addressing: (1) scoring, reporting and visualization guidelines for survey results; (2) a "manual for evaluators" on interpreting responses, including appropriate and inappropriate uses of the data; and (3) implementation details, including timing, administration, and best practices for maximizing response rates without bias.
 
 <!-- ## Candidate Survey Items {.unnumbered}
 

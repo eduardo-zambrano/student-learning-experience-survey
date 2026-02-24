@@ -1,6 +1,7 @@
 # Quarto rendered output
 *_files/
 *.html
+_book/
 
 # OS files
 .DS_Store
@@ -8,3 +9,10 @@
 
 # Quarto cache
 .quarto/
+
+# Local-only directories
+05_New_Committee/archive/
+05_New_Committee/references/
+
+# Node (StaticCrypt)
+node_modules/

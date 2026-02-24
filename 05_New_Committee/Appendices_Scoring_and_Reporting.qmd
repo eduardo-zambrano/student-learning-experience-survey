@@ -1,48 +1,4 @@
----
-title: "The Student Learning Experience Survey"
-subtitle: "Rationale and Broad Principles of Design"
-author: "Ad Hoc Committee on Student Perceptions of Teaching Effectiveness"
-date: today
-format:
-  pdf:
-    documentclass: article
-    papersize: letter
-    geometry:
-      - top=1in
-      - bottom=1in
-      - left=1.25in
-      - right=1.25in
-    fontsize: 11pt
-    mainfont: "Palatino"
-    sansfont: "Helvetica Neue"
-    linestretch: 1.15
-    number-sections: true
-    colorlinks: true
-    linkcolor: NavyBlue
-    urlcolor: NavyBlue
-    include-in-header:
-      text: |
-        \usepackage{xcolor}
-        \usepackage{titlesec}
-        \titleformat{\section}{\Large\bfseries\sffamily}{\thesection}{1em}{}
-        \titleformat{\subsection}{\large\bfseries\sffamily}{\thesubsection}{1em}{}
-        \titlespacing*{\section}{0pt}{1.5em}{0.75em}
-        \titlespacing*{\subsection}{0pt}{1.25em}{0.5em}
-  html:
-    toc: true
-    toc-depth: 3
-    theme: cosmo
-    number-sections: true
-    fontsize: 1.05em
-    linestretch: 1.4
-    mainfont: "Palatino, Georgia, serif"
----
-
-*Prepared with input from Jean Lee (Materials Engineering), Jett Palmer (ASI), Anelise Sabbag (Statistics), Patrick O'Sullivan (CTLT), Jermaine Washington (Architecture) and Eduardo Zambrano (Economics).*
-
-*This draft is a preliminary **unofficial** and incomplete working document, subject to additions and revisions. Everyone's input is welcome.*
-
-# Appendix A: Scoring and Reporting Guidelines
+# Appendix: Scoring and Reporting Guidelines
 
 ## Scoring Methodology
 
@@ -59,8 +15,6 @@ The following scoring approach applies to both the summative and formative porti
 - **Not quantitative.** The resulting data are not to be called "quantitative." They are ordered categorical data ([Stevens, 1946](https://doi.org/10.1126/science.103.2684.677); [Jamieson, 2004](https://doi.org/10.1111/j.1365-2929.2004.02012.x)).
 
 ## Reporting Guidelines
-
-The following reporting principles apply to both the summative and formative portions of the survey.
 
 - **Frequency distributions.** The fraction of students whose response falls in each category should be reported. The denominator of the fraction should be the total respondents, to assist proper interpretation of the data. If a summary is desired, the report can present ratios of counts: for example, how many out of the total respondents agree or strongly agree with a statement, and what fraction of those strongly agree. Frequency distributions should not be reported as percentages. With the class sizes typical of most courses, percentages create a misleading impression of precision: a single student's response can shift a percentage by several points, and the small denominator is hidden from the reader. Reporting counts — e.g., "7 out of 23 respondents" — keeps the sample size visible and discourages over-interpretation ([Lang and Secic, 2006, Ch. 1](https://books.google.com/books/about/How_to_Report_Statistics_in_Medicine.html?id=kBUBRh1AWG4C)).
 
