@@ -1,0 +1,71 @@
+---
+title: "The Student Learning Experience Survey"
+subtitle: "Rationale and Broad Principles of Design"
+author: "Ad Hoc Committee on Student Perceptions of Teaching Effectiveness"
+date: today
+format:
+  pdf:
+    documentclass: article
+    papersize: letter
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1.25in
+      - right=1.25in
+    fontsize: 11pt
+    mainfont: "Palatino"
+    sansfont: "Helvetica Neue"
+    linestretch: 1.15
+    number-sections: true
+    colorlinks: true
+    linkcolor: NavyBlue
+    urlcolor: NavyBlue
+    include-in-header:
+      text: |
+        \usepackage{xcolor}
+        \usepackage{titlesec}
+        \titleformat{\section}{\Large\bfseries\sffamily}{\thesection}{1em}{}
+        \titleformat{\subsection}{\large\bfseries\sffamily}{\thesubsection}{1em}{}
+        \titlespacing*{\section}{0pt}{1.5em}{0.75em}
+        \titlespacing*{\subsection}{0pt}{1.25em}{0.5em}
+  html:
+    toc: true
+    toc-depth: 3
+    theme: cosmo
+    number-sections: true
+    fontsize: 1.05em
+    linestretch: 1.4
+    mainfont: "Palatino, Georgia, serif"
+---
+
+*Prepared with input from Jean Lee (Materials Engineering), Jett Palmer (ASI), Anelise Sabbag (Statistics), Patrick O'Sullivan (CTLT), Jermaine Washington (Architecture) and Eduardo Zambrano (Economics).*
+
+*This draft is a preliminary **unofficial** and incomplete working document, subject to additions and revisions. Everyone's input is welcome.*
+
+# Appendix A: Scoring and Reporting Guidelines
+
+## Scoring Methodology
+
+The following scoring approach applies to both the summative and formative portions of the student survey.
+
+- **Five ordered categorical response options:** Strongly Agree, Agree, Neither Agree nor Disagree, Disagree, Strongly Disagree.
+
+- **A Not Applicable (N/A) option** is also available for each question.
+
+- **No numerical scoring.** The categorical responses are not assigned numerical values, as those values cannot be interpreted and their presence encourages misinterpretation. As Stark explains:
+
+    > "While it is common to replace the category names with numbers, for instance, using '1' to signify 'strongly disagree' and '5' to signify 'strongly agree,' the numbers themselves are not quantities, just new labels. They are codes that happen to be numerical. The actual magnitudes of the numbers do not mean anything. The labels are arbitrary. Averaging such numbers is meaningless as a matter of statistics. For the average to be meaningful, the difference between '1' and '2' would need to mean the same thing as the difference between '4' and '5.' A '1' would have to balance a '5' to be the equivalent of two '3's. But adding or subtracting labels from each other does not make sense, any more than it makes sense to add or average postal codes" ([Stark, 2016, ¶28–29](https://www.tfanet.ca/wp-content/uploads/2018/11/Stark_report.pdf)).
+
+- **Not quantitative.** The resulting data are not to be called "quantitative." They are ordered categorical data ([Stevens, 1946](https://doi.org/10.1126/science.103.2684.677); [Jamieson, 2004](https://doi.org/10.1111/j.1365-2929.2004.02012.x)).
+
+## Reporting Guidelines
+
+The following reporting principles apply to both the summative and formative portions of the survey.
+
+- **Frequency distributions.** The fraction of students whose response falls in each category should be reported. The denominator of the fraction should be the total respondents, to assist proper interpretation of the data. If a summary is desired, the report can present ratios of counts: for example, how many out of the total respondents agree or strongly agree with a statement, and what fraction of those strongly agree. Frequency distributions should not be reported as percentages. With the class sizes typical of most courses, percentages create a misleading impression of precision: a single student's response can shift a percentage by several points, and the small denominator is hidden from the reader. Reporting counts — e.g., "7 out of 23 respondents" — keeps the sample size visible and discourages over-interpretation ([Lang and Secic, 2006, Ch. 1](https://books.google.com/books/about/How_to_Report_Statistics_in_Medicine.html?id=kBUBRh1AWG4C)).
+
+- **Response rates.** Both the number of enrolled students and the number of respondents should be reported.
+
+- **No extrapolation.** Results should not be extrapolated from responders to nonresponders.
+
+- **No cross-comparisons.** Results should not be compared across course formats, levels, topics, or disciplines ([Stark and Freishtat, 2014, Recommendation 5](https://www.scienceopen.com/hosted-document?doi=10.14293/S2199-1006.1.SOR-EDU.AOFRQA.v1)). Cross-comparisons are invalid because survey responses are confounded by course characteristics that have nothing to do with teaching effectiveness: class size, course level, whether the course is required or elective, and student preparation. As McKeachie observes, "Comparisons of ratings in different classes are dubious not only because of between-classes differences in the students but also because of differences in goals, teaching methods, content, and a myriad of other variables" ([McKeachie, 1997, p. 1222](https://doi.org/10.1037/0003-066X.52.11.1218)).

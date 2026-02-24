@@ -1,0 +1,204 @@
+---
+title: "The Student Learning Experience Survey"
+subtitle: "Rationale and Broad Principles of Design"
+author: "Ad Hoc Committee on Student Perceptions of Teaching Effectiveness"
+date: today
+format:
+  pdf:
+    documentclass: article
+    papersize: letter
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1.25in
+      - right=1.25in
+    fontsize: 11pt
+    mainfont: "Palatino"
+    sansfont: "Helvetica Neue"
+    linestretch: 1.15
+    number-sections: true
+    colorlinks: true
+    linkcolor: NavyBlue
+    urlcolor: NavyBlue
+    include-in-header:
+      text: |
+        \usepackage{xcolor}
+        \usepackage{titlesec}
+        \titleformat{\section}{\Large\bfseries\sffamily}{\thesection}{1em}{}
+        \titleformat{\subsection}{\large\bfseries\sffamily}{\thesubsection}{1em}{}
+        \titlespacing*{\section}{0pt}{1.5em}{0.75em}
+        \titlespacing*{\subsection}{0pt}{1.25em}{0.5em}
+  html:
+    toc: true
+    toc-depth: 3
+    theme: cosmo
+    number-sections: true
+    fontsize: 1.05em
+    linestretch: 1.4
+    mainfont: "Palatino, Georgia, serif"
+---
+
+*Prepared with input from Jean Lee (Materials Engineering), Jett Palmer (ASI), Anelise Sabbag (Statistics), Patrick O'Sullivan (CTLT), Jermaine Washington (Architecture) and Eduardo Zambrano (Economics).*
+
+*This draft is a preliminary **unofficial** and incomplete working document, subject to additions and revisions. Everyone's input is welcome.*
+
+## Introduction
+
+This proposal has three parts.
+
+**First**, it recommends that the instrument known as the **Student Evaluation of Instruction** and **Student Evaluation of Faculty** in the University Faculty Personnel Policies^[In sections 3.2, 3.4, 7.2, 8.1 and 8.4.] be renamed as **Student Learning Experience Survey**.
+
+**Second**, it recommends that the dimensions of teaching effectiveness assessed through the **Student Learning Experience Survey** are the following:
+
+- [Respect](#respect)
+- [Fairness](#fairness)
+- [Participatory Climate](#participatory-climate)
+- [Approachability](#approachability)
+- [Inclusivity](#inclusivity)
+
+**Third**, it recommends that no open-ended question be included in the **Student Learning Experience Survey**.
+
+The rest of this document briefly provides the rationale for these recommendations.
+
+## Rationale for the name change
+
+The current names — **Student Evaluation of Instruction** and **Student Evaluation of Faculty** — mischaracterize what the instrument does and should do. The word "evaluation" implies that students are rendering a verdict on the quality of instruction or on the instructor. They are not. As detailed below, the instrument asks students to report on their own experiences in the classroom: whether they felt respected, treated fairly, comfortable participating, able to access help, and included. These are experiential reports, not evaluative judgments.
+
+This distinction is not merely semantic. The peer-reviewed literature on student evaluations of teaching establishes that items framed as evaluations of teaching effectiveness, course effectiveness, or instructor competence are particularly susceptible to bias — including bias linked to the instructor's gender, race, and accent — and are evidently misleading ([Boring, Ottoboni, and Stark, 2016](https://www.scienceopen.com/hosted-document?doi=10.14293/S2199-1006.1.SOR-EDU.AETBZC.v1)). By contrast, items that ask students to report on their own experience are less susceptible to these biases, precisely because they do not ask students to make judgments they are not qualified to make. The name of the instrument should reflect what it actually measures.
+
+Each word in the proposed name — **Student Learning Experience Survey** — is chosen deliberately:
+
+- **Student**: the respondent.
+- **Learning Experience**: what is being reported on. "Learning experience" scopes the instrument to the educational context without making the teaching or the instructor the object of assessment. It signals that the data concern the student's experience of learning — the process, not the outcome — rather than a judgment of instructional quality.
+- **Survey**: the instrument type. The word "survey" accurately describes what the instrument is — a data-collection tool — and replaces the evaluative framing of the current name.
+
+## Rationale for the dimensions chosen
+
+When determining which dimensions of teaching effectiveness should be included in the **Student Learning Experience Survey** the the committee used the following three criteria:
+
+1. **It carries a summative component.** The dimension is relevant to personnel decisions under the UFPA.
+2. **Students are qualified to assess it.** Reporting on the dimension does not require disciplinary or pedagogical expertise ([Palmer, 2026](https://docs.google.com/presentation/d/1Xd0rsImrPFJX4Zk-bKbEHzRWRj8fn1jMf9zmffYWN58/edit?slide=id.g106f77e0e56_0_6#slide=id.g106f77e0e56_0_6)).
+3. **Students can assess it with minimal bias.** The dimension concerns experiential reports rather than evaluative judgments that the literature identifies as particularly susceptible to bias.
+
+The committee identified five dimensions, each capturing a distinct facet of the student's experience in the classroom. These are described below.
+
+### Respect
+
+**What it captures:** Dignity and courtesy in how the instructor interacts with students — tone, responsiveness to contributions, and regard for students as persons.
+
+::: {.callout-tip collapse="true" title="How Respect differs from the other dimensions"}
+An instructor can be *fair* (same rules for everyone) yet dismissive in manner. A class can be *participatory* (questions welcomed) without the instructor treating responses respectfully. Respect is about the quality of interpersonal treatment, not access (Approachability), voice (Participatory Climate), equity of standards (Fairness), or belonging (Inclusivity).
+:::
+
+### Fairness
+
+**What it captures:** Equitable treatment and consistent application of standards — no favoritism, no differential enforcement of expectations.
+
+::: {.callout-tip collapse="true" title="How Fairness differs from the other dimensions"}
+An instructor can be *respectful* in tone while playing favorites. A class can feel *inclusive* in atmosphere while grading or attention is unevenly distributed. Fairness is about equity across students, not the character of interaction (Respect), the openness of the environment (Participatory Climate), access outside class (Approachability), or sense of belonging (Inclusivity).
+:::
+
+### Participatory Climate
+
+**What it captures:** Whether the classroom environment supports active engagement — asking questions, sharing ideas, and making mistakes without penalty.
+
+::: {.callout-tip collapse="true" title="How Participatory Climate differs from the other dimensions"}
+A class can be participatory in structure while individual students still don't feel they *belong* (Inclusivity). The instructor can be *respectful* in replies without the environment actually encouraging participation. Participatory Climate is about the conditions for engagement in class, not the quality of treatment (Respect), equity of standards (Fairness), out-of-class access (Approachability), or belonging (Inclusivity).
+:::
+
+### Approachability
+
+**What it captures:** Perceived accessibility of the instructor for help outside of class — office hours, email, after-class conversations.
+
+::: {.callout-tip collapse="true" title="How Approachability differs from the other dimensions"}
+An instructor can be approachable one-on-one but create a poor in-class climate (Participatory Climate). A student may find the instructor easy to reach but, once there, feel dismissed (Respect) or treated inequitably (Fairness). Approachability is about access, not the quality of what happens during access or in the classroom.
+:::
+
+### Inclusivity
+
+**What it captures:** Whether students feel they belong in the class — that the environment is welcoming to them and not just to some subset of students.
+
+::: {.callout-tip collapse="true" title="How Inclusivity differs from the other dimensions"}
+A student can be treated *respectfully* and *fairly* without feeling they belong. A class can be *participatory* (questions encouraged, ideas welcomed) while a student still feels like an outsider — because of whose experiences are centered, who dominates discussion, or what the implicit culture of the class signals. Inclusivity is about belonging in the group, not individual treatment (Respect, Fairness), conditions for engagement (Participatory Climate), or one-on-one access (Approachability).
+:::
+
+## Rationale for the removal of the open-ended question
+
+The design of the **Student Learning Experience Survey** rests on a principle: ask students only about things they are qualified to report on, in a form that minimizes bias. The five Likert-scale items above are carefully worded to elicit experiential reports — structured statements about what the student felt — rather than open-ended evaluative judgments. An open-ended question undoes this by design.
+
+::: {.callout-warning collapse="true" title="Open-ended comments reintroduce exactly the biases the instrument is built to exclude"}
+When given an unstructured prompt, students are free to comment on anything — teaching effectiveness, grading leniency, course organization, the instructor's appearance, accent, or personality — all topics the literature identifies as particularly susceptible to bias ([Boring, Ottoboni, and Stark, 2016](https://www.scienceopen.com/hosted-document?doi=10.14293/S2199-1006.1.SOR-EDU.AETBZC.v1)). The structured Likert items constrain responses to experiential reports about class climate; an open-ended field removes that constraint entirely.
+:::
+
+::: {.callout-warning collapse="true" title="The research on open-ended comments is clear"}
+In a controlled experiment where identical online courses were taught under male and female instructor names, students commented on women's appearance and personality far more often than men's ([Mitchell and Martin, 2018](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/gender-bias-in-student-evaluations/1224BE475C0AE75A2C2D8553210C4E27)). An analysis of over 14 million reviews found that male professors were described as "brilliant" or "genius" two to three times more often than female professors across every field studied ([Storage et al., 2016](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0150194)). A survey of 674 academics found that the highest volume, most derogatory, and most threatening abuse in student evaluations is directed at women and academics from marginalized groups — leading the authors to conclude that anonymous comments in student evaluations must be removed if institutions wish to be inclusive ([Heffernan, 2023](https://link.springer.com/article/10.1007/s10734-022-00831-x)). Open-ended fields are where the most explicitly biased content in student evaluations appears — precisely because they lack the guardrails that carefully constructed items provide.
+:::
+
+::: {.callout-warning collapse="true" title="Open-ended comments resist the reporting standards this proposal establishes"}
+The scoring and reporting methodology for the **Student Learning Experience Survey** that this Committee recommends — frequency distributions, no numerical averages, no cross-comparisons — is designed to prevent misinterpretation and misuse of the data. Open-ended comments cannot be reported as frequency distributions, cannot be standardized, and invite selective quotation by evaluators. A single vivid comment, whether positive or negative, can disproportionately influence a reader in ways that a frequency distribution of structured responses does not ([Boysen et al., 2014](https://www.researchgate.net/publication/263094848_The_misinterpretation_of_teaching_evaluations_by_college_faculty_and_administrators); [Linse, 2017](https://www.sciencedirect.com/science/article/pii/S0191491X16300232)).
+:::
+
+**This does not mean students should have no voice beyond the five items.** It means that unstructured feedback belongs in the formative component of the evaluation of teaching — a separate, developmental process designed exclusively to help the instructor grow as an educator ([Centra, 1993](https://eric.ed.gov/?id=ED363233); [Berk, 2005](https://www.isetl.org/ijtlhe/pdf/IJTLHE8.pdf)). Best practices are that formative results are shared only with the instructor and are not used for employment decisions ([Benton and Young, 2018](https://eric.ed.gov/?id=ED588352); [Stark and Freishtat, 2014](https://www.stat.berkeley.edu/~stark/Preprints/evaluations14.pdf)). In this context, open-ended questions can serve their intended purpose without the risk of biased comments influencing personnel decisions.
+
+\newpage
+
+
+## In sum
+
+The **Student Learning Experience Survey** proposed here is a short, focused instrument grounded in the peer-reviewed literature and aligned with the UFPA's requirements. By renaming the instrument, centering it on the five dimensions of class climate that students are qualified to report on, and removing the open-ended question from the summative component, we can give students a meaningful voice in the evaluation of teaching while protecting both students and instructors from the well-documented biases of traditional teaching evaluations. This is an achievable reform — one that strengthens the integrity of the evaluation process and brings Cal Poly's practices in line with current best practices in higher education.
+
+This proposal will subsequently incorporate three companion documents addressing: (1) scoring, reporting and visualization guidelines for survey results; (2) a "manual for evaluators" on interpreting responses, including appropriate and inappropriate uses of the data; and (3) implementation details, including timing, administration, and best practices for maximizing response rates without bias.
+
+<!-- ## Candidate Survey Items {.unnumbered}
+
+All items use a five-point ordered categorical scale (Strongly Agree, Agree, Neither Agree nor Disagree, Disagree, Strongly Disagree) plus a Not Applicable option. The committee selects one item per subdimension.
+
+### Respect
+
+::: {.callout-note collapse="true" title="Candidate items"}
+a. "I felt the instructor treated students with respect."
+
+b. "I felt the instructor responded to students' questions and ideas respectfully."
+
+c. "I felt the instructor valued students' contributions."
+:::
+
+### Fairness
+
+::: {.callout-note collapse="true" title="Candidate items"}
+a. "I felt the instructor treated all students fairly."
+
+b. "I felt there was no favoritism in how the instructor treated students."
+
+c. "I felt the instructor applied expectations and policies consistently."
+:::
+
+### Participatory Climate
+
+::: {.callout-note collapse="true" title="Candidate items"}
+a. "I felt comfortable participating in class (asking questions, sharing ideas, or making mistakes)."
+
+b. "I felt the classroom environment encouraged students to ask questions and share ideas."
+
+c. "I felt comfortable expressing my thoughts during class without fear of judgment."
+:::
+
+### Approachability
+
+::: {.callout-note collapse="true" title="Candidate items"}
+a. "I felt the instructor was approachable if I needed help (in office hours, after class, or by email)."
+
+b. "I felt comfortable reaching out to the instructor for help outside of class."
+
+c. "I felt the instructor was available and willing to help when I needed assistance."
+:::
+
+### Inclusivity
+
+::: {.callout-note collapse="true" title="Candidate items"}
+a. "I felt included in this class."
+
+b. "I felt the classroom environment was welcoming to all students."
+
+c. "I felt I belonged in this class."
+::: -->

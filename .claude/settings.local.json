@@ -1,0 +1,38 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git init:*)",
+      "WebFetch(domain:eduardo-zambrano.github.io)",
+      "WebFetch(domain:quarto.org)",
+      "WebFetch(domain:www.canlii.org)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nInitial commit: SET presentation for Ad Hoc Committee\n\nQuarto RevealJS presentation on Student Evaluations of Teaching:\n- Problems with SETs \\(validity, reliability, bias\\)\n- Cal Poly UFPA policy analysis\n- Proposed OCOB resolution and evaluation system\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(gh repo create:*)",
+      "Bash(ls:*)",
+      "Bash(git commit:*)",
+      "Bash(git push)",
+      "Bash(git mv:*)",
+      "WebFetch(domain:academic-senate.berkeley.edu)",
+      "Bash(file:*)",
+      "Bash(pdftotext:*)",
+      "Bash(python3:*)",
+      "Bash(cat:*)",
+      "Bash(pandoc:*)",
+      "Bash(open:*)",
+      "WebSearch",
+      "WebFetch(domain:pmc.ncbi.nlm.nih.gov)",
+      "WebFetch(domain:eric.ed.gov)",
+      "WebFetch(domain:www.gvsu.edu)",
+      "WebFetch(domain:ideacontent.blob.core.windows.net)",
+      "WebFetch(domain:www.asanet.org)",
+      "WebFetch(domain:senate.universityofcalifornia.edu)",
+      "WebFetch(domain:www.isetl.org)",
+      "WebFetch(domain:www.stat.berkeley.edu)",
+      "WebFetch(domain:jphe.amegroups.org)",
+      "WebFetch(domain:www.tomlangcommunications.com)",
+      "WebFetch(domain:www.scienceopen.com)",
+      "WebFetch(domain:www.tfanet.ca)",
+      "Bash(quarto render:*)"
+    ]
+  }
+}

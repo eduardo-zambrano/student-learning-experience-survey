@@ -1,0 +1,306 @@
+---
+title: "Student Evaluations of Teaching"
+subtitle: "Problems, Policy, and Proposed Reform"
+author: "Eduardo Zambrano"
+institute: "Economics Area, Orfalea College of Business, Cal Poly"
+format:
+  revealjs:
+    theme: default
+    slide-number: true
+    scrollable: true
+    smaller: true
+    transition: slide
+    footer: "Ad Hoc Committee on Student Perceptions of Teaching Effectiveness"
+    logo: ""
+    css: styles.css
+---
+
+# The Problem with SETs {background-color="#2c3e50"}
+
+## What Does the Research Say?
+
+Student Evaluations of Teaching (SETs) have been found to be:
+
+- **Invalid** as measures of teaching effectiveness
+- **Unreliable** across different contexts
+- **Biased** against women and minorities
+
+
+## What Does the Research Say?
+
+
+> "There is a large literature on SET. The best evidence about the connection between SET and other variables comes from experiments that assign students at random to sections of courses, in a manner similar to clinical trials. By comparing student performance and SET across sections, one can establish the extent to which SET measure the effectiveness of instruction, or are influenced by other factors, such as the gender of the instructor. Such experiments, along with other large, multi-section studies, generally find weak or negative association between SET and instructor effectiveness, measured by performance on uniformly graded final exams or performance in follow-on courses (Carrell and West, 2010; Boring et al., 2016; Braga et al., 2014; Johnson, 2003, especially Ch.5; MacNell et al., 2015; Uttl et al., 2016). **The best evidence suggests that SET are neither reliable nor valid, even when the survey response rate is nearly perfect.**"
+>
+> — Philip B. Stark, [Expert Report](https://www.tfanet.ca/wp-content/uploads/2018/11/Stark_report.pdf), ss 18-19
+
+## Gender Bias: The Evidence {.smaller}
+
+### Mengel, Sauermann & Zölitz (2019) — *Journal of the European Economic Association*
+
+- 19,952 student evaluations with **random assignment** to instructors
+- Women receive **systematically lower** evaluations despite:
+  - No difference in student grades
+  - No difference in self-study hours
+- Bias **driven by male students**
+- **Larger** for mathematical courses
+- **Particularly pronounced** for junior women
+
+## Gender Bias: The Evidence {.smaller}
+
+### Boring (2017) — *Journal of Public Economics*
+
+French university study with random assignment:
+
+- Male students give **significantly higher ratings to male professors**
+- Students perform **equally well on final exams** regardless of instructor gender
+- No difference in actual teaching effectiveness
+
+. . .
+
+> "Differences in teaching skills are not driving gender differences in evaluations... promotion and hiring in universities may be biased against women."
+
+## The "What's in a Name" Experiment {.smaller}
+
+### MacNell, Driscoll & Hunt (2015) — *Innovative Higher Education*
+
+Online experiment where instructors operated under **two different gender identities**:
+
+| Metric | Perceived Male | Perceived Female |
+|--------|---------------|------------------|
+| Promptness (posting grades after 2 days) | 4.35/5 | 3.55/5 |
+| Fairness rating | +0.75 points higher | baseline |
+
+. . .
+
+> "The same instructor, grading under two different identities, was given lower ratings half the time with the only difference being the perceived gender."
+
+## SETs Do Not Measure Teaching Effectiveness {.smaller}
+
+### Boring, Ottoboni & Stark (2016) — *Science Open*
+
+Key findings:
+
+1. SETs are **biased against female instructors** — large and statistically significant
+2. Bias varies by **discipline** and **student gender**
+3. **Impossible to adjust** for bias — too many factors
+4. SETs more sensitive to **gender bias and grade expectations** than teaching effectiveness
+5. Gender bias can cause **more effective instructors to get lower SETs**
+
+. . .
+
+> "The onus should be on universities that rely on SET for employment decisions to provide convincing affirmative evidence that such reliance does not have disparate impact on women, underrepresented minorities, or other protected groups."
+
+## Age and Gender Stereotypes {.smaller}
+
+### Arbuckle & Williams (2003) — *Sex Roles*
+
+Experiment: 352 students watched **identical** lecture by gender-neutral stick figure
+
+Students rated the **"young" male professor higher** than:
+
+- "Young" female professors
+- "Old" male professors
+- "Old" female professors
+
+...on speaking enthusiastically and using meaningful voice tone — **regardless of identical presentation**.
+
+## The Ryerson University Arbitration (2018) {.smaller}
+
+<!-- An arbitrator ordered Ryerson University to **amend its faculty collective bargaining agreement** to ensure SETs are **not used to measure teaching effectiveness** for promotion or tenure. -->
+
+. . .
+
+### Key Findings from the Arbitrator:
+
+> "While SETs are easy to administer and have an air of objectivity, appearances are somewhat deceiving... upon careful examination, serious and inherent limitations in SETs become apparent."
+
+## Arbitrator's Findings on Bias {.smaller}
+
+> "According to the evidence, which was largely uncontested... numerous factors, especially personal characteristics – and this is just a partial list – such as **race, gender, accent, age and 'attractiveness'** skew SET results. It is **almost impossible to adjust for bias** and stereotypes."
+
+## Arbitrator's Findings on Averages {.smaller}
+
+> "The evidence is clear, cogent and compelling that **averages establish nothing relevant or useful** about teaching effectiveness. Averages are blunt, easily distorted (by bias) and inordinately affected by outlier/extreme responses."
+
+## Arbitrator's Conclusion {.smaller}
+
+> "Insofar as assessing teaching effectiveness is concerned – especially in the context of tenure and promotion – **SETs are imperfect at best and downright biased and unreliable at worst.**"
+
+. . .
+
+The arbitrator ordered Ryerson University to **amend its faculty collective bargaining agreement** to ensure SETs are **not used to measure teaching effectiveness** for promotion or tenure. 
+
+
+[Read the full decision: Ryerson University v. RFA (2018 CanLII 58446)](https://www.canlii.org/en/on/onla/doc/2018/2018canlii58446/2018canlii58446.html){target="_blank"}
+
+# Cal Poly Policy {background-color="#2c3e50"}
+
+## UFPA Section 7.2.5: Teaching Performance {.smaller}
+
+> **7.2.5.1.** In formulating recommendations for the retention, promotion, and tenure of teaching faculty, evaluators will place **primary emphasis on success in instruction**.
+
+. . .
+
+> **7.2.5.2.** Evaluators shall consider such factors as the applicant's **competence in the discipline**, ability to communicate ideas effectively, versatility and appropriateness of teaching techniques, organization of courses, relevance of instruction to course objectives, methods of evaluating student achievement, **relationship with students in class**, effectiveness of student advising, and other factors relating to performance as an instructor.
+
+## UFPA Section 7.2.5: Teaching Performance {.smaller}
+
+> **7.2.5.3.** In their personnel policy documents **colleges shall specify how these factors enter into the evaluation of teaching**. Colleges and departments may include additional factors in their personnel policies.
+
+. . .
+
+> **7.2.5.4.** Evaluators shall consider **results of the formal student evaluation** in formulating recommendations based on teaching performance.
+
+## The Situation at Cal Poly
+
+The UFPA:
+
+- Identifies **10 factors** for evaluating teaching
+- Requires consideration of SETs
+- But provides **no guidance** on:
+  - How to determine sufficiency/proficiency/excellence
+  - How SETs should be weighted
+  - How to account for documented bias
+
+. . .
+
+**Result:** Evaluations become **overly reliant on SETs** in practice.
+
+# The Proposed Resolution {background-color="#2c3e50"}
+
+## OCOB Resolution on Evaluation of Teaching Performance
+
+The following document presents:
+
+1. The **Resolution** for faculty vote
+2. The **Task Force Report**: "A System for the Evaluation of Teaching Effectiveness"
+3. **Appendix A**: The Summary Instrument
+4. **Appendix B**: The Checklist Instrument
+
+## The Resolution and Report {.scrollable}
+
+<iframe src="https://www.dropbox.com/scl/fi/8nzn1nwpf03s3zj0iw4rf/02_Resolution_and_SET_Report_Updated_for_Vote.pdf?rlkey=4xva1dgtir44d7kfzf3smffag&raw=1" width="100%" height="600px" style="border: none;">
+</iframe>
+
+[Open PDF in new tab](https://www.dropbox.com/scl/fi/8nzn1nwpf03s3zj0iw4rf/02_Resolution_and_SET_Report_Updated_for_Vote.pdf?rlkey=4xva1dgtir44d7kfzf3smffag&dl=0){target="_blank"}
+
+## Section I: Rationale
+
+The UFPA establishes **10 factors** that define effective teaching performance.
+
+The AP 109 - DPRC form is where these are documented:
+
+![AP 109 - DPRC Faculty Evaluation Form](images/ap109_form_highlighted.png){width="70%"}
+
+## Section II: The Summary Instrument
+
+We summarize performance in each factor using a clear classification:
+
+:::{.columns}
+:::{.column width="50%"}
+![AP 109 - DPRC Form](images/ap109_form_highlighted.png){width="100%"}
+:::
+:::{.column width="50%"}
+![Summary Instrument - Appendix A](images/summary_instrument_highlighted.png){width="100%"}
+:::
+:::
+
+## The Summary Instrument {.smaller}
+
+:::{.columns}
+:::{.column width="50%"}
+![Summary Instrument](images/summary_instrument_highlighted.png){width="100%"}
+:::
+:::{.column width="50%"}
+### 
+
+Evaluate each of the **10 UFPA factors** using:
+
+- Far exceeds standards
+- Exceeds standards
+- Meets standards
+- Does not meet standards
+
+With **evidence of merit** and **suggestions for improvement** for each factor.
+:::
+:::
+
+## Section III: The Checklist Instrument
+
+The Checklist provides standards for teaching performance evaluations through class observation and course content review.
+
+![Teaching Performance Factors Checklist](images/checklist_matrix.png){width="95%"}
+
+## The Checklist Instrument {.smaller}
+
+:::{.columns}
+:::{.column width="60%"}
+![Checklist Matrix](images/checklist_matrix.png){width="100%"}
+:::
+:::{.column width="40%"}
+###
+
+Provides **clear standards** for each teaching factor:
+
+| Level | Description |
+|-------|-------------|
+| Below standards | Contrary to best practices/policies |
+| Meets standards | Sufficient for RPT |
+| Exceeds standards | Above the bar |
+| Far exceeds standards | Exceptional |
+
+Used for both **formative feedback** and **evaluative documentation**.
+:::
+:::
+
+## Section IV: Guidelines for Using SETs
+
+For Factor 8 (Relationship with students in class), use only items **2.13** and **2.14**:
+
+![SET Questions - Items 2.13 and 2.14](images/set_questions_highlighted.png){width="60%"}
+
+## Key Elements: Using SETs Appropriately {.smaller}
+
+### Section IV Recommendations
+
+For **"Relationship with students in class"** (Factor 8):
+
+- Report **fraction** of students who agree/disagree (not averages)
+- Use items 2.13 and 2.14 only
+- **Do not compare** to other instructors' averages
+
+. . .
+
+> "This is an insidious practice that makes it impossible for an instructor with 'very good' numbers to be positively recognized in an area composed of instructors with 'excellent' numbers."
+
+## Summary {.smaller}
+
+1. **SETs are problematic**: Invalid, unreliable, and biased
+2. **Legal precedent exists**: Ryerson arbitration ruling
+3. **Cal Poly policy requires action**: Colleges must specify how factors are evaluated
+4. **The proposed system**:
+   - Evaluates all 10 UFPA factors explicitly
+   - Provides clear standards via Checklist Instrument
+   - Uses SETs appropriately
+   - Focuses on peer review and teaching dossiers
+   - Is 100\% compatible with Cal Poly's UFPA, and the MOU
+
+## Questions?
+
+Thank you for your attention.
+
+. . .
+
+### Resources
+
+- [Gender Bias Literature Summary](https://eduardo-zambrano.github.io/documents/SET/Appendix.pdf)
+- [Ryerson Arbitration Decision](https://www.canlii.org/en/on/onla/doc/2018/2018canlii58446/2018canlii58446.html)
+- [Full Resolution and Report](../01_Proposed_Reforms/02_Resolution_and_SET_Report_Updated_for_Vote.pdf)
+- [Responses to FAQ](https://www.dropbox.com/scl/fi/i08o5ujxbwliwppg4d49y/03_Responses_to_FAQ.pdf?rlkey=7tzxjf7kqfwb2zhkdk5tizv9p&dl=0)
+
+## Responses to FAQ {.scrollable}
+
+<iframe src="https://www.dropbox.com/scl/fi/i08o5ujxbwliwppg4d49y/03_Responses_to_FAQ.pdf?rlkey=7tzxjf7kqfwb2zhkdk5tizv9p&raw=1" width="100%" height="600px" style="border: none;">
+</iframe>
+
+[Open PDF in new tab](https://www.dropbox.com/scl/fi/i08o5ujxbwliwppg4d49y/03_Responses_to_FAQ.pdf?rlkey=7tzxjf7kqfwb2zhkdk5tizv9p&dl=0){target="_blank"}

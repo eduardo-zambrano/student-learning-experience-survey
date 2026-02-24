@@ -1,0 +1,10 @@
+# Quarto rendered output
+*_files/
+*.html
+
+# OS files
+.DS_Store
+~$*
+
+# Quarto cache
+.quarto/
