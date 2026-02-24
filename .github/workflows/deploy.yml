@@ -24,15 +24,24 @@ jobs:
       - uses: actions/checkout@v4
 
       - uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          tinytex: true
 
       - uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      - name: Render Quarto Book (HTML only)
+      - name: Install TeX Gyre fonts for PDF
+        run: |
+          tlmgr install tex-gyre
+          cp ~/texmf/texmf-dist/fonts/opentype/public/tex-gyre/*.otf ~/.fonts/ 2>/dev/null \
+            || mkdir -p ~/.fonts && find ~/texmf -name 'texgyre*.otf' -exec cp {} ~/.fonts/ \;
+          fc-cache -f
+
+      - name: Render Quarto Book
         run: |
           cd 05_New_Committee
-          quarto render --to html
+          quarto render
 
       - name: Encrypt HTML with StaticCrypt
         run: |

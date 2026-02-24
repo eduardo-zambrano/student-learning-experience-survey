@@ -30,8 +30,8 @@ format:
       - left=1.25in
       - right=1.25in
     fontsize: 11pt
-    mainfont: "Palatino"
-    sansfont: "Helvetica Neue"
+    mainfont: "TeX Gyre Pagella"
+    sansfont: "TeX Gyre Heros"
     linestretch: 1.15
     number-sections: true
     colorlinks: true
