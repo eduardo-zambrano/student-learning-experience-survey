@@ -1,8 +1,0 @@
-# Quarto cache
-/.quarto/
-
-# OS files
-.DS_Store
-
-# Backup files
-*_backup.png
