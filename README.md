@@ -8,14 +8,16 @@ A proposal by the Sub-Committee of the Ad Hoc Committee on Student Perceptions o
 
 ## About
 
-This repository contains the source for a proposal to reform student evaluations of teaching at Cal Poly's Orfalea College of Business. The proposal recommends:
+This repository contains the source for a proposal to reform student evaluations of teaching at Cal Poly. The current university-wide evaluation questions were established by [AS-759-13](https://digitalcommons.calpoly.edu/senateresolutions/761/) (2013). In 2025, ASI [Resolution #25-04](https://www.asi.calpoly.edu/wp-content/uploads/2025/05/Resolution-25-04_Resolution-on-Course-Evaluations.pdf) called for reform, and the Academic Senate established [an Ad Hoc Committee](https://content-calpoly-edu.s3.amazonaws.com/academicsenate/1/images/Ad%20Hoc%20Committee%20on%20Teaching%20Effectiveness.pdf) charged with providing a revised policy and resolution to replace AS-759-13.
+
+The proposal recommends:
 
 1. **Renaming** the instrument from "Student Evaluation of Instruction/Faculty" to **Student Learning Experience Survey**
-2. **Centering** the survey on five dimensions of class climate that students are qualified to report on: Respect, Fairness, Participatory Climate, Approachability, and Inclusivity
-3. **Removing** the open-ended question from the summative component
+2. **Centering** the survey on five aspects of class climate — Respect, Fairness, Participatory Climate, Approachability, and Inclusivity — grounded in the TEval framework (Austin et al., 2025) and the broader literature on classroom climate
+3. **Discontinuing** the open-ended question
 4. **Reporting** results as frequency distributions of ordered categorical responses — no numerical averages, no percentages, no cross-comparisons
 
-The proposal is grounded in the peer-reviewed literature on bias in student evaluations of teaching, including work by Stark, Boring, Ottoboni, Heiberger, and others.
+The proposal is grounded in the peer-reviewed literature on bias in student evaluations of teaching, including work by Stark, Boring, Ottoboni, Austin, Heiberger, and others.
 
 ## Website
 
