@@ -6,7 +6,7 @@ This proposal has three parts.
 
 **First**, it recommends that the instrument known as the **Student Evaluation of Instruction** and **Student Evaluation of Faculty** in the University Faculty Personnel Policies^[In sections 3.2, 3.4, 7.2, 8.1 and 8.4.] be renamed as **Student Learning Experience Survey**.
 
-**Second**, it recommends that the dimensions of teaching effectiveness assessed through the **Student Learning Experience Survey** are the following:
+**Second**, it recommends that the aspects of teaching effectiveness assessed through the **Student Learning Experience Survey** are the following:
 
 - [Respect](#respect)
 - [Fairness](#fairness)
@@ -30,21 +30,47 @@ Each word in the proposed name — **Student Learning Experience Survey** — is
 - **Learning Experience**: what is being reported on. "Learning experience" scopes the instrument to the educational context without making the teaching or the instructor the object of assessment. It signals that the data concern the student's experience of learning — the process, not the outcome — rather than a judgment of instructional quality.
 - **Survey**: the instrument type. The word "survey" accurately describes what the instrument is — a data-collection tool — and replaces the evaluative framing of the current name.
 
-## Rationale for the dimensions chosen
+## Rationale for the aspects of teaching effectiveness chosen to be included in the survey
 
-When determining which dimensions of teaching effectiveness should be included in the **Student Learning Experience Survey**, the committee used the following three criteria. This approach is consistent with the broader movement toward multidimensional evaluation of teaching, which recognizes that student surveys should focus on dimensions students are qualified to assess, as part of a comprehensive evaluation system ([TEval Project, 2025](https://teval.net/); [Austin et al., 2025](https://hep.gse.harvard.edu/9798895570159/transforming-college-teaching-evaluation/)).
+When determining which aspects of teaching effectiveness should be included in the **Student Learning Experience Survey**, the committee used the following three criteria. This approach is consistent with the broader movement toward multidimensional evaluation of teaching, which recognizes that student surveys should focus on dimensions students are qualified to assess, as part of a comprehensive evaluation system ([TEval Project, 2025](https://teval.net/); [Austin et al., 2025](https://hep.gse.harvard.edu/9798895570159/transforming-college-teaching-evaluation/)).
 
 1. **It carries a summative component.** The dimension is relevant to personnel decisions under the UFPA.
 2. **Students are qualified to assess it.** Reporting on the dimension does not require disciplinary or pedagogical expertise ([Palmer, 2026](https://docs.google.com/presentation/d/1Xd0rsImrPFJX4Zk-bKbEHzRWRj8fn1jMf9zmffYWN58/edit?slide=id.g106f77e0e56_0_6#slide=id.g106f77e0e56_0_6); [Stark, 2016](https://www.tfanet.ca/wp-content/uploads/2018/11/Stark_report.pdf)).
 3. **Students can assess it with minimal bias.** The dimension concerns experiential reports rather than evaluative judgments that the literature identifies as particularly susceptible to bias.
 
-The committee identified five dimensions, each capturing a distinct facet of the student's experience in the classroom. These are described below.
+A useful starting point for applying these criteria is the TEval framework developed by Austin et al. ([2025](https://hep.gse.harvard.edu/9798895570159/transforming-college-teaching-evaluation/)), an NSF-funded initiative that draws on twenty-five years of scholarly work on teaching evaluation. The framework identifies seven dimensions of teaching for evaluation, each accompanied by guiding questions that articulate what the dimension captures. Together, the seven dimensions provide a comprehensive definition of high-quality educational practice.
+
+::: {.callout-note collapse="true" title="The seven dimensions of the TEval framework (Austin et al., 2025)"}
+
+**Guiding questions for each dimension of the framework**
+
+**Dimension 1: Goals, Content, and Alignment.** What are students expected to learn from the courses taught? Are learning goals clearly articulated in a way that is accessible to all students? Are course goals appropriate for the course as part of the larger curriculum and for the audience for which it is intended? Are topics appropriately challenging and related to current issues in the field? Are the materials high-quality and aligned with course goals? Does the content represent diverse perspectives? Are assessments aligned with course goals?
+
+**Dimension 2: Teaching Practices.** How is in-class and out-of-class time used? Are assignments, assessments, and learning activities designed to help all students learn? What effective or high-impact methods are used to improve understanding and engage all students in learning? Do in- and out-of-class activities provide opportunities for practice and feedback on important skills and concepts? Are forms of assessment varied to allow for the success of diverse learners?
+
+**Dimension 3: Class Climate.** To what extent is the class climate respectful, supportive, and cooperative? Does it encourage motivation and engagement for all students? Do all students feel included? How are student-student and student-instructor dialogue fostered? What are the students' views of their learning experiences? How has the instructor sought student feedback, and how has feedback informed the instructor's teaching?
+
+**Dimension 4: Achievement of Learning Outcomes.** Does the instructor clearly communicate the learning goals for the course? What evidence is used to determine the degree to which students achieve the defined course goals? How well are course assignments, assessments, and learning activities aligned with the defined learning goals? Are there efforts to ensure that all students have equitable opportunities to achieve the learning goals? Are standards for evaluating learning clear and connected to program, curriculum, or professional expectations? Does the quality of learning support success in other contexts?
+
+**Dimension 5: Reflection and Iterative Growth.** How and why has the instructor's teaching changed over time? How have changes been informed by evidence of student learning and student feedback? How has peer feedback been incorporated as changes in the instructor's teaching over time? How have the instructor's goals for their courses and students changed over time?
+
+**Dimension 6: Mentoring and Advising.** How effectively has the instructor worked individually with undergraduate or graduate students? Does the instructor establish clear, individualized, and responsive expectations for student and mentor? Does the instructor provide constructive and timely coaching and feedback? How does the quality of and time commitment to mentoring fit with disciplinary and departmental expectations?
+
+**Dimension 7: Involvement in Teaching Service, Scholarship, or Community.** How has the instructor contributed to the broader teaching community, both on and off campus? Areas of contribution can include the learning culture in the department or institution (e.g., curriculum committees, program assessment, cocurricular activities); engaging with peers on or off campus in teaching communities, workshops, peer reviews, or similar activities; educational leadership activities (e.g., leading teaching workshops, presentations or publications about teaching, grants related to teaching).
+
+:::
+
+When the seven dimensions are assessed against the three criteria above, one dimension stands out as the natural focus of the student survey: **Dimension 3 — Class Climate**. Class climate carries a summative component: the UFPA requires evidence of the instructor's effectiveness in creating a productive learning environment, and how students experience the classroom is directly relevant to that requirement. Students are qualified to assess it: reporting on whether the classroom felt respectful, supportive, and inclusive does not require disciplinary or pedagogical expertise — it requires only that students reflect on their own experience. And students can assess it with minimal bias: items about class climate elicit experiential reports ("I felt respected," "I felt included") rather than the evaluative judgments about teaching effectiveness or instructor competence that the literature identifies as particularly susceptible to bias.
+
+The remaining six dimensions, by contrast, do not meet all three criteria. Dimensions 1, 2, and 4 — concerning course goals, teaching methods, and achievement of learning outcomes — require disciplinary or pedagogical expertise that students do not possess, and items targeting these dimensions are among those most susceptible to bias ([Stark, 2016](https://www.tfanet.ca/wp-content/uploads/2018/11/Stark_report.pdf); [Boring, Ottoboni, and Stark, 2016](https://www.scienceopen.com/hosted-document?doi=10.14293/S2199-1006.1.SOR-EDU.AETBZC.v1)). Dimensions 5, 6, and 7 — reflection and growth, mentoring, and service — concern activities that students in a single course generally cannot observe or are not positioned to evaluate.
+
+Having identified class climate as the appropriate focus, the committee then asked: *how can class climate be assessed comprehensively, with aspects that are conceptually distinct and collectively exhaustive?* The guiding questions for Dimension 3 in the TEval framework point toward the answer. They ask whether the climate is *respectful*, *supportive*, and *cooperative*; whether it encourages *motivation and engagement*; whether all students feel *included*; and how *dialogue* is fostered. Drawing on these guiding questions — and on the broader literature on classroom climate ([Moos, 1979](https://psycnet.apa.org/record/1980-70076-000); [Fraser, Treagust, and Dennis, 1986](https://doi.org/10.1080/03075078612331378451); [Fraser, 1998](https://doi.org/10.1023/A:1009932514731); [Lizzio, Wilson, and Simons, 2002](https://doi.org/10.1080/03075070120099359); [Frisby and Martin, 2010](https://doi.org/10.1080/03634520903564362); [Ambrose et al., 2010](https://www.wiley.com/en-us/How+Learning+Works-p-9780470484104); [Hurtado et al., 2012](https://doi.org/10.1007/978-94-007-2950-6_2); [Hagenauer and Volet, 2014](https://doi.org/10.1080/03054985.2014.921613)) — the committee identified five aspects, each capturing a distinct facet of the student's experience in the classroom. These are described below.
 
 ### Respect
 
 **What it captures:** Dignity and courtesy in how the instructor interacts with students — tone, responsiveness to contributions, and regard for students as persons.
 
-::: {.callout-tip collapse="true" title="How Respect differs from the other dimensions"}
+::: {.callout-tip collapse="true" title="How Respect differs from the other aspects"}
 An instructor can be *fair* (same rules for everyone) yet dismissive in manner. A class can be *participatory* (questions welcomed) without the instructor treating responses respectfully. Respect is about the quality of interpersonal treatment, not access (Approachability), voice (Participatory Climate), equity of standards (Fairness), or belonging (Inclusivity).
 :::
 
@@ -52,7 +78,7 @@ An instructor can be *fair* (same rules for everyone) yet dismissive in manner. 
 
 **What it captures:** Equitable treatment and consistent application of standards — no favoritism, no differential enforcement of expectations.
 
-::: {.callout-tip collapse="true" title="How Fairness differs from the other dimensions"}
+::: {.callout-tip collapse="true" title="How Fairness differs from the other aspects"}
 An instructor can be *respectful* in tone while playing favorites. A class can feel *inclusive* in atmosphere while grading or attention is unevenly distributed. Fairness is about equity across students, not the character of interaction (Respect), the openness of the environment (Participatory Climate), access outside class (Approachability), or sense of belonging (Inclusivity).
 :::
 
@@ -60,7 +86,7 @@ An instructor can be *respectful* in tone while playing favorites. A class can f
 
 **What it captures:** Whether the classroom environment supports active engagement — asking questions, sharing ideas, and making mistakes without penalty.
 
-::: {.callout-tip collapse="true" title="How Participatory Climate differs from the other dimensions"}
+::: {.callout-tip collapse="true" title="How Participatory Climate differs from the other aspects"}
 A class can be participatory in structure while individual students still don't feel they *belong* (Inclusivity). The instructor can be *respectful* in replies without the environment actually encouraging participation. Participatory Climate is about the conditions for engagement in class, not the quality of treatment (Respect), equity of standards (Fairness), out-of-class access (Approachability), or belonging (Inclusivity).
 :::
 
@@ -68,7 +94,7 @@ A class can be participatory in structure while individual students still don't 
 
 **What it captures:** Perceived accessibility of the instructor for help outside of class — office hours, email, after-class conversations.
 
-::: {.callout-tip collapse="true" title="How Approachability differs from the other dimensions"}
+::: {.callout-tip collapse="true" title="How Approachability differs from the other aspects"}
 An instructor can be approachable one-on-one but create a poor in-class climate (Participatory Climate). A student may find the instructor easy to reach but, once there, feel dismissed (Respect) or treated inequitably (Fairness). Approachability is about access, not the quality of what happens during access or in the classroom.
 :::
 
@@ -76,7 +102,7 @@ An instructor can be approachable one-on-one but create a poor in-class climate 
 
 **What it captures:** Whether students feel they belong in the class — that the environment is welcoming to them and not just to some subset of students.
 
-::: {.callout-tip collapse="true" title="How Inclusivity differs from the other dimensions"}
+::: {.callout-tip collapse="true" title="How Inclusivity differs from the other aspects"}
 A student can be treated *respectfully* and *fairly* without feeling they belong. A class can be *participatory* (questions encouraged, ideas welcomed) while a student still feels like an outsider — because of whose experiences are centered, who dominates discussion, or what the implicit culture of the class signals. Inclusivity is about belonging in the group, not individual treatment (Respect, Fairness), conditions for engagement (Participatory Climate), or one-on-one access (Approachability).
 :::
 
@@ -84,15 +110,15 @@ A student can be treated *respectfully* and *fairly* without feeling they belong
 
 The design of the **Student Learning Experience Survey** rests on a principle: ask students only about things they are qualified to report on, in a form that minimizes bias. The five Likert-scale items above are carefully worded to elicit experiential reports — structured statements about what the student felt — rather than open-ended evaluative judgments. An open-ended question undoes this by design.
 
-::: {.callout-warning collapse="true" title="Open-ended comments reintroduce exactly the biases the instrument is built to exclude"}
+::: {.callout-warning collapse="false" title="Open-ended comments reintroduce exactly the biases the instrument is built to exclude"}
 When given an unstructured prompt, students are free to comment on anything — teaching effectiveness, grading leniency, course organization, the instructor's appearance, accent, or personality — all topics the literature identifies as particularly susceptible to bias ([Boring, Ottoboni, and Stark, 2016](https://www.scienceopen.com/hosted-document?doi=10.14293/S2199-1006.1.SOR-EDU.AETBZC.v1)). The structured Likert items constrain responses to experiential reports about class climate; an open-ended field removes that constraint entirely.
 :::
 
-::: {.callout-warning collapse="true" title="The research on open-ended comments is clear"}
+::: {.callout-warning collapse="false" title="The research on open-ended comments is clear"}
 In a controlled experiment where identical online courses were taught under male and female instructor names, students commented on women's appearance and personality far more often than men's ([Mitchell and Martin, 2018](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/gender-bias-in-student-evaluations/1224BE475C0AE75A2C2D8553210C4E27)). An analysis of over 14 million reviews found that male professors were described as "brilliant" or "genius" two to three times more often than female professors across every field studied ([Storage et al., 2016](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0150194)). A survey of 674 academics found that the highest volume, most derogatory, and most threatening abuse in student evaluations is directed at women and academics from marginalized groups — leading the authors to conclude that anonymous comments in student evaluations must be removed if institutions wish to be inclusive ([Heffernan, 2023](https://link.springer.com/article/10.1007/s10734-022-00831-x)). Open-ended fields are where the most explicitly biased content in student evaluations appears — precisely because they lack the guardrails that carefully constructed items provide.
 :::
 
-::: {.callout-warning collapse="true" title="Open-ended comments resist the reporting standards this proposal establishes"}
+::: {.callout-warning collapse="false" title="Open-ended comments resist the reporting standards this proposal establishes"}
 The scoring and reporting methodology for the **Student Learning Experience Survey** that this Committee recommends — frequency distributions, no numerical averages, no cross-comparisons — is designed to prevent misinterpretation and misuse of the data. Open-ended comments cannot be reported as frequency distributions, cannot be standardized, and invite selective quotation by evaluators. A single vivid comment, whether positive or negative, can disproportionately influence a reader in ways that a frequency distribution of structured responses does not ([Boysen et al., 2014](https://www.researchgate.net/publication/263094848_The_misinterpretation_of_teaching_evaluations_by_college_faculty_and_administrators); [Linse, 2017](https://www.sciencedirect.com/science/article/pii/S0191491X16300232)).
 :::
 
@@ -103,7 +129,7 @@ The scoring and reporting methodology for the **Student Learning Experience Surv
 
 ## In sum
 
-The **Student Learning Experience Survey** proposed here is a short, focused instrument grounded in the peer-reviewed literature and aligned with the UFPA's requirements. By renaming the instrument, centering it on the five dimensions of class climate that students are qualified to report on, and removing the open-ended question from the summative component, we can give students a meaningful voice in the evaluation of teaching while protecting both students and instructors from the well-documented biases of traditional teaching evaluations. This is an achievable reform — one that strengthens the integrity of the evaluation process and brings Cal Poly's practices in line with a growing movement across higher education toward multidimensional, evidence-based evaluation of teaching ([McCreary, 2026](https://engagedlearningcollective.substack.com/p/a-practical-guide-to-modern-teaching-evaluation)).
+The **Student Learning Experience Survey** proposed here is a short, focused instrument grounded in the peer-reviewed literature and aligned with the UFPA's requirements. By renaming the instrument, centering it on the five aspects of class climate that students are qualified to report on, and removing the open-ended question from the summative component, we can give students a meaningful voice in the evaluation of teaching while protecting both students and instructors from the well-documented biases of traditional teaching evaluations. This is an achievable reform — one that strengthens the integrity of the evaluation process and brings Cal Poly's practices in line with a growing movement across higher education toward multidimensional, evidence-based evaluation of teaching ([McCreary, 2026](https://engagedlearningcollective.substack.com/p/a-practical-guide-to-modern-teaching-evaluation)).
 
 This proposal incorporates three companion documents addressing: (1) scoring, reporting and visualization guidelines for survey results; (2) a "manual for evaluators" on interpreting responses, including appropriate and inappropriate uses of the data; and (3) implementation details, including timing, administration, and best practices for maximizing response rates without bias.
 
