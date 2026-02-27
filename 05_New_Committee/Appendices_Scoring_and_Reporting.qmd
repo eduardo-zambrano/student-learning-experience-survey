@@ -2,7 +2,9 @@
 
 ## Scoring Methodology
 
-The following scoring approach applies to both the summative and formative portions of the student survey.
+The following scoring approach applies to all items in the **Student Learning Experience Survey.**      
+
+- **Ordered categorical data.**  The responses are ordered categorical: the categories have a natural ranking but the distances between them are undefined. They are not interval-scale measurements ([Stevens, 1946](https://doi.org/10.1126/science.103.2684.677); [Jamieson, 2004](https://doi.org/10.1111/j.1365-2929.2004.02012.x)). The instrument uses a structured fixed-response format — what the Collective Bargaining Agreement terms "Scantron form, etc." ([CBA §15.17](https://www.calfac.org/contract-2022-2025/#article-15)), and the resulting survey data constitute student course evaluations under that provision.
 
 - **Five ordered categorical response options:** Strongly Agree, Agree, Neither Agree nor Disagree, Disagree, Strongly Disagree.
 
@@ -12,7 +14,6 @@ The following scoring approach applies to both the summative and formative porti
 
     > "While it is common to replace the category names with numbers, for instance, using '1' to signify 'strongly disagree' and '5' to signify 'strongly agree,' the numbers themselves are not quantities, just new labels. They are codes that happen to be numerical. The actual magnitudes of the numbers do not mean anything. The labels are arbitrary. Averaging such numbers is meaningless as a matter of statistics. For the average to be meaningful, the difference between '1' and '2' would need to mean the same thing as the difference between '4' and '5.' A '1' would have to balance a '5' to be the equivalent of two '3's. But adding or subtracting labels from each other does not make sense, any more than it makes sense to add or average postal codes" ([Stark, 2016, ¶28–29](https://www.tfanet.ca/wp-content/uploads/2018/11/Stark_report.pdf)).
 
-- **Not quantitative.** The resulting data are not to be called "quantitative." They are ordered categorical data ([Stevens, 1946](https://doi.org/10.1126/science.103.2684.677); [Jamieson, 2004](https://doi.org/10.1111/j.1365-2929.2004.02012.x)).
 
 ## Reporting Guidelines
 
