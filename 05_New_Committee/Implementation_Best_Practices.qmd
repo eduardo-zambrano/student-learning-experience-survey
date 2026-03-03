@@ -1,6 +1,6 @@
 # Appendix: Implementation Best Practices
 
-The preceding chapters define *what* the **Student Learning Experience Survey** (SLES) measures — five aspects of class climate that students are qualified to report on — and *how* its results should be scored and reported. This companion chapter addresses a third question: *how should the instrument be administered?*
+The preceding chapters define *what* the **Student Learning Experience Survey** (SLES) measures — five aspects of their experience in the classroom that students are qualified to report on — and *how* its results should be scored and reported. This companion chapter addresses a third question: *how should the instrument be administered?*
 
 Cal Poly's transition to semesters — from 10-week quarters to 15-week terms — is a once-in-a-generation opportunity to design the administration of this instrument from scratch rather than inheriting the practices of a system it replaces. The recommendations below draw on the peer-reviewed literature and on the published practices of peer institutions to propose a concrete implementation model for the SLES.
 
