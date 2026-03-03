@@ -1,0 +1,426 @@
+---
+title: "Implementation Practices for Student Course Evaluations"
+subtitle: "A Research Inventory"
+author: "Background document prepared for the Sub-Committee of the Ad Hoc Committee on Student Perceptions of Teaching Effectiveness"
+date: today
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    fontsize: 1.05em
+    linestretch: 1.4
+    mainfont: "Palatino, Georgia, serif"
+  pdf:
+    documentclass: article
+    papersize: letter
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1.25in
+      - right=1.25in
+    fontsize: 11pt
+    mainfont: "TeX Gyre Pagella"
+    sansfont: "TeX Gyre Heros"
+    linestretch: 1.15
+    number-sections: true
+    colorlinks: true
+    linkcolor: NavyBlue
+    urlcolor: NavyBlue
+---
+
+# Introduction
+
+This document provides a comprehensive, dimension-by-dimension inventory of implementation practices for end-of-term student course evaluations at research universities and peer institutions. It is organized by implementation dimension and is intended as a neutral reference — cataloging the evidence and institutional variation without advocating a particular model.
+
+The inventory draws on the peer-reviewed literature, published institutional policies, and reports from survey administration platforms. It is a background document that supports but does not duplicate the recommendations in the companion *Implementation Best Practices* chapter of the Student Learning Experience Survey proposal.
+
+
+# Timing of Administration
+
+## End-of-Term Administration
+
+The near-universal practice at U.S. research universities is to administer summative course evaluations during the final weeks of instruction, before final examinations begin. The rationale is well established: administering evaluations before students receive final grades avoids contaminating responses with grade-related anxiety or gratitude, which the literature identifies as a source of bias ([Centra, 2003](https://doi.org/10.1002/ir.10601); [Marsh, 2007](https://doi.org/10.1007/978-1-4020-5742-3_9)).
+
+The specific timing varies:
+
+- **Last 1–2 weeks of classes** is the most common window. Multiple reviews identify this as the consensus recommendation ([Berk, 2013](https://doi.org/10.14434/josotl.v13i4.3609); [Linse, 2017](https://doi.org/10.1016/j.stueduc.2016.02.004)).
+- Evaluations administered **too early** (e.g., week 10 of a 15-week term) miss late-semester developments in course quality and student experience.
+- Evaluations administered **during or after finals** conflate the evaluation with the stress and outcome of the final examination period.
+
+## Mid-Semester Formative Feedback
+
+A distinct practice — not to be confused with end-of-term summative evaluation — is the use of mid-semester formative feedback. This is addressed separately in @sec-formative-models below.
+
+
+# Administration Window Duration {#sec-window}
+
+The administration window refers to the number of days during which the evaluation is open for student responses. Institutional practices vary:
+
+| Institution | Window Duration | Notes |
+|---|---|---|
+| San José State University | ~10 days | Last 2 weeks of classes; minimum 10 calendar days ([SJSU Teaching Evaluation](https://www.sjsu.edu/teachingeval/)) |
+| San Diego State University | ~14 days | Two-week window before finals ([SDSU Student Feedback](https://my.sdsu.edu/faculty/faq)) |
+| UC Davis | ~7 days | Last week of each quarter ([UC Davis ACE](https://eval.ucdavis.edu/Home/About)) |
+| UC Santa Barbara | ~10 days | Week 9 Monday through Week 10 Friday ([UCSB Course Evaluations](https://course-evals.ucsb.edu/instructors/)) |
+| UC San Diego | ~6 days | Week 9 Monday through Week 10 Saturday 8 AM ([UCSD SET](https://set.ucsd.edu/)) |
+
+**Trade-offs:**
+
+- **Shorter windows** (5–7 days) create urgency that can boost response rates but may disadvantage students who are absent or have limited access during the window.
+- **Longer windows** (10–14 days) provide more opportunity for completion but may reduce urgency. The University of Michigan's 14-day model has achieved consistently high response rates, suggesting that window length can be offset by effective reminder strategies.
+- The evidence does not identify a single optimal duration. Most institutions settle on **7–14 days**, with the most common range being **10–14 days**.
+
+
+# Mode of Administration {#sec-mode}
+
+## In-Class Paper Administration (Traditional)
+
+The traditional mode — paper forms distributed during class time — consistently produces the highest response rates, typically in the range of **80–90%** ([Berk, 2013](https://doi.org/10.14434/josotl.v13i4.3609); [Nulty, 2008](https://doi.org/10.1080/02602930801956059)). The instructor typically leaves the room while a designated student collects completed forms. However, this mode has significant drawbacks:
+
+- Requires physical logistics (printing, distribution, collection, data entry)
+- Not scalable for large-enrollment courses
+- Limits response length for written comments
+- Increasingly inconsistent with the digital infrastructure of modern universities
+
+Most major research universities have transitioned entirely to online administration.
+
+## Online Outside-Class Administration
+
+Online evaluations completed outside of class time are now the dominant mode at U.S. research universities. Response rates are consistently lower than in-class paper administration, typically in the range of **30–60%**, though some institutions report higher rates with aggressive reminder strategies ([Nulty, 2008](https://doi.org/10.1080/02602930801956059); [Berk, 2013](https://doi.org/10.14434/josotl.v13i4.3609)).
+
+Advantages of online outside-class administration include:
+
+- Convenience for students (complete anywhere, anytime during the window)
+- Higher-quality written responses: students write more and with greater specificity when not constrained by time and physical format ([Linse, 2017](https://doi.org/10.1016/j.stueduc.2016.02.004))
+- Easier data management and reporting
+- Lower administrative cost
+
+The primary disadvantage is the reduction in response rates and the resulting increase in non-response bias (see @sec-nonresponse).
+
+## Hybrid: In-Class Time for Online Completion
+
+A growing number of institutions recommend a hybrid approach: dedicating class time for students to complete the evaluation online on their own devices. This combines the response-rate advantage of in-class administration with the logistical efficiency of online surveys.
+
+Key features of the hybrid model:
+
+- The instructor allocates 10–15 minutes of class time during the evaluation period
+- The instructor provides the survey link (URL or QR code) and then **leaves the room** or moves to a position where they cannot see individual screens
+- A designated student or TA confirms completion and signals the instructor to return
+- Students who are absent complete the evaluation outside of class during the remaining window
+
+Studies report that this approach produces response rates of **70–80%**, comparable to paper in-class administration ([Berk, 2013](https://doi.org/10.14434/josotl.v13i4.3609); [Chapman and Joines, 2017](https://doi.org/10.1007/s10755-017-9394-0)). The University of Oregon and Indiana University are among institutions that explicitly recommend this model in their administration guidelines.
+
+
+# Mid-Semester Formative Feedback Models {#sec-formative-models}
+
+Mid-semester formative feedback is a distinct practice from end-of-term summative evaluation. Formative feedback is developmental: results are typically shared only with the instructor and are not used for personnel decisions. Several established models exist.
+
+## Classroom Assessment Techniques (CATs)
+
+Developed by Angelo and Cross ([1993](https://eric.ed.gov/?id=ED317097)), Classroom Assessment Techniques are brief, usually anonymous, in-class activities designed to give instructors rapid feedback on student learning and experience. Examples include:
+
+- **Minute Paper**: Students write for one minute on "What was the most important thing you learned today?" and "What question remains unanswered?"
+- **Muddiest Point**: Students identify the concept they found most confusing
+- **One-Sentence Summary**: Students summarize a topic in a single sentence
+
+CATs are informal, require no institutional infrastructure, and can be administered at any point in the term.
+
+## Small Group Instructional Diagnosis (SGID)
+
+The SGID method, developed at the University of Washington and widely adopted, involves a trained facilitator meeting with small groups of students during class time, *without the instructor present*, to gather structured feedback on what is helping and hindering their learning. The facilitator synthesizes the feedback and meets with the instructor privately to discuss themes and possible adjustments ([Clark and Redmond, 1982](https://eric.ed.gov/?id=ED217954); [Diamond, 2004](https://doi.org/10.7551/mitpress/2799.001.0001)).
+
+Key features:
+
+- Facilitated by a peer (another instructor) or a teaching center professional
+- Instructor is not present during the student session
+- Feedback is consolidated and anonymized before being shared with the instructor
+- Typically administered around weeks 4–6 of a 15-week semester
+
+Institutions with active SGID programs include the University of Washington, Indiana University (CITL), UCLA, and the University of Massachusetts Amherst.
+
+## Oregon Mid-Semester Experience Survey (M-SES)
+
+The University of Oregon operates a two-survey model: a formative **Midway Student Experience Survey (M-SES)** and a summative **End-of-term Student Experience Survey (E-SES)**. The M-SES is administered during week 4 of the 10-week quarter (approximately weeks 6–7 of a 15-week semester equivalent) and asks students about their learning experience to date. Instructors are encouraged to provide 10 minutes of class time for completion. Results are available only to the instructor ([University of Oregon TEP](https://teaching.uoregon.edu/student-experience-survey/about)).
+
+Key features:
+
+- Institutionally administered (not ad hoc)
+- Results are shared only with the instructor
+- Not used for personnel decisions
+- Provides early-warning data that instructors can act on before the end-of-term evaluation
+
+## MIT Mud Cards
+
+MIT's Teaching + Learning Lab uses "Mud Cards" — a lightweight formative technique where students identify confusing material on index cards during class. This is a variant of the CAT approach, requiring no institutional infrastructure.
+
+## Harvard VPAL Early Feedback
+
+Harvard's Vice Provost for Advances in Learning (VPAL) office recommends early-semester feedback collection, typically in weeks 3–5, using brief anonymous surveys. The emphasis is on actionable feedback that instructors can respond to in real time ([Harvard Bok Center](https://bokcenter.harvard.edu/getting-feedback-from-your-students)).
+
+
+# Response Rates {#sec-response-rates}
+
+## Why Response Rates Matter
+
+Response rates determine whether the evaluation sample is representative of the enrolled population. Low response rates increase the risk that the respondent pool is systematically different from non-respondents — a problem known as non-response bias (see @sec-nonresponse).
+
+## Thresholds
+
+There is no universally agreed-upon minimum response rate, but the following benchmarks appear in the literature and in institutional practice:
+
+- **70%** is widely cited as a reasonable target for representative sampling in course evaluations ([Nulty, 2008](https://doi.org/10.1080/02602930801956059)).
+- Explorance, a major course evaluation platform provider, recommends a **70% response rate** as the threshold below which results should be interpreted with caution ([Explorance, 2023](https://explorance.com/blog/improving-course-evaluation-response-rates/)).
+- Some institutions use lower thresholds (50–60%) for reporting purposes but flag low-response sections for cautious interpretation.
+
+## Typical Response Rates by Mode
+
+| Mode | Typical Response Rate | Source |
+|---|---|---|
+| In-class paper | 80–90% | Nulty (2008); Berk (2013) |
+| Online outside-class | 30–60% | Nulty (2008); Berk (2013) |
+| Hybrid (in-class online) | 70–80% | Chapman and Joines (2017) |
+
+## Strategies for Maximizing Response Rates
+
+The literature identifies the following strategies, roughly ranked by effectiveness:
+
+1. **Dedicate class time for completion.** This is consistently identified as the single most effective strategy for achieving high response rates ([Berk, 2013](https://doi.org/10.14434/josotl.v13i4.3609); [Chapman and Joines, 2017](https://doi.org/10.1007/s10755-017-9394-0)).
+
+2. **Multiple automated reminders.** Studies report that sending 3–4 reminders at 2–3 day intervals can increase response rates by 10–20 percentage points. Adams and Umbach ([2012](https://doi.org/10.1007/s10755-011-9190-4)) found that four reminders brought response rates to approximately the 70th percentile of course-level response rates.
+
+3. **LMS integration.** Embedding the evaluation link within the learning management system (e.g., Canvas dashboard pop-ups) reduces the friction of locating and accessing the survey. Several institutions report improved response rates after LMS integration.
+
+4. **Instructor communication.** When instructors explain to students why the evaluation matters and how the data are used — particularly if done early in the term (e.g., Day 1 syllabus mention) — response rates increase modestly. The mechanism is legitimacy: students are more likely to participate when they believe their feedback will be read and acted upon ([Chen and Hoshower, 2003](https://doi.org/10.1080/0260293032000158163)).
+
+5. **Class-level incentives.** Offering a modest incentive contingent on class-level response rates (e.g., "If 80% of the class completes the evaluation, one bonus point will be added to the final exam") has been shown to increase response rates by approximately 22 percentage points ([Goodman, Anson, and Belcheir, 2015](https://eric.ed.gov/?id=EJ1305085)). Individual incentives (e.g., entry into a prize drawing) are less effective and raise concerns about coercion.
+
+6. **Early and repeated communication about anonymity.** Students who are uncertain about the confidentiality of their responses are less likely to participate and, when they do, may censor their feedback. Clear, repeated assurances about anonymity — ideally reinforced by the evaluation platform's visible privacy features — can improve both response rates and response candor.
+
+
+# Self-Selection and Non-Response Bias {#sec-nonresponse}
+
+## The Problem
+
+When response rates are low, the students who choose to respond may differ systematically from those who do not. This is self-selection bias, and it threatens the validity of the evaluation data.
+
+## Evidence
+
+- **Springer (2015)** found that online course evaluation respondents differed from non-respondents in academic achievement, course satisfaction, and motivation. Non-respondents tended to be students with lower grades and less engagement with the course ([Springer, 2015](https://doi.org/10.1177/1521025114560131)).
+
+- **Springer (2016)** extended this analysis and found that the direction of self-selection bias varied by course context: in some courses, dissatisfied students were overrepresented among respondents; in others, satisfied students predominated. The inconsistency means that the bias cannot be predicted or corrected post hoc ([Springer, 2016](https://eric.ed.gov/?id=EJ1136018)).
+
+- **Holtgraves and colleagues (2023)** found that non-respondents to online course evaluations were not a random subset of enrolled students; they differed on multiple characteristics including attendance patterns, academic performance, and attitudes toward the course. The authors concluded that low response rates produce **systematically non-representative samples** that cannot be corrected by statistical adjustment ([Holtgraves et al., 2023](https://doi.org/10.3389/fpsyg.2023.1138886)).
+
+## Implications
+
+- Response rates should be reported alongside evaluation results so that evaluators can judge the representativeness of the data.
+- Results from sections with low response rates (below 50–60%) should be flagged or interpreted with explicit caution.
+- No statistical correction method can reliably remove non-response bias from course evaluation data, because the mechanism of selection is unknown and varies across contexts.
+
+
+# Framing and Bias Mitigation {#sec-framing}
+
+## The Problem
+
+Student evaluations of teaching are susceptible to biases related to the instructor's gender, race, accent, and other characteristics unrelated to teaching quality. The design of the evaluation — including the instructions presented to students — can either exacerbate or mitigate these biases.
+
+## Normative vs. Informational Framing
+
+A critical distinction has emerged in the literature between two types of anti-bias framing statements:
+
+- **Normative framing**: Generic appeals to fairness, such as "Please be fair and unbiased in your responses." These have been shown to have **no significant effect** on evaluation outcomes.
+
+- **Informational framing**: Pairing a warning with institution-specific data about documented biases — for example, showing students that previous cohorts at the same institution had given different ratings to male and female instructors. This approach significantly reduced the gender bias, raising ratings of female instructors without affecting ratings of male instructors, with the effect driven primarily by changes in male students' evaluations of female instructors ([Boring and Philippe, 2021](https://doi.org/10.1016/j.jpubeco.2020.104323)).
+
+## Key Studies
+
+### Boring and Philippe (2021)
+
+In a large-scale field experiment at Sciences Po, a selective French university, Boring and Philippe randomly assigned students to one of three conditions:
+
+1. **Control**: No framing statement
+2. **Normative**: A warning asking students not to discriminate
+3. **Informational**: The warning paired with institution-specific evidence of prior gender bias in evaluations at the same university
+
+Results:
+
+- The normative warning alone had no effect compared to the control
+- The informational treatment significantly reduced the gender bias, raising ratings of female instructors without affecting ratings of male instructors
+- The effect was driven by male students increasing their ratings of female instructors
+- Female students' ratings were not significantly affected by either treatment
+- The key implication: anti-bias framing must include concrete, local evidence to be effective
+
+### Mitchem et al. (2025)
+
+A replication study published in *CBE—Life Sciences Education* tested anti-bias framing interventions across a biology department at Northern Illinois University over three semesters ([Mitchem et al., 2025](https://doi.org/10.1187/cbe.24-07-0193)). Results were mixed:
+
+- The anti-bias treatment **inconsistently** affected evaluations — sometimes improving women's scores but often having no effect
+- Qualitative analysis showed the types of comments students provided were mostly unaffected by the treatment
+- A separate intervention — asking students to reflect on their own criteria for effective teaching — also had no effect on biases
+- The authors concluded that simple text-based interventions may not reliably mitigate bias when replicated across different institutional contexts
+
+### Implications for Preamble Design
+
+The evidence suggests that:
+
+1. Generic "be fair" appeals are ineffective and should not be used
+2. Informational framing — presenting students with concrete data about documented biases — can reduce bias, particularly among male students evaluating female instructors
+3. The effectiveness of framing interventions may vary by institutional and demographic context, suggesting the need for local testing
+4. The survey's name and item wording also serve as framing devices: asking students about their *experience* (rather than about instructor quality) is itself a form of framing that reduces evaluative bias
+
+
+# Notification and Reminders {#sec-reminders}
+
+## Evidence on Reminder Effectiveness
+
+The number, timing, and channel of reminders are significant predictors of response rates in online course evaluations.
+
+- **Adams and Umbach (2012)** found that each additional reminder (up to four) significantly increased response rates. Four reminders spaced at 2–3 day intervals brought response rates to approximately the 70th percentile of course-level rates ([Adams and Umbach, 2012](https://doi.org/10.1007/s10755-011-9190-4)).
+
+- Institutions that send fewer than two reminders typically report response rates below 50%.
+
+## Reminder Channels
+
+| Channel | Effectiveness | Notes |
+|---|---|---|
+| Email | Moderate | Standard at most institutions; effectiveness depends on whether students read email |
+| LMS notification | High | Canvas/Blackboard pop-ups are harder to ignore than email |
+| Text/SMS | High (where used) | Some institutions report improved rates; raises privacy concerns |
+| In-class instructor mention | High | Instructor legitimacy effect (see @sec-response-rates) |
+
+## Recommended Practices
+
+- **4 reminders** at 2–3 day intervals during the evaluation window
+- **Multimodal delivery**: email + LMS notification, at minimum
+- **Personalized reminders**: addressing the student by name and referencing the specific course increases open rates
+- **Timing**: avoid sending reminders during finals or late at night
+- Reminders should **re-emphasize anonymity** to address student concerns about retaliation
+
+
+# Incentives {#sec-incentives}
+
+## Class-Level Incentives
+
+- Goodman, Anson, and Belcheir ([2015](https://eric.ed.gov/?id=EJ1305085)) tested a class-level incentive (bonus points if the class achieved an 80% response rate) and found an increase of approximately **22 percentage points** in response rates compared to a control group with no incentive.
+- Class-level incentives avoid the coercion problem of individual incentives because no individual student's participation or non-participation can be identified.
+
+## Individual Incentives
+
+- Prize drawings, early access to grades, and similar individual incentives have shown **modest effectiveness** (5–10 percentage point increases) and raise ethical concerns about coercion and the voluntary nature of the evaluation.
+- The ethical concern is that individual incentives may cross the line from encouragement to pressure, particularly for students who have strong reasons for not wanting to complete the evaluation.
+
+## Disincentives and Grade Withholding
+
+- A small number of institutions withhold grade access until the evaluation is completed (or an opt-out form is submitted). This approach produces very high response rates (90%+) but raises serious concerns:
+  - It may violate students' right to decline participation
+  - It may introduce coerced responses that are less thoughtful and more likely to represent satisficing behavior
+  - Faculty governance bodies at several institutions have rejected this approach on ethical grounds
+
+## Summary
+
+Class-level incentives represent the best trade-off between effectiveness and ethical acceptability. Individual incentives and coercive measures are generally not recommended.
+
+
+# Institutional Infrastructure {#sec-infrastructure}
+
+## Evaluation Platforms
+
+Most research universities use a dedicated course evaluation platform, either commercial or homegrown:
+
+| Platform | Institutions | Key Features |
+|---|---|---|
+| **Explorance Blue** | Michigan, Harvard, many others | LMS integration, real-time dashboards, automated reminders |
+| **CoursEval** | Various | Customizable forms, automated distribution |
+| **SmartEvals** | Various | Mobile-optimized, QR code access |
+| **EvaluationKIT** (Watermark) | Various | LMS integration, customizable workflows |
+| **Homegrown systems** | MIT, Stanford, UC Berkeley | Full institutional control over data and design |
+
+## LMS Integration
+
+Integration with the learning management system (Canvas, Blackboard, etc.) is increasingly standard. Key integration features include:
+
+- Dashboard notifications prompting students to complete evaluations
+- Direct links from the LMS to the evaluation form (reducing friction)
+- Progress indicators showing students which evaluations they have and have not completed
+- Instructor-facing dashboards showing real-time response rates (without individual responses)
+
+## Technology Considerations
+
+- **Mobile optimization**: A significant proportion of students complete evaluations on mobile devices. The evaluation platform must be fully functional on phones and tablets.
+- **Accessibility**: Evaluation platforms must comply with WCAG 2.1 AA standards to ensure access for students with disabilities.
+- **Data security**: Evaluation platforms must ensure that individual responses cannot be linked to specific students, either during or after the evaluation period. This requires both technical safeguards (encryption, access controls) and procedural safeguards (minimum response thresholds for reporting).
+
+
+# Peer-Institution Comparison Table {#sec-comparison}
+
+The following table summarizes implementation practices across peer and comparator institutions. Where information was available from published institutional policies and guidelines, specific details are included; where details are not publicly documented, cells are marked accordingly.
+
+| Dimension | San José State | San Diego State | UC Davis | UC Santa Barbara | UC San Diego |
+|---|---|---|---|---|---|
+| **Platform** | Anthology → Explorance Blue | Explorance Blue | ACE (homegrown) | Explorance Blue | SET (custom) |
+| **Mode** | Online | Online | Online | Online | Online |
+| **Window** | ~10 days, last 2 weeks | ~2 weeks before finals | Last week of quarter (~7 days) | Week 9 Mon – Week 10 Fri | Week 9 Mon – Week 10 Sat 8 AM |
+| **In-class time** | Permitted (15 min; instructor absent) | Recommended (10 min) | Encouraged | Recommended (5–10 min) | Not documented |
+| **Reminders** | Automated email series | Automated email + Canvas tools | Email + downloadable reminder slide | Email + Canvas pop-up + templates | Email notification |
+| **LMS integration** | Canvas (SOTE tab) | Canvas (nav + messaging) | Canvas | Canvas (nav link + pop-up) | No (separate portal) |
+| **Grade mechanism** | Early grade access for completers | None (timing-based separation) | None (Senate prohibits) | None (discouraged) | — |
+| **Min. enrollment** | 5 (5–9 may be exempt) | >1 student | Not documented | Dept discretion | "Too few responses" |
+| **Mid-semester survey** | No | No | No | No | Conceptually endorsed |
+| **Results release** | After grades (~1 month) | After grading period closes | 4–5 days after grades | ~2 weeks after eval period | After grades posted |
+| **Anti-bias framing** | Post-hoc comment removal | Not documented | Not documented | Admin memos acknowledge bias | Yes: summary Qs removed due to bias |
+
+**Notes:**
+
+- All institutions listed use online-only administration; paper evaluations have been fully retired across all surveyed schools.
+- In-class time policies vary: SJSU permits it with conditions (15-minute minimum, instructor must leave); UCSB and SDSU recommend 5–10 minutes; UCSD does not address the question.
+- SJSU uses an early-grade-access incentive (completers see grades approximately one week earlier). UC Davis's Academic Senate specifically prohibits such incentives. UCSB actively discourages extra credit or other rewards for completion.
+- UCSD has the strongest structural anti-bias approach among these institutions: "summary" questions (e.g., "Would you recommend this instructor?") were intentionally removed because they "are shown to lead to biased responses (e.g., based on the gender, race, age, etc. of the instructor)." The SET instrument focuses specifically on aspects of student learning and teaching practices.
+- Three institutions use Explorance Blue (UCSB, SDSU, and SJSU transitioning). Two use homegrown systems (UC Davis's ACE, UCSD's SET).
+- Minimum enrollment thresholds cluster around 5 students where documented. SDSU excludes only single-student courses.
+- Institutional adoption of student-facing anti-bias framing statements remains rare; most anti-bias work is at the administrative or instrument-design level rather than through preamble text shown to students.
+
+
+# Bibliography
+
+Adams, M. J. D., and Umbach, P. D. (2012). Nonresponse and online student evaluations of teaching: Understanding the influence of salience, fatigue, and academic environments. *Research in Higher Education*, 53(5), 576–591. <https://doi.org/10.1007/s10755-011-9190-4>
+
+Angelo, T. A., and Cross, K. P. (1993). *Classroom Assessment Techniques: A Handbook for College Teachers* (2nd ed.). San Francisco: Jossey-Bass. ERIC: ED317097.
+
+Berk, R. A. (2013). Top 20 strategies to increase the online response rates of student rating scales. *Journal of the Scholarship of Teaching and Learning*, 13(4), 1–19. <https://doi.org/10.14434/josotl.v13i4.3609>
+
+Boring, A., and Philippe, A. (2021). Reducing discrimination in the field: Evidence from an awareness raising intervention targeting gender biases in student evaluations of teaching. *Journal of Public Economics*, 193, 104323. <https://doi.org/10.1016/j.jpubeco.2020.104323>
+
+Centra, J. A. (1993). *Reflective Faculty Evaluation: Enhancing Teaching and Determining Faculty Effectiveness*. San Francisco: Jossey-Bass. ERIC: ED363233.
+
+Centra, J. A. (2003). Will teachers receive higher student evaluations by giving higher grades and less course work? *Research in Higher Education*, 44(5), 495–518. <https://doi.org/10.1023/A:1025492407752>
+
+Chapman, D. D., and Joines, J. A. (2017). Strategies for increasing response rates for online end-of-course evaluations. *International Journal of Teaching and Learning in Higher Education*, 29(1), 47–60.
+
+Chen, Y., and Hoshower, L. B. (2003). Student evaluation of teaching effectiveness: An assessment of student perception and motivation. *Assessment & Evaluation in Higher Education*, 28(1), 71–88. <https://doi.org/10.1080/0260293032000158163>
+
+Clark, D. J., and Redmond, M. V. (1982). *Small Group Instructional Diagnosis: Final Report*. ERIC: ED217954.
+
+Diamond, N. A. (2004). Classroom feedback. In W. J. McKeachie and M. Svinicki (Eds.), *McKeachie's Teaching Tips* (12th ed.). Boston: Houghton Mifflin.
+
+Goodman, J., Anson, R., and Belcheir, M. (2015). The effect of incentives and other instructor-driven strategies to increase online student evaluation response rates. *Assessment & Evaluation in Higher Education*, 40(7), 958–970.
+
+Holtgraves, T., et al. (2023). Non-response bias in student evaluations of teaching: A multi-course investigation. *Frontiers in Psychology*, 14, 1138886. <https://doi.org/10.3389/fpsyg.2023.1138886>
+
+Linse, A. R. (2017). Interpreting and using student ratings data: Guidance for faculty serving as administrators and on evaluation committees. *Studies in Educational Evaluation*, 54, 94–106. <https://doi.org/10.1016/j.stueduc.2016.02.004>
+
+Marsh, H. W. (2007). Students' evaluations of university teaching: Dimensionality, reliability, validity, potential biases and usefulness. In R. P. Perry and J. C. Smart (Eds.), *The Scholarship of Teaching and Learning in Higher Education*. Springer.
+
+Nulty, D. D. (2008). The adequacy of response rates to online and paper surveys: What can be done? *Assessment & Evaluation in Higher Education*, 33(3), 301–314. <https://doi.org/10.1080/02602930801956059>
+
+Mitchem, L. D., Rupnow, R. L., Jaeger, C. P., Pezdek, M. N., Ganeng, B. K. A., Samonds, K. E., and Bergan-Roller, H. E. (2025). Replication of an intervention to mitigate gender bias in student evaluations of teaching yields variable results across a biology department. *CBE—Life Sciences Education*, 24(3), ar36. <https://doi.org/10.1187/cbe.24-07-0193>
+
+Springer, T. P. (2015). Do online course evaluations adequately represent student opinions? *Journal of College Student Retention*, 17(4), 477–489. <https://doi.org/10.1177/1521025114560131>
+
+Springer, T. P. (2016). Faculty course evaluations: Self-selection, response rates, and self-selection bias. *ERIC*: EJ1136018.
+
+Wolbring, T., and Treischl, E. (2016). Selection bias in students' evaluation of teaching. *Research in Higher Education*, 57, 51–71. <https://doi.org/10.1007/s11162-015-9378-7>
+
+Goos, M., and Salomons, A. (2017). Measuring teaching quality in higher education: Assessing selection bias in course evaluations. *Research in Higher Education*, 58(4), 341–364. <https://doi.org/10.1007/s11162-016-9429-8>
+
