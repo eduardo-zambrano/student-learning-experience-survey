@@ -1,26 +1,24 @@
-# Implementation Best Practices for the Summative SLES
+# Appendix: Implementation Best Practices
 
-The preceding chapters define *what* the **Student Learning Experience Survey** measures and *how* its results should be scored and reported. This companion chapter addresses a third question: *how should the summative instrument be administered?*
+The preceding chapters define *what* the **Student Learning Experience Survey** (SLES) measures — five aspects of class climate that students are qualified to report on — and *how* its results should be scored and reported. This companion chapter addresses a third question: *how should the instrument be administered?*
 
-Cal Poly's transition to semesters — from 10-week quarters to 15-week terms — is a once-in-a-generation opportunity to design the administration of this instrument from scratch rather than inheriting the practices of a system it replaces. The recommendations below draw on the peer-reviewed literature and on the published practices of peer institutions to propose a concrete implementation model for the summative SLES.
+Cal Poly's transition to semesters — from 10-week quarters to 15-week terms — is a once-in-a-generation opportunity to design the administration of this instrument from scratch rather than inheriting the practices of a system it replaces. The recommendations below draw on the peer-reviewed literature and on the published practices of peer institutions to propose a concrete implementation model for the SLES.
 
 ## Scope
 
-This chapter addresses the implementation of the **summative** Student Learning Experience Survey — the instrument whose results enter the personnel file under [CBA §15.17](https://www.calfac.org/contract-2022-2025/#article-15). It does not address the evaluation of teaching more broadly, nor does it address course design, pedagogy, or the other dimensions of the TEval framework that are assessed through peer review, self-reflection, and other evidence sources.
+This chapter addresses the implementation of the SLES — the summative instrument whose results enter the personnel file under [CBA §15.17](https://www.calfac.org/contract-2022-2025/#article-15). It does not address the evaluation of teaching more broadly, nor does it address course design, pedagogy, or the other dimensions of the [TEval framework](https://teval.net/) that are assessed through peer review, self-reflection, and other evidence sources.
 
 The broader literature on teaching evaluation recognizes that many institutions complement their end-of-term summative instrument with informal mid-semester formative feedback — brief, anonymous check-ins designed to give instructors actionable information while the course is still in progress. Oregon's two-survey model, Angelo and Cross's Classroom Assessment Techniques ([1993](https://eric.ed.gov/?id=ED317097)), and Harvard's early-feedback recommendations ([Bok Center](https://bokcenter.harvard.edu/getting-feedback-from-your-students)) all exemplify this practice. Developing a formative feedback process at Cal Poly is a **separate effort** that may be undertaken independently by interested faculty, departments, or the Center for Teaching, Learning, and Technology. This chapter does not address it further.
 
-The sections that follow focus exclusively on the summative instrument: when to administer it, how to administer it, how to maximize response rates, and how to frame it to minimize bias.
+The sections that follow focus exclusively on the SLES instrument: when to administer it, how to administer it, how to maximize response rates, and how to frame it to minimize bias.
 
-## Timing of the summative instrument {#sec-timing}
+## Timing {#sec-timing}
 
 ### The literature consensus
 
 The peer-reviewed literature is clear on one point: summative course evaluations should be administered during the **last one to two weeks of instruction, before final examinations begin**. Administering evaluations before students receive final grades avoids contaminating responses with grade-related anxiety or gratitude — a well-documented source of bias ([Centra, 2003](https://doi.org/10.1023/A:1025492407752); [Marsh, 2007](https://doi.org/10.1007/978-1-4020-5742-3_9)). Administering them too early misses late-semester developments in the learning environment.
 
-### Peer institutions
-
-This timing is standard practice at peer and comparator institutions:
+::: {.callout-note collapse="true" title="What peer institutions do"}
 
 | Institution | Evaluation Window | Source |
 |---|---|---|
@@ -32,9 +30,11 @@ This timing is standard practice at peer and comparator institutions:
 
 All of these institutions release results only after final grades have been submitted — a universally recommended practice that protects anonymity and ensures that neither students nor instructors face grade-related pressure during the evaluation period.
 
+:::
+
 ### Recommendation for Cal Poly's 15-week semester
 
-The summative SLES window should **open at the beginning of week 13** and **close at the end of week 14**, before finals begin in week 15. This two-week window aligns with the Michigan model, provides sufficient time for reminders and in-class completion, and ensures that the evaluation captures students' experience of nearly the full semester without bleeding into the final examination period.
+The SLES window should **open at the beginning of week 14** and **close at the end of week 15**, before finals begin in week 16. This two-week window is consistent with the practice at most peer institutions, provides sufficient time for reminders and in-class completion, and ensures that the evaluation captures students' experience of nearly the full semester without bleeding into the final examination period.
 
 
 ## Mode of administration {#sec-mode}
@@ -68,7 +68,7 @@ Springer ([2015](https://doi.org/10.1177/1521025114560131)) found that online ev
 
 A **70% response rate** is widely cited as the threshold for representative sampling in course evaluations ([Nulty, 2008](https://doi.org/10.1080/02602930801956059); [Explorance, 2023](https://explorance.com/blog/improving-course-evaluation-response-rates/)). Below this threshold, self-selection bias threatens the validity of the results.
 
-### Strategies ranked by effectiveness
+::: {.callout-note collapse="true" title="Strategies ranked by effectiveness: what the literature says"}
 
 The literature identifies the following strategies, roughly ranked by their demonstrated impact on response rates:
 
@@ -82,10 +82,16 @@ The literature identifies the following strategies, roughly ranked by their demo
 
 5. **Class-level incentives.** Goodman, Anson, and Belcheir ([2015](https://eric.ed.gov/?id=EJ1305085)) found that a class-level incentive (e.g., a bonus point if the class achieves an 80% response rate) increased response rates by approximately 22 percentage points. Class-level incentives avoid the coercion problem of individual incentives because no individual student's participation can be identified.
 
-### Reporting response rates
+:::
 
-Consistent with the scoring and reporting guidelines in the preceding chapter, response rates should be reported alongside results as **raw counts** — e.g., "22 of 33 enrolled students responded." This allows evaluators to judge the representativeness of the data. Results from sections with very low response rates should be interpreted with explicit caution.
+### Recommendation
 
+We recommend the following:
+
+- **Dedicate class time.** Each instructor should set aside 10–15 minutes during the evaluation window for students to complete the SLES online in class. The instructor displays the survey link or QR code, then leaves the room. This is the single most effective intervention for achieving high response rates.
+- **Send four automated reminders** at 2–3 day intervals during the evaluation window, via email and Canvas notification.
+- **Integrate with the LMS.** Embed the evaluation link within Canvas — as a dashboard notification, pop-up reminder, or course navigation item — so that the survey meets students where they already are.
+- **Encourage instructor communication.** A brief mention on Day 1 (e.g., a syllabus note explaining that the SLES asks about the student's learning experience and that the data are taken seriously), repeated when the window opens, increases participation.
 
 ## Framing the instrument to minimize bias {#sec-framing}
 
@@ -97,9 +103,7 @@ A natural question is whether the instructions presented to students before they
 
 **Informational framing** — pairing the warning with institution-specific data showing that previous cohorts had evaluated male and female instructors differently — produced a markedly different result. In the same experiment, Boring and Philippe found that informational framing significantly reduced the gender bias, raising ratings of female instructors without affecting ratings of male instructors. The effect was driven primarily by male students' evaluations of female instructors; female students' ratings were not significantly affected by either treatment.
 
-A replication study by Mitchem and colleagues ([2025](https://doi.org/10.1187/cbe.24-07-0193)) in U.S. biology classrooms found mixed results — the anti-bias framing intervention inconsistently affected evaluations across courses and semesters. The authors concluded that simple text-based interventions may not reliably mitigate bias when replicated across different institutional contexts, and that framing interventions should be tested locally rather than assumed to generalize.
-
-### Recommendation for the SLES preamble
+### Recommendation
 
 The SLES should open with a brief, concrete, **data-informed preamble** — not a generic "be fair" appeal, which the evidence shows is ineffective, but a factual statement that provides students with context about what the survey measures and what the research shows about evaluation biases. The preamble should:
 
@@ -131,13 +135,13 @@ The following table synthesizes the evidence reviewed in this chapter into a con
 | Element | Recommendation | Rationale |
 |---|---|---|
 | **When** | Weeks 13–14 (before finals in week 15) | Literature consensus: last 1–2 weeks of instruction, before finals begin ([Centra, 2003](https://doi.org/10.1023/A:1025492407752); [Marsh, 2007](https://doi.org/10.1007/978-1-4020-5742-3_9)) |
-| **Window duration** | 7–10 days within the 2-week period | Balances reach with urgency; aligns with Michigan, Oregon, and Stanford models |
+| **Window duration** | 7–10 days within the 2-week period | Balances reach with urgency; aligns with what is done by our peer institutions |
 | **Mode** | Hybrid: dedicated class time for online completion | Single most effective method for achieving 70%+ response rates ([Berk, 2013](https://doi.org/10.14434/josotl.v13i4.3609)) |
 | **Class time** | 10–15 min; instructor displays link/QR code, then leaves | SLES has 5 Likert items and no open-ended questions — feasible in under 5 minutes |
 | **Framing** | Informational preamble (data-informed, not generic) | Boring and Philippe ([2021](https://doi.org/10.1016/j.jpubeco.2020.104323)): informational framing reduces gender bias; generic appeals do not |
-| **Reminders** | 4 automated reminders at 2–3 day intervals | Adams and Umbach ([2012](https://doi.org/10.1007/s10755-011-9190-4)): achieves ~70th percentile response rates |
+| **Reminders** | 4 automated reminders at 2–3 day intervals | Adams and Umbach ([2012](https://doi.org/10.1007/s10755-011-9190-4)): achieves ~70% response rates |
 | **Results release** | Only after final grades are submitted | Universally recommended; protects anonymity and reduces grade-anxiety bias |
-| **Response rate target** | 70% minimum for representative sampling | Below this threshold, self-selection bias threatens validity ([Nulty, 2008](https://doi.org/10.1080/02602930801956059); [Holtgraves et al., 2023](https://doi.org/10.3389/fpsyg.2023.1138886)) |
+| **Response rate target** | 70% minimum | Below this threshold, self-selection bias threatens validity ([Nulty, 2008](https://doi.org/10.1080/02602930801956059); [Holtgraves et al., 2023](https://doi.org/10.3389/fpsyg.2023.1138886)) |
 | **Response rate reporting** | Raw counts alongside results | Per the scoring and reporting guidelines; lets evaluators judge representativeness |
 
 Administering the SLES in the final two weeks of instruction, with dedicated class time and an informational preamble, maximizes response rates, minimizes bias, and produces data that evaluators can interpret with confidence. This is an achievable model — it requires no new technology, no additional personnel, and minimal class time — and it reflects the best available evidence on how to implement a student survey that is both useful and fair.

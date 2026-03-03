@@ -1,4 +1,4 @@
-# Appendix: Scoring and Reporting Guidelines
+# Appendix: Scoring and Reporting Guidelines {#sec-scoring-reporting}
 
 ## Scoring Methodology
 

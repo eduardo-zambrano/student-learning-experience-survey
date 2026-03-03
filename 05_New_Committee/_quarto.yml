@@ -12,6 +12,7 @@ book:
     - index.qmd
     - Class_Climate_Subdimensions.qmd
     - Appendices_Scoring_and_Reporting.qmd
+    - Implementation_Best_Practices.qmd
 
 format:
   html:
