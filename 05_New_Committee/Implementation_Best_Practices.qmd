@@ -1,6 +1,6 @@
 # Appendix: Implementation Best Practices
 
-The preceding chapters define *what* the **Student Learning Experience Survey** (SLES) measures — five aspects of the learning environment that students are qualified to report on — and *how* its results should be scored and reported. This companion chapter addresses a third question: *how should the instrument be administered?*
+The preceding chapters define *what* the **Student Learning Experience Survey** (SLES) measures — six aspects of the learning environment that students are qualified to report on — and *how* its results should be scored and reported. This companion chapter addresses a third question: *how should the instrument be administered?*
 
 Cal Poly's transition to semesters — from 10-week quarters to 15-week terms — is a once-in-a-generation opportunity to design the administration of this instrument from scratch rather than inheriting the practices of a system it replaces. The recommendations below draw on the peer-reviewed literature and on the published practices of peer institutions to propose a concrete implementation model for the SLES.
 
@@ -49,7 +49,7 @@ The evidence is unambiguous: **in-class administration** produces the highest re
 
 A growing number of institutions have adopted a hybrid approach: dedicating class time for students to complete the evaluation *online*, on their own devices. This combines the response-rate benefits of in-class administration with the logistical efficiency of an online platform. Studies report response rates of **70–80%** with this model — comparable to traditional paper-based in-class administration ([Berk, 2013](https://doi.org/10.14434/josotl.v13i4.3609); [Chapman and Joines, 2017](https://doi.org/10.1007/s10755-017-9394-0)).
 
-The hybrid model is particularly well suited to the SLES. The instrument has **five Likert-scale items and no open-ended questions** — a student can complete it in under five minutes on a phone. Ten to fifteen minutes of dedicated class time is more than sufficient, even accounting for the time to display the link, wait for students to access it, and allow for thoughtful responses.
+The hybrid model is particularly well suited to the SLES. The instrument has **six Likert-scale items and no open-ended questions** — a student can complete it in under five minutes on a phone. Ten to fifteen minutes of dedicated class time is more than sufficient, even accounting for the time to display the link, wait for students to access it, and allow for thoughtful responses.
 
 ### Recommendation
 
