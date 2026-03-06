@@ -23,18 +23,18 @@ The proposal this sub-committee has crafted has three parts.
 
 *Interpersonal — how the instructor relates to individual students:*
 
-1. [Respect](#respect) (tone, dignity)
-2. [Fairness](#fairness) (equity, consistency)
-3. [Approachability](#approachability) (access, availability)
+1. [Respect](#respect)
+2. [Fairness](#fairness)
+3. [Approachability](#approachability)
 
 *Structural — how the course is experienced as a whole:*
 
-4. [Coherence](#coherence) (purposefulness, connection)
+4. [Coherence](#coherence)
 
 *Environmental — what the classroom feels like as a shared space:*
 
-5. [Participatory Climate](#participatory-climate) (conditions for engagement)
-6. [Inclusivity](#inclusivity) (sense of belonging)
+5. [Participatory Climate](#participatory-climate)
+6. [Inclusivity](#inclusivity)
 
 **Third**, it recommends discontinuing the use of the open-ended questions in the **Student Learning Experience Survey**.
 
