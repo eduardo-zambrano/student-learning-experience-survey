@@ -1,0 +1,142 @@
+# Integrating Effective Teaching Practices Into the Formative Learning Feedback {#sec-dimensions}
+
+The formative feedback instrument is organized around seven dimensions of learning, each drawn from the research-based principles identified by Ambrose et al. ([2010](https://www.wiley.com/en-us/How+Learning+Works-p-9780470484104)). For each dimension, we provide:
+
+- The **guiding question** from Ambrose et al.
+- A brief description of **what it captures**
+- A note on **why the dimension is appropriate formatively but not summatively**
+
+All candidate items to be offered to Faculty are phrased as student-experience statements about observable teaching practices. Faculty select which dimensions and items to include based on their course, their goals, and the timing of the feedback. They can also include their own items.
+
+*Foundations — what students bring and how the course builds on it:*
+
+1. [Prior Knowledge](#sec-prior-knowledge)
+2. [Knowledge Organization](#sec-knowledge-organization)
+
+*Engagement — what drives and sustains the learning process:*
+
+3. [Motivation](#sec-motivation)
+4. [Mastery](#sec-mastery)
+5. [Practice and Feedback](#sec-practice-and-feedback)
+
+*Environment and autonomy — the climate for learning and beyond:*
+
+6. [Student Development and Course Climate](#sec-climate)
+7. [Self-Directed Learning](#sec-self-directed-learning)
+
+
+## Dimension 1: Prior Knowledge {#sec-prior-knowledge}
+
+**Guiding question:** *How does students' prior knowledge affect their learning?*
+
+**What it captures:** Whether the instructor creates opportunities for students to connect new material to what they already know — including opportunities to surface and correct misconceptions.
+
+<!-- ::: {.callout-note title="Candidate items"}
+- My professor provided opportunities for me to share what I already knew about the topic.
+- My professor provided opportunities for me to identify gaps or inaccuracies in my prior knowledge.
+- My professor provided guidance on how to supplement or replace inaccurate prior knowledge.
+::: -->
+
+::: {.callout-important title="Why formative, not summative?"}
+Whether an instructor effectively activates prior knowledge requires understanding the content and the pedagogical choices involved. Students can report on whether opportunities were provided — a valuable formative signal — but cannot judge whether the strategies were appropriate for the subject matter.
+:::
+
+
+## Dimension 2: Knowledge Organization {#sec-knowledge-organization}
+
+**Guiding question:** *How does the way students organize knowledge affect their learning?*
+
+**What it captures:** Whether the course helps students see how concepts relate to one another — through explicit organizational frameworks, concept maps, or other structuring activities.
+
+<!-- ::: {.callout-note title="Candidate items"}
+- My professor designed the course in a way that helped me organize the content for learning.
+- My professor regularly explained how to organize what we were learning.
+- My professor gave me practice with effective methods for organizing knowledge.
+::: -->
+
+::: {.callout-important title="Why formative, not summative?"}
+Judging whether a course's organizational structure is effective requires pedagogical expertise. Students can report on whether organizational support was provided, but the quality and appropriateness of that support depend on disciplinary context that students are not positioned to evaluate summatively.
+:::
+
+
+## Dimension 3: Motivation {#sec-motivation}
+
+**Guiding question:** *What factors motivate students to learn?*
+
+**What it captures:** Whether the instructor helps students understand the value and purpose of learning activities, supports students' sense of efficacy, and fosters a climate conducive to engagement.
+
+<!-- ::: {.callout-note title="Candidate items"}
+- My professor helped me understand how learning activities contribute to the course objectives.
+- My professor helped me understand that I was capable of accomplishing the tasks and assignments in the course.
+- My professor promoted a supportive class climate.
+::: -->
+
+::: {.callout-important title="Why formative, not summative?"}
+Motivation is influenced by many factors beyond the instructor's control — including the student's own goals, preparation, and external circumstances. Students can report on whether the instructor took actions to support motivation, which is valuable formative feedback. But summative evaluation of motivational support risks confounding the instructor's practices with factors outside their influence.
+:::
+
+
+## Dimension 4: Mastery {#sec-mastery}
+
+**Guiding question:** *How do students develop mastery?*
+
+**What it captures:** Whether the course provides opportunities for students to acquire, practice, and integrate component skills toward increasingly complex performance.
+
+<!-- ::: {.callout-note title="Candidate items"}
+- My professor provided opportunities for me to learn and practice new skills.
+- My professor provided opportunities for me to integrate different skills for more complex tasks.
+::: -->
+
+::: {.callout-important title="Why formative, not summative?"}
+Whether a course effectively scaffolds skill development toward mastery requires understanding the disciplinary goals and the appropriateness of the progression. Students can report on whether practice and integration opportunities were provided — actionable feedback for the instructor — but cannot judge whether the progression was well-designed for the learning goals of the course.
+:::
+
+
+## Dimension 5: Practice and Feedback {#sec-practice-and-feedback}
+
+**Guiding question:** *What kinds of practice and feedback enhance learning?*
+
+**What it captures:** Whether students receive goal-directed practice with clear criteria for success, and whether feedback is timely and specific enough to guide improvement.
+
+
+
+<!-- ::: {.callout-note title="Candidate items"}
+- My professor provided criteria for success that were challenging and achievable.
+- My professor provided timely feedback that helped me understand how to improve.
+::: -->
+
+::: {.callout-important title="Why formative, not summative?"}
+The quality and timeliness of feedback is something students can directly experience and report on, making it excellent formative data. However, summative evaluation of feedback practices risks conflating the *experience* of feedback (which may feel harsh or generous regardless of quality) with its *effectiveness* (which requires pedagogical judgment). The well-documented disconnect between perceived and actual learning (Deslauriers et al., [2019](https://www.pnas.org/doi/10.1073/pnas.1821936116)) applies directly here.
+:::
+
+
+## Dimension 6: Student Development and Course Climate {#sec-climate}
+
+**Guiding question:** *Why do student development and course climate matter for student learning?*
+
+**What it captures:** Whether the classroom climate promotes a sense of belonging and whether norms for interaction support mutual respect — climate as it supports the learning process.
+
+<!-- ::: {.callout-note title="Candidate items"}
+- My professor promoted a class climate in which I felt a sense of belonging.
+- My professor promoted norms for classroom interactions that supported mutual respect.
+::: -->
+
+::: {.callout-important title="How Dimension 6 relates to the SLES"}
+This dimension overlaps with the summative SLES, which also addresses class climate. The overlap is intentional: climate is important enough to warrant both a formative check (visible only to the instructor, actionable mid-course) and a summative record (entered in the personnel file at term's end). The two serve different institutional purposes even when they touch the same territory.
+:::
+
+
+## Dimension 7: Self-Directed Learning {#sec-self-directed-learning}
+
+**Guiding question:** *How do students become self-directed learners?*
+
+**What it captures:** Whether the instructor models and supports metacognitive practices — helping students assess what they know, identify what they still need to learn, and develop strategies for continued learning.
+
+<!-- ::: {.callout-note title="Candidate items"}
+- My professor modeled how to assess what I know and what I still need to learn.
+- My professor provided opportunities for me to practice reflective methods that support learning.
+::: -->
+
+::: {.callout-important title="Why formative, not summative?"}
+Self-directed learning is a developmental outcome that unfolds over time and across courses. Students can report on whether metacognitive support was provided in a specific course — helpful formative feedback — but cannot assess whether those practices were effective in building lasting self-regulation skills.
+:::

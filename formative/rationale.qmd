@@ -1,0 +1,63 @@
+# Why Formative Feedback?
+
+## Purpose and scope
+
+This document describes a feedback process designed to give instructors actionable information about the learning environment while the course is still in progress.
+
+The formative feedback process is **developmental only**:
+
+- Results are shared **only with the instructor**
+- Results are **not** included in the personnel file
+- Results are **not** used for retention, tenure, promotion, or any other employment decision
+- Results are **not** reported to department chairs, deans, or any administrative unit
+
+
+## The case for feedback throughout the term
+
+Traditional mid-semester evaluations offer a single snapshot — typically around weeks 6–8 — that arrives too early for some concerns and too late for others. Students entering a new subject may not have enough experience at week 6 to report on how practice and feedback are supporting their learning, while by week 8 it may be too late to address confusion about how course elements connect.
+
+A more effective model provides **multiple touchpoints** across the term, each targeting the dimensions of learning most relevant at that stage:
+
+- **Early in the term (weeks 2–3):** Students are orienting to the course. Feedback on whether the course is building on what they already know and whether they can see how the pieces fit together is most actionable here.
+- **Mid-term (weeks 6–8):** Students have enough experience to report on motivation, the quality of practice and feedback, and the classroom climate.
+- **Late in the term (weeks 11–12):** Students can reflect on whether the course has helped them develop mastery and self-directed learning skills — and there is still time for the instructor to adjust the final weeks.
+
+Faculty choose which touchpoints to use and which dimensions to ask about. The instrument is a menu, not a mandate.
+
+
+## Evidence base
+
+The formative feedback process draws on a well-established literature on feedback practices in higher education.
+
+### Classroom Assessment Techniques (CATs)
+
+Angelo and Cross ([1993](https://eric.ed.gov/?id=ED317097)) developed a comprehensive set of Classroom Assessment Techniques — brief, usually anonymous, in-class activities designed to give instructors rapid feedback on student learning and experience. The most widely used CATs include the Minute Paper, the Muddiest Point, and the One-Sentence Summary. The design principles underlying CATs — brevity, anonymity, low stakes, instructor-initiated — inform the formative feedback process proposed here (see also [Diamond, 2004](https://www.amazon.com/McKeachies-Teaching-Tips-Wilbert-McKeachie/dp/0618515569), for a practical overview of classroom feedback techniques).
+
+### Small Group Instructional Diagnosis (SGID)
+
+The SGID method, developed at the University of Washington ([Clark and Redmond, 1982](https://eric.ed.gov/?id=ED217954)), uses a trained facilitator to gather structured feedback from small groups of students during class time, with the instructor absent. The facilitator synthesizes the responses and meets privately with the instructor. SGID is more resource-intensive than a written check-in but produces richer, more contextualized feedback. Institutions with active SGID programs include Indiana University (Center for Innovative Teaching and Learning), UCLA, and the University of Massachusetts Amherst.
+
+### Oregon Mid-Semester Experience Survey (M-SES)
+
+The University of Oregon operates a two-survey model: a formative **Midway Student Experience Survey (M-SES)** and a summative End-of-term Student Experience Survey (E-SES). The M-SES is administered during week 4 of the 10-week quarter (equivalent to approximately weeks 6–7 of a 15-week semester) and asks students about their learning experience to date. Instructors are encouraged to provide 10 minutes of class time for completion. Results are shared only with the instructor ([University of Oregon TEP](https://teaching.uoregon.edu/student-experience-survey/about)). Notably, Oregon's Senate motion US18/19-14 phased out traditional "course evaluations" in favor of learning-focused "Student Experience Surveys" — and pilot data showed that personal comments about instructors dropped from 21% to 1.5% of all comments under the new instrument. The Oregon model demonstrates that mid-semester feedback can be institutionally supported without being tied to personnel decisions.
+
+### Harvard Bok Center
+
+Harvard's Derek Bok Center for Teaching and Learning recommends that instructors collect early feedback in weeks 3–5 of the semester, using brief anonymous surveys or structured class discussions. The emphasis is on actionable feedback that can inform adjustments before the midpoint of the course ([Bok Center](https://bokcenter.harvard.edu/getting-feedback-from-your-students)).
+
+### Indiana University CITL
+
+The Center for Innovative Teaching and Learning at Indiana University offers both SGID facilitation and a mid-semester feedback template that instructors can administer independently. The CITL model emphasizes "closing the loop" — the instructor's public response to the feedback received — as essential to the process's effectiveness ([Indiana CITL](https://citl.indiana.edu/teaching-resources/course-evaluation/midterm-evaluation/index.html)).
+
+### UCLA Center for the Advancement of Teaching
+
+UCLA's Center for the Advancement of Teaching provides mid-semester evaluation resources including facilitated SGID sessions and self-administered survey templates. The program is framed explicitly as a developmental tool with no connection to personnel review ([UCLA CAT](https://teaching.ucla.edu/resources/mid-quarter-evaluation/)).
+
+
+## Theoretical backbone: Ambrose et al. (2010)
+
+The formative feedback instrument is organized around the seven research-based principles of learning identified by Ambrose et al. ([2010](https://www.wiley.com/en-us/How+Learning+Works-p-9780470484104)) in *How Learning Works: Seven Research-Based Principles for Smart Teaching*. These principles synthesize decades of cognitive and educational research into a practical framework for understanding how students learn. Each principle is framed as a question — *How does students' prior knowledge affect their learning?* — and each suggests specific dimensions of the learning experience that students are positioned to observe and report on.
+
+The mapping of these seven principles to candidate feedback items draws on work by Committee Member Patrick O'Sullivan (CTLT), who identified the teaching practices associated with each principle that students can directly experience and comment on. This mapping also connects the formative dimensions to the TEval framework (Austin et al., [2025](https://hep.gse.harvard.edu/9798895570159/transforming-college-teaching-evaluation/)), providing a coherent link between the formative feedback process and the broader evaluation of teaching.
+
+The seven dimensions — Prior Knowledge, Knowledge Organization, Motivation, Mastery, Practice and Feedback, Student Development and Course Climate, and Self-Directed Learning — are described in detail in @sec-dimensions.

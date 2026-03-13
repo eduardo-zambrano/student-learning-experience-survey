@@ -1,0 +1,69 @@
+# Relationship to the Summative SLES
+
+## Comparison
+
+The formative feedback process is **not** a practice run for the summative SLES, and it should not be framed as one. The two instruments differ in every relevant dimension:
+
+| Dimension | Formative Learning Feedback | Summative SLES |
+|---|---|---|
+| **Purpose** | Developmental: help the instructor improve the course in real time | Evaluative: provide data for the personnel file |
+| **Audience** | Instructor only | Instructor, department chair, personnel committee |
+| **Timing** | Throughout the term (weeks 2–3, 6–8, 11–12) | End of term (weeks 13–14) |
+| **Content** | Seven dimensions of learning (Ambrose et al., 2010) | Six aspects of class climate |
+| **Format** | Flexible: structured items, open-ended questions, or both; faculty choose dimensions | Standardized: six Likert-scale items |
+| **Anonymity** | Anonymous | Anonymous |
+| **Personnel file** | No | Yes |
+| **Required** | No (instructor's choice) | Yes (institutional requirement) |
+
+: Comparison of formative and summative instruments {#tbl-comparison}
+
+The formative feedback process exists because some of the most useful feedback students can provide — what is working, what is not, what they wish were different — is most valuable *before* the course ends, when the instructor can still act on it. The summative SLES, by contrast, captures the student's experience of the full term and provides data for institutional evaluation. **These are complementary but distinct functions.**
+
+
+## Formative feedback as the home for open-ended questions
+
+The SLES committee recommended removing open-ended questions from the summative instrument because unstructured comments reintroduce the biases the instrument is designed to exclude (see the SLES proposal for the full evidence base). But this does not mean students should have no voice beyond structured items.
+
+The formative feedback process is the designated home for open-ended questions. In a formative context:
+
+- Results go only to the instructor, so biased comments cannot influence personnel decisions
+- The instructor can contextualize comments with their knowledge of the class
+- The developmental framing encourages constructive rather than evaluative responses
+- There is no need to standardize or compare across instructors
+
+Open-ended questions serve their intended purpose — giving students a voice and giving instructors actionable information — without the risks that attend their inclusion in the personnel file.
+
+
+## Optional structured check-in on SLES dimensions
+
+Instructors may optionally include a brief structured component — a "temperature read" on the six aspects of the SLES — to get a quick snapshot alongside the formative items. This is **not** the SLES itself; it is a lightweight check-in that uses the same conceptual dimensions.
+
+::: {.callout-tip collapse="false" title="Optional: Quick check-in on learning environment dimensions"}
+
+*Please indicate how you have experienced each of the following so far in this course.*
+
+Response options: **Positive experience**, **Mixed experience**, **Negative experience**, **Not sure / Not applicable**
+
+| Dimension | |
+|---|---|
+| **Respect** — feeling treated with dignity and courtesy | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
+| **Fairness** — feeling that all students are treated equitably | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
+| **Coherence** — seeing how course elements connect | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
+| **Participation** — feeling comfortable asking questions and sharing ideas | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
+| **Approachability** — feeling able to access help when needed | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
+| **Inclusivity** — feeling that you belong in this class | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
+
+:::
+
+This structured component serves two purposes: it gives the instructor an at-a-glance summary of the dimensions they will be evaluated on at the end of the term, and it helps students become familiar with the conceptual framework before they encounter the summative SLES. It is **not** scored, reported, or retained beyond the instructor's own use.
+
+
+## What the Formative Learning Feedback is *not*
+
+To prevent misunderstanding, the following points should be communicated clearly to both instructors and students:
+
+- The formative feedback process is **not** the Student Learning Experience Survey. The SLES is the summative instrument administered at the end of the term.
+- The formative feedback process is **not** part of the personnel file. No administrator, department chair, or personnel committee will see the results.
+- The formative feedback process is **not** required. It is a tool available to instructors who want real-time feedback on the learning environment in their course.
+- The formative feedback process is **not** anonymous feedback about the instructor's teaching ability. It is feedback about the student's learning experience — the same conceptual framing as the SLES, but in a developmental rather than evaluative context.
+- The formative feedback process **does not** replace the SLES. Students will still complete the summative instrument at the end of the term regardless of whether formative feedback was collected.

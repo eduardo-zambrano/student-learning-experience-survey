@@ -1,0 +1,21 @@
+# Preamble {.unnumbered}
+
+*First draft prepared by Patrick O'Sullivan (CTLT) and Eduardo Zambrano (Economics).*
+
+*This draft is a preliminary **unofficial** and incomplete working document, subject to additions and revisions. Everyone's input is welcome.*
+
+---
+
+This document describes **Formative Learning Feedback** — a flexible, voluntary feedback process offered through the Center for Teaching, Learning and Technology (CTLT) and designed to give instructors actionable information about how students are experiencing the learning environment while the course is still in progress.
+
+Three foundational principles govern the formative feedback process:
+
+a. **Opt-in.** Formative Learning Feedback is entirely voluntary. No instructor is required to use it, and no administrator may mandate its use.
+
+b. **Results only to the instructor.** Feedback is shared only with the instructor. It is not included in the personnel file, not reported to department chairs or deans, and not used for retention, tenure, promotion, or any other employment decision.
+
+c. **Developmental, not evaluative.** The purpose of formative feedback is to help the instructor improve the learning environment in real time. It is not a tool for summative evaluation and should never be framed as one.
+
+Because formative feedback is developmental and shared only with the instructor, it is also the appropriate home for **open-ended questions** — the kind of unstructured, in-their-own-words feedback that is most useful when the instructor can still act on it, and that the literature identifies as too susceptible to bias for inclusion in a summative personnel file.
+
+Formative Learning Feedback is entirely separate from the **Student Learning Experience Survey (SLES)**, which is the summative instrument whose results enter the personnel file. The two serve fundamentally different purposes and operate under different rules.

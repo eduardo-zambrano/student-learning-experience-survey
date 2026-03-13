@@ -1,0 +1,51 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Formative Learning Feedback"
+  subtitle: "A Companion to the Student Learning Experience Survey"
+  author: "Sub-Committee of the Ad Hoc Committee on Student Perceptions of Teaching Effectiveness"
+  date: today
+  downloads: [pdf]
+  chapters:
+    - index.qmd
+    - rationale.qmd
+    - dimensions_and_items.qmd
+    - relationship_to_sles.qmd
+    - implementation.qmd
+
+format:
+  html:
+    theme:
+      - flatly
+      - custom.scss
+    toc-depth: 3
+    number-sections: true
+    fontsize: 1.05em
+    linestretch: 1.4
+    mainfont: "Palatino, Georgia, serif"
+  pdf:
+    documentclass: report
+    papersize: letter
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1.25in
+      - right=1.25in
+    fontsize: 11pt
+    mainfont: "TeX Gyre Pagella"
+    sansfont: "TeX Gyre Heros"
+    linestretch: 1.15
+    number-sections: true
+    colorlinks: true
+    linkcolor: ForestGreen
+    urlcolor: ForestGreen
+    include-in-header:
+      text: |
+        \usepackage{xcolor}
+        \usepackage{titlesec}
+        \titleformat{\section}{\Large\bfseries\sffamily}{\thesection}{1em}{}
+        \titleformat{\subsection}{\large\bfseries\sffamily}{\thesubsection}{1em}{}
+        \titlespacing*{\section}{0pt}{1.5em}{0.75em}
+        \titlespacing*{\subsection}{0pt}{1.25em}{0.5em}
