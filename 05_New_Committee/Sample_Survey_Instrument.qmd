@@ -1,0 +1,53 @@
+# Appendix: Sample Survey Instrument {#sec-sample-instrument}
+
+This appendix presents a sample version of the **Student Learning Experience Survey (SLES)**, including the recommended preamble and one item per aspect of class climate. The instrument uses a five-point ordered categorical scale (Strongly Agree, Agree, Neither Agree nor Disagree, Disagree, Strongly Disagree) plus a Not Applicable option for each item. The items presented here are illustrative. They are intended to demonstrate how the six aspects of class climate can be operationalized as experiential survey items. This is not intended to be the final instrument.
+
+## Preamble
+
+The survey should open with the following informational preamble, consistent with the evidence on anti-bias framing discussed in @sec-framing ([Boring and Philippe, 2021](https://doi.org/10.1016/j.jpubeco.2020.104323)).
+
+::: {.callout-note appearance="simple"}
+
+**Student Learning Experience Survey**
+
+This brief survey asks about *your experience* in this course — whether you felt respected, treated fairly, comfortable participating, able to get help, and included. It does not ask you to evaluate the instructor's teaching ability or the course content.
+
+Research shows that students' responses to surveys like this can be influenced by characteristics of the instructor — such as gender, race, and accent — that are unrelated to the learning environment. Being aware of this tendency helps you provide more accurate feedback.
+
+Your responses are anonymous and will not be shared with the instructor until after final grades have been submitted. Please respond thoughtfully and honestly.
+
+:::
+
+## Sample Items
+
+All items use the following response scale:
+
+> **Strongly Agree** · **Agree** · **Neither Agree nor Disagree** · **Disagree** · **Strongly Disagree** · **Not Applicable**
+
+### Respect
+
+> "I felt the instructor treated students with respect."
+
+### Fairness
+
+> "I felt the instructor treated all students fairly."
+
+### Approachability
+
+> "I felt the instructor was approachable if I needed help (in office hours, after class, or by email)."
+
+### Coherence
+
+> "I could see how the different elements of this course — what happened in class, what was assigned, and what was assessed — were connected to each other."
+
+### Participatory Climate
+
+> "I felt comfortable participating in class (asking questions, sharing ideas, or making mistakes)."
+
+### Inclusivity
+
+> "I felt I belonged in this class."
+
+## Relationship to Existing Cal Poly Maritime Academy Practices
+
+Several of these aspects are already tracked in other CSU instruments. The Solano Campus, for example, includes items on fairness ("The instructor attempted to be fair and unbiased in their interaction with students"), inclusivity ("The instructor demonstrated awareness and consideration of the diversity of students in the class"), approachability ("The instructor was responsive when I had questions"), and participatory climate ("The instructor provided opportunities for class participation"). The SLES items are compatible with this existing practice. The principal difference is one of framing: the SLES items are worded as first-person experiential reports ("I felt...") rather than third-person assessments of instructor behavior ("The instructor attempted..."), consistent with the evidence that experiential items are less susceptible to bias than evaluative ones.

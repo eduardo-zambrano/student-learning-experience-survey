@@ -12,7 +12,9 @@ book:
     - index.qmd
     - Class_Climate_Subdimensions.qmd
     - Appendices_Scoring_and_Reporting.qmd
+    - Guidance_for_Evaluation_of_Instruction.qmd
     - Implementation_Best_Practices.qmd
+    - Sample_Survey_Instrument.qmd
 
 format:
   html:
