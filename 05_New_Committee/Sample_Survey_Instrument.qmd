@@ -1,6 +1,6 @@
 # Appendix: Sample Survey Instrument {#sec-sample-instrument}
 
-This appendix presents a sample version of the **Student Learning Experience Survey (SLES)**, including the recommended preamble and one item per aspect of class climate. The instrument uses a five-point ordered categorical scale (Strongly Agree, Agree, Neither Agree nor Disagree, Disagree, Strongly Disagree) plus a Not Applicable option for each item. The items presented here are illustrative. They are intended to demonstrate how the six aspects of class climate can be operationalized as experiential survey items. This is not intended to be the final instrument.
+This appendix presents a sample version of the **Student Learning Experience Survey (SLES)**, including the recommended preamble and one item per aspect of class climate (two for Coherence). The instrument uses a five-point ordered categorical scale (Strongly Agree, Agree, Neither Agree nor Disagree, Disagree, Strongly Disagree) plus a Not Applicable option for each item. The items presented here are illustrative. They are intended to demonstrate how the six aspects of class climate can be operationalized as experiential survey items. **This is not intended to be the final instrument.**
 
 ## Preamble
 
@@ -38,7 +38,9 @@ All items use the following response scale:
 
 ### Coherence
 
-> "I could see how the different elements of this course — what happened in class, what was assigned, and what was assessed — were connected to each other."
+> "I could see how what was assessed related to what was covered in the course."
+
+> "The course felt like it had a recognizable structure — I could see how the different parts fit together."
 
 ### Participatory Climate
 
