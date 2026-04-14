@@ -40,7 +40,7 @@ All items use the following response scale:
 
 > "I could see how what was assessed related to what was covered in the course."
 
-> "The course felt like it had a recognizable structure — I could see how the different parts fit together."
+> "I could see how the different parts of this course fit together."
 
 ### Participatory Climate
 

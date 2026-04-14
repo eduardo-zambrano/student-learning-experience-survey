@@ -15,7 +15,7 @@ In 2013, the Academic Senate adopted [AS-759-13](https://digitalcommons.calpoly.
 
 ## Summary of recommendations
 
-The proposal this sub-committee has crafted has three parts.
+The proposal this committee has crafted has three parts.
 
 **First**, it recommends that the instrument known as the **Student Evaluation of Instruction** and **Student Evaluation of Faculty** in the University Faculty Personnel Policies^[In sections 3.2, 3.4, 7.2, 8.1 and 8.4.] be renamed as **Student Learning Experience Survey**.
 
@@ -36,9 +36,9 @@ The proposal this sub-committee has crafted has three parts.
 5. [Participatory Climate](#participatory-climate)
 6. [Inclusivity](#inclusivity)
 
-**Third**, it recommends discontinuing the use of the open-ended questions in the **Student Learning Experience Survey**. Substantive open-ended questions remain a key component of the companion [Formative Learning Feedback](https://eduardo-zambrano.github.io/formative-learning-feedback/) proposal, where they serve their intended developmental purpose.
+**Third**, it recommends discontinuing the use of the open-ended questions in the **Student Learning Experience Survey**. Open-ended questions remain a key component of the companion [Formative Learning Feedback](https://eduardo-zambrano.github.io/formative-learning-feedback/) proposal, where they serve their intended developmental purpose.
 
-The proposal also incorporates three companion documents addressing: (1) scoring, reporting, and visualization guidelines; (2) guidance for evaluation of instruction, including a teaching effectiveness rubric and appropriate and inappropriate uses of the survey data; and (3) implementation details.
+The proposal also incorporates three companion documents addressing: (1) scoring, reporting, and visualization guidelines; (2) guidance for evaluation of instruction, including a teaching effectiveness rubric and appropriate and inappropriate uses of the survey data; (3) implementation details; and (4) a sample survey instrument incorporating all our recommendations.
 
 The rest of this document briefly provides the rationale for these recommendations.
 
@@ -130,6 +130,8 @@ An instructor can be approachable one-on-one but create a poor in-class climate 
 ### Coherence
 
 **What it captures:** Whether the student could see connections between course elements — that what happened in class, what was assigned, and what was assessed were recognizably related. A course can be highly coherent — readings connect to lectures connect to assessments — even when the content is disorienting or challenges students' prior beliefs.
+
+Coherence might appear to belong with course design (Goals, Content, and Alignment) rather than with class climate. But what a peer reviewer assesses from the syllabus — whether the course elements are aligned — is different from what the student experiences in the classroom — whether the connections between those elements are *visible* to them. A syllabus can be perfectly aligned on paper while students experience the course as disjointed because the connections were never made explicit. It is this experiential dimension — perceived structure, not designed structure — that the SLES measures, and that makes Coherence a class climate variable.
 
 ::: {.callout-tip collapse="true" title="How Coherence differs from the other aspects"}
 A class can be *respectful*, *fair*, *approachable*, *participatory*, and *inclusive* while the student still cannot see how the pieces fit together — how today's class connects to last week's, or how the assessments relate to what was covered. Coherence captures one specific, concrete experience: whether the student could see the connections between course elements. It is not a summary of the overall learning experience or a proxy for teaching effectiveness. It is about perceived structure, not interpersonal treatment (Respect), equity of standards (Fairness), out-of-class access (Approachability), conditions for engagement (Participatory Climate), or belonging (Inclusivity).
