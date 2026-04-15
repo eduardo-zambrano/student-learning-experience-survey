@@ -36,9 +36,13 @@ The proposal this committee has crafted has three parts.
 5. [Participatory Climate](#participatory-climate)
 6. [Inclusivity](#inclusivity)
 
-**Third**, it recommends discontinuing the use of the open-ended questions in the **Student Learning Experience Survey**. Open-ended questions remain a key component of the companion [Formative Learning Feedback](https://eduardo-zambrano.github.io/formative-learning-feedback/) proposal, where they serve their intended developmental purpose.
+**Third**, it recommends, by a vote of _____ to _____, discontinuing the use of open-ended questions in the **Student Learning Experience Survey** vs. retaining them under structured prompts. Open-ended questions remain a key component of the companion [Formative Learning Feedback](https://eduardo-zambrano.github.io/formative-learning-feedback/) proposal, where they serve their intended developmental purpose.
 
-The proposal also incorporates three companion documents addressing: (1) scoring, reporting, and visualization guidelines; (2) guidance for evaluation of instruction, including a teaching effectiveness rubric and appropriate and inappropriate uses of the survey data; (3) implementation details; and (4) a sample survey instrument incorporating all our recommendations.
+The committee understands that the final decision on open-ended questions rests with the Academic Senate, and that endorsement of this report does not commit the Senate to either approach.
+
+If the Academic Senate elects to retain open-ended questions in the Student Learning Experience Survey, the committee recommends their use under structured prompts (see [Guardrails for open-ended questions](#sec-guardrails-open-ended) below).
+
+The proposal also incorporates four companion documents addressing: (1) scoring, reporting, and visualization guidelines; (2) guidance for evaluation of instruction, including a teaching effectiveness rubric and appropriate and inappropriate uses of the survey data; (3) implementation details; and (4) a sample survey instrument incorporating all our recommendations.
 
 The rest of this document briefly provides the rationale for these recommendations.
 
@@ -131,7 +135,7 @@ An instructor can be approachable one-on-one but create a poor in-class climate 
 
 **What it captures:** Whether the student could see connections between course elements — that what happened in class, what was assigned, and what was assessed were recognizably related. A course can be highly coherent — readings connect to lectures connect to assessments — even when the content is disorienting or challenges students' prior beliefs.
 
-Coherence might appear to belong with course design (Goals, Content, and Alignment) rather than with class climate. But what a peer reviewer assesses from the syllabus — whether the course elements are aligned — is different from what the student experiences in the classroom — whether the connections between those elements are *visible* to them. A syllabus can be perfectly aligned on paper while students experience the course as disjointed because the connections were never made explicit. It is this experiential dimension — perceived structure, not designed structure — that the SLES measures, and that makes Coherence a class climate variable.
+Coherence might appear to belong with course design (Goals, Content, and Alignment) rather than with class climate. But what a peer reviewer assesses from the syllabus — whether the course elements are aligned — is different from what the student experiences in the classroom — whether the connections between those elements are *visible* to them. A syllabus can be perfectly aligned on paper while students experience the course as disjointed because the connections were never made explicit. It is this experiential dimension — perceived structure, not designed structure — that the SLES measures, and that makes Coherence as defined here a class climate variable.
 
 ::: {.callout-tip collapse="true" title="How Coherence differs from the other aspects"}
 A class can be *respectful*, *fair*, *approachable*, *participatory*, and *inclusive* while the student still cannot see how the pieces fit together — how today's class connects to last week's, or how the assessments relate to what was covered. Coherence captures one specific, concrete experience: whether the student could see the connections between course elements. It is not a summary of the overall learning experience or a proxy for teaching effectiveness. It is about perceived structure, not interpersonal treatment (Respect), equity of standards (Fairness), out-of-class access (Approachability), conditions for engagement (Participatory Climate), or belonging (Inclusivity).
@@ -185,6 +189,15 @@ Cal Poly Pomona, the University of Houston, and Florida State University restric
 
 \newpage
 
+## Guardrails for open-ended questions {#sec-guardrails-open-ended}
+
+If the Academic Senate elects to retain open-ended questions in the Student Learning Experience Survey, the committee recommends the following guardrails:
+
+1. **Informational framing.** The preamble must explicitly instruct students to comment on specific aspects of their learning experience and to avoid comments about the instructor's personal characteristics, consistent with the anti-bias framing described in @sec-framing ([Boring and Philippe, 2021](https://doi.org/10.1016/j.jpubeco.2020.104323)).
+
+2. **Structured prompts, not generic invitations.** Open-ended questions must not use generic prompts such as "Please comment on the instructor" or "What are your suggestions for improvement?" Instead, each open-ended question should be tied to a specific aspect of class climate — for example, asking the student to elaborate on their experience of respect, fairness, class coherence or participation. This channels comments toward the dimensions the instrument measures and away from the unstructured commentary that the literature identifies as most susceptible to bias.
+
+**Bias will persist.** Informational framing has been shown to reduce gender bias in *structured Likert-scale items* ([Boring and Philippe, 2021](https://doi.org/10.1016/j.jpubeco.2020.104323)), and the SLES is designed to benefit from this effect. However, the evidence indicates that these protections do not extend to *open-ended responses*, where the unstructured format gives bias room to operate regardless of how the prompt is framed. Owen, De Bruin, and Wu ([2024](https://doi.org/10.1080/02602938.2024.2407927)) tested alternative methods of soliciting feedback — including directed, structured questions — and found that while structured prompts elicited more specific and constructive comments, they did not successfully reduce gender bias. Women faculty were penalized at similar rates across all conditions. The Academic Senate should understand that retaining open-ended questions, even under these guardrails, will continue to expose faculty — particularly women and faculty from marginalized groups — to biased commentary in their personnel files.
 
 ## In sum
 

@@ -41,7 +41,7 @@ The SLES window should **open at the beginning of week 14** and **close at the e
 
 ### The response-rate problem
 
-The single most important administrative decision is the *mode* of administration, because it largely determines the response rate — and the response rate determines whether the data are representative of the class.
+The single most important administrative decision is the *mode* of administration, because it largely determines the response rate.
 
 The evidence is unambiguous: **in-class administration** produces the highest response rates. Paper-based in-class administration historically achieved **80–90%** response rates ([Nulty, 2008](https://doi.org/10.1080/02602930801956059); [Berk, 2013](https://doi.org/10.14434/josotl.v13i4.3609)). By contrast, **online-only outside-class** administration typically produces **30–60%** response rates — a range in which self-selection bias is a serious threat to the validity of the data (see @sec-response-rates).
 
@@ -55,18 +55,18 @@ The hybrid model is particularly well suited to the SLES. The instrument has **s
 
 The summative SLES should use a **hybrid model**: during the evaluation window, each instructor dedicates **10–15 minutes of class time** for students to complete the survey online. The instructor displays the survey link (URL or QR code), then **leaves the room**. A designated student or TA signals the instructor to return when time is up. Students who are absent during the in-class session complete the evaluation outside of class during the remainder of the window.
 
-This is the single most effective step the university can take to ensure that the SLES produces representative data.
+This is the single most effective step the university can take to ensure that the SLES produces high enough response rates.
 
 
 ## Maximizing response rates {#sec-response-rates}
 
 ### Why response rates matter
 
-Response rates determine whether the evaluation sample is representative of the enrolled population. When response rates are low, the students who choose to respond may differ systematically from those who do not — they may be more satisfied, more dissatisfied, higher-performing, or lower-performing than the class as a whole. This self-selection bias is not a theoretical concern; it is well documented. As Stark ([2026](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6193538)) emphasizes, students who submit evaluations are a self-selected sample of convenience, not a random sample, and there is no statistical basis for extrapolating from respondents to the class as a whole.
+When response rates are low, the students who choose to respond may differ systematically from those who do not — they may be more satisfied, more dissatisfied, higher-performing, or lower-performing than the class as a whole. This self-selection bias is not a theoretical concern; it is well documented. As Stark ([2026](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6193538)) emphasizes, students who submit evaluations are a self-selected sample of convenience, not a random sample, and there is no statistical basis for extrapolating from respondents to the class as a whole.
 
 Springer ([2015](https://doi.org/10.1177/1521025114560131)) found that online evaluation respondents differed from non-respondents in academic achievement, satisfaction, and motivation. Holtgraves and colleagues ([2023](https://doi.org/10.3389/fpsyg.2023.1138886)) found that non-respondents were not a random subset of enrolled students and that the resulting bias could not be corrected by statistical adjustment. Springer ([2016](https://eric.ed.gov/?id=EJ1136018)) further showed that the *direction* of the bias varied by course context — meaning that the bias cannot be predicted or corrected post hoc.
 
-A **70% response rate** is widely cited as the threshold for representative sampling in course evaluations ([Nulty, 2008](https://doi.org/10.1080/02602930801956059); [Explorance, 2023](https://explorance.com/blog/improving-course-evaluation-response-rates/)). Below this threshold, self-selection bias threatens the validity of the results.
+<!-- A **70% response rate** is widely cited as the threshold for representative sampling in course evaluations ([Nulty, 2008](https://doi.org/10.1080/02602930801956059); [Explorance, 2023](https://explorance.com/blog/improving-course-evaluation-response-rates/)). Below this threshold, self-selection bias threatens the validity of the results. -->
 
 ::: {.callout-note collapse="true" title="Strategies ranked by effectiveness: what the literature says"}
 
@@ -103,6 +103,8 @@ A natural question is whether the instructions presented to students before they
 
 **Informational framing** — pairing the warning with institution-specific data showing that previous cohorts had evaluated male and female instructors differently — produced a markedly different result. In the same experiment, Boring and Philippe found that informational framing significantly reduced the gender bias, raising ratings of female instructors without affecting ratings of male instructors. The effect was driven primarily by male students' evaluations of female instructors; female students' ratings were not significantly affected by either treatment.
 
+**An important caveat:** The evidence that informational framing reduces bias applies to *structured Likert-scale items*. It does not extend to *open-ended responses*, where the unstructured format gives bias room to operate regardless of how the prompt is framed. Owen, De Bruin, and Wu ([2024](https://doi.org/10.1080/02602938.2024.2407927)) found that even directed, structured prompts — while they improved the specificity and constructiveness of open-ended comments — did not reduce gender bias. This is one of the reasons the committee recommends discontinuing open-ended questions from the summative instrument.
+
 ### Recommendation
 
 The SLES should open with a brief, concrete, **data-informed preamble** — not a generic "be fair" appeal, which the evidence shows is ineffective, but a factual statement that provides students with context about what the survey measures and what the research shows about evaluation biases. The preamble should:
@@ -115,7 +117,7 @@ The SLES should open with a brief, concrete, **data-informed preamble** — not 
 
 The name **Student Learning Experience Survey** is itself a framing device. By directing attention to the student's *experience* rather than to the instructor's *performance*, the instrument's name reinforces the experiential focus that the bias literature recommends.
 
-::: {.callout-note collapse="true" title="Draft preamble language"}
+::: {.callout-note collapse="false" title="Draft preamble language"}
 
 **Student Learning Experience Survey**
 
@@ -141,7 +143,7 @@ The following table synthesizes the evidence reviewed in this chapter into a con
 | **Framing** | Informational preamble (data-informed, not generic) | Boring and Philippe ([2021](https://doi.org/10.1016/j.jpubeco.2020.104323)): informational framing reduces gender bias; generic appeals do not |
 | **Reminders** | 4 automated reminders at 2–3 day intervals | Adams and Umbach ([2012](https://doi.org/10.1007/s10755-011-9190-4)): achieves ~70% response rates |
 | **Results release** | Only after final grades are submitted | Universally recommended; protects anonymity and reduces grade-anxiety bias |
-| **Response rate target** | 70% minimum | Below this threshold, self-selection bias threatens validity ([Nulty, 2008](https://doi.org/10.1080/02602930801956059); [Holtgraves et al., 2023](https://doi.org/10.3389/fpsyg.2023.1138886)) |
+<!-- | **Response rate target** | 70% minimum | Below this threshold, self-selection bias threatens validity ([Nulty, 2008](https://doi.org/10.1080/02602930801956059); [Holtgraves et al., 2023](https://doi.org/10.3389/fpsyg.2023.1138886)) | -->
 | **Response rate reporting** | Raw counts alongside results | Per the scoring and reporting guidelines; lets evaluators judge representativeness |
 
-Administering the SLES in the final two weeks of instruction, with dedicated class time and an informational preamble, maximizes response rates, minimizes bias, and produces data that evaluators can interpret with confidence. This is an achievable model — it requires no new technology, no additional personnel, and minimal class time — and it reflects the best available evidence on how to implement a student survey that is both useful and fair.
+Administering the SLES in the final two weeks of instruction, with dedicated class time and an informational preamble is an achievable model — it requires no new technology, no additional personnel, and minimal class time — and it reflects the best available evidence on how to implement a student survey that is both useful and fair.

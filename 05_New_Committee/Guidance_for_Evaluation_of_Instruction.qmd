@@ -133,7 +133,7 @@ This dimension is about whether the instructor clearly communicates the learning
 **Sources of evidence:** Student work samples, reflection, meeting with instructor, review of student materials.
 
 ::: {.callout-note title="Note"}
-This dimension is assessed through review of student work, analysis of learning outcomes, and instructor reflection, not through student surveys. The Student Learning Experience Survey does not assess this dimension.
+This dimension is assessed through review of student work, analysis of learning outcomes, and instructor reflection, not through student surveys. The Student Learning Experience Survey does not assess this dimension. While it may seem natural to ask students how much they learned, perceived learning does not track actual learning. In a controlled experiment, Deslauriers et al. ([2019](https://doi.org/10.1073/pnas.1821936116)) found that students who learned *more* (as measured by test performance) reported feeling they had learned *less*, and vice versa. Uttl, White, and Gonzalez ([2017](https://doi.org/10.1016/j.stueduc.2016.08.007)), in a comprehensive meta-analysis, found that the correlation between student evaluation ratings and student learning is effectively zero. A "perceived learning" item would thus measure neither the learning environment nor actual learning, while carrying the same bias vulnerabilities as other evaluative items.
 :::
 
 

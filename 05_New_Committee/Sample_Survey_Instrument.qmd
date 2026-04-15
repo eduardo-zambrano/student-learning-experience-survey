@@ -50,6 +50,42 @@ All items use the following response scale:
 
 > "I felt I belonged in this class."
 
+## Sample if the Academic Senate elects to retain open-ended questions
+
+If open-ended questions are retained under the guardrails described in @sec-guardrails-open-ended, the instrument would include one structured open-ended prompt on Coherence — the aspect where elaboration is most informative and least susceptible to bias. The prompt appears immediately after the Coherence Likert items and directs the student to describe their experience with course structure.
+
+### Coherence (with structured open-ended prompt)
+
+> "I could see how what was assessed related to what was covered in the course."
+
+> "I could see how the different parts of this course fit together."
+
+> "Please describe your experience with how the different parts of this course fit together — for example, how readings, class activities, assignments, and assessments related to each other. Focus on specific aspects of the course, not on personal characteristics of the instructor."
+
+```{=html}
+<div style="border: 1px solid #999; border-radius: 4px; min-height: 80px; padding: 10px; margin: 0.5em 2em 1.5em 2em; background: #fafafa; color: #aaa; font-style: italic;">
+Your response here...
+</div>
+```
+
+All other items (Respect, Fairness, Approachability, Participatory Climate, Inclusivity) remain Likert-only.
+
+### Why an open-ended question only on Coherence?
+
+The committee considered attaching an open-ended prompt to each of the six aspects and concluded that Coherence is the only aspect where the benefit of elaboration clearly outweighs the risk of bias. The reasoning, aspect by aspect:
+
+- **Respect.** An open-ended prompt here invites commentary on tone, manner, and personality — exactly the content that disproportionately targets women and faculty from marginalized groups ([Mitchell and Martin, 2018](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/gender-bias-in-student-evaluations/1224BE475C0AE75A2C2D8553210C4E27)). Highest risk, lowest benefit.
+
+- **Fairness.** An open-ended prompt here invites comments about grading, which correlates with grade *expectations*, not actual fairness. It also invites favoritism allegations that can be racialized ([Chisadza, Nicholls, and Yitbarek, 2019](https://doi.org/10.1016/j.econlet.2019.03.022)). High risk.
+
+- **Approachability.** An open-ended prompt here invites commentary on communication style, accent, and warmth — all heavily gendered and racialized ([Subtirelu, 2015](https://doi.org/10.1017/S0047404514000736); [Miller and Chamberlin, 2000](https://doi.org/10.2307/1318580)). High risk.
+
+- **Inclusivity.** An open-ended prompt here could elicit valuable information, but it could also produce comments about the instructor's identity that are impossible to disentangle from bias. A student who doesn't feel they belong might attribute it to the instructor's demographics rather than to specific practices ([Heffernan, 2023](https://link.springer.com/article/10.1007/s10734-022-00831-x)). Moderate-to-high risk.
+
+- **Coherence.** This is the safest choice. An open-ended prompt here channels comments toward course structure — readings, assignments, assessments, the connections between topics. These are the most impersonal, practice-oriented comments a student can make. It is hard (but not impossible) to write something biased about whether the exam matched the lectures. And it is the aspect where elaboration is most useful to evaluators — a Likert response tells you the student didn't see the connections; a structured comment tells you *which* connections were missing.
+
+- **Participatory Climate.** An open-ended prompt here could produce useful structural feedback (e.g., "group work was dominated by two people," "questions were welcomed but never answered"). But it readily invites evaluative commentary about the instructor's teaching style — particularly judgments like "the lectures were boring" or "there was too much group work." Research shows that students conflate instructor enthusiasm and charisma with teaching effectiveness, even though enthusiasm is not associated with learning ([Feeley, 2002](https://doi.org/10.1080/03634520216519); [Williams and Ceci, 1997](https://doi.org/10.1080/00091389709602331)). A comment like "boring" tells you about the student's affective response — which may reflect the instructor's gender, accent, or presentation style — not about whether the environment supported participation. This kind of feedback is valuable in the formative process, where the instructor can contextualize it; in the personnel file, it becomes indistinguishable from bias. Moderate risk.
+
 ## Relationship to Existing Cal Poly Maritime Academy Practices
 
 Several of these aspects are already tracked in other CSU instruments. The Solano Campus, for example, includes items on fairness ("The instructor attempted to be fair and unbiased in their interaction with students"), inclusivity ("The instructor demonstrated awareness and consideration of the diversity of students in the class"), approachability ("The instructor was responsive when I had questions"), and participatory climate ("The instructor provided opportunities for class participation"). The SLES items are compatible with this existing practice. The principal difference is one of framing: the SLES items are worded as first-person experiential reports ("I felt...") rather than third-person assessments of instructor behavior ("The instructor attempted..."), consistent with the evidence that experiential items are less susceptible to bias than evaluative ones.
