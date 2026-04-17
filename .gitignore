@@ -1,11 +1,16 @@
 # Quarto rendered output
 *_files/
 *.html
+*.pdf
 _book/
+tmp-pdfcrop-*
 
 # OS files
 .DS_Store
 ~$*
+
+# Claude Code local settings
+.claude/
 
 # Quarto cache
 .quarto/
@@ -25,6 +30,10 @@ response_to_kylie.html
 
 # Plan B (not for distribution)
 05_New_Committee/Plan_B.qmd
+
+# Personal correspondence drafts
+05_New_Committee/email_to_john_re_voting.txt
+05_New_Committee/Response_Likert_Bias.qmd
 
 # Node (StaticCrypt)
 node_modules/
