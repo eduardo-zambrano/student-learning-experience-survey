@@ -3,9 +3,9 @@ project:
   output-dir: _book
 
 book:
-  title: "The Student Learning Experience Survey"
+  title: "Student Perceptions of Learning Experience"
   subtitle: "Rationale and Broad Principles of Design"
-  author: "Sub-Committee of the Ad Hoc Committee on Student Perceptions of Teaching Effectiveness"
+  author: "Ad Hoc Committee on Student Perceptions of Teaching Effectiveness"
   date: today
   downloads: [pdf]
   chapters:

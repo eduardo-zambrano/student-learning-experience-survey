@@ -38,7 +38,7 @@ This guidance adopts the TEval framework ([Austin et al., 2025](https://hep.gse.
 We therefore propose that UFPP §7.2.5.2 be revised to read: "Evaluators shall consider such dimensions as (1) Goals, Content, and Alignment; (2) Teaching Practices; (3) Class Climate; (4) Achievement of Learning Outcomes; (5) Reflection and Iterative Growth; (6) Mentoring and Advising; and (7) Involvement in Teaching Service, Scholarship, or Community."
 :::
 
-Evidence for evaluating teaching comes from three sources: the instructor (e.g., CV, syllabi, course materials, student work samples, reflection), peers or observers (e.g., meeting with instructor, class observation, review of student materials), and students (e.g., Student Learning Experience Survey, letters from students). The sections that follow describe each dimension, the guiding questions evaluators should consider, the sources of evidence appropriate to that dimension, and — where applicable — the limitations of particular evidence sources.
+Evidence for evaluating teaching comes from three sources: the instructor (e.g., CV, syllabi, course materials, student work samples, reflection), peers or observers (e.g., meeting with instructor, class observation, review of student materials), and students (e.g., Student Perceptions of Learning Experience, letters from students). The sections that follow describe each dimension, the guiding questions evaluators should consider, the sources of evidence appropriate to that dimension, and — where applicable — the limitations of particular evidence sources.
 
 \newpage
 
@@ -49,7 +49,7 @@ This dimension is about what students are expected to learn from the courses tau
 **Sources of evidence:** Syllabi, course materials, reflection, meeting with instructor, class observation, review of student materials.
 
 ::: {.callout-note title="Note"}
-This dimension requires disciplinary expertise to evaluate. It is assessed through peer review (syllabi review, class observation, review of course materials) and instructor self-report (reflection), not through student surveys. The Student Learning Experience Survey does not assess this dimension.
+This dimension requires disciplinary expertise to evaluate. It is assessed through peer review (syllabi review, class observation, review of course materials) and instructor self-report (reflection), not through student surveys. The Student Perceptions of Learning Experience does not assess this dimension.
 :::
 
 
@@ -60,37 +60,37 @@ This dimension is about how in-class and out-of-class time is used, whether assi
 **Sources of evidence:** Syllabi, course materials, reflection, meeting with instructor, class observation, review of student materials.
 
 ::: {.callout-note title="Note"}
-This dimension requires pedagogical expertise to evaluate. It is assessed through peer observation, review of course materials, and instructor reflection, not through student surveys. The Student Learning Experience Survey does not assess this dimension.
+This dimension requires pedagogical expertise to evaluate. It is assessed through peer observation, review of course materials, and instructor reflection, not through student surveys. The Student Perceptions of Learning Experience does not assess this dimension.
 :::
 
 
 ### §8.3.6. Dimension 3: Class Climate {#sec-class-climate-guidance}
 
-This dimension is about the extent to which the class climate is respectful, supportive, and cooperative, whether it encourages motivation and engagement for all students, whether all students feel included, how student-student and student-instructor dialogue are fostered, what the students' views of their learning experiences are, and how the instructor has sought student feedback and used it to inform their teaching.
+This dimension is about the extent to which the class climate reflects regard for students as persons, is supportive, and cooperative, whether it encourages motivation and engagement for all students, whether all students feel included, how student-student and student-instructor dialogue are fostered, what the students' views of their learning experiences are, and how the instructor has sought student feedback and used it to inform their teaching.
 
-**Sources of evidence:** Syllabi, reflection, class observation, **Student Learning Experience Survey**, letters from students.
+**Sources of evidence:** Syllabi, reflection, class observation, **Student Perceptions of Learning Experience**, letters from students.
 
-This is the only dimension assessed through the **Student Learning Experience Survey (SLES)**, which asks students to report on six aspects of class climate:
+This is the only dimension assessed through the **Student Perceptions of Learning Experience (SPLE)**, which asks students to report on six aspects of class climate:
 
-- **Respect** — Dignity and courtesy in how the instructor interacts with students.
-- **Fairness** — Equitable treatment and consistent application of standards.
-- **Approachability** — Perceived accessibility of the instructor for help outside of class.
-- **Coherence** — Whether the student could see connections between course elements.
+- **Regard for Students** — Dignity in how the instructor interacts with students, and regard for students as persons.
+- **No Differential Enforcement of Expectations** — Equitable treatment and consistent application of standards.
+- **Access to Instructor and Instructor Resources** — Perceived accessibility of the instructor for help outside of class.
+- **Perceived Course Coherence** — Whether the student could see connections between course elements.
 - **Participatory Climate** — Whether the classroom environment supports multiple modes of active engagement.
-- **Inclusivity** — Whether students feel they belong in the class.
+- **Welcoming Learning Environment** — Whether students feel they belong in the class.
 
-#### §8.3.6.1. Interpreting Student Learning Experience Survey results
+#### §8.3.6.1. Interpreting Student Perceptions of Learning Experience results
 
-Evaluators and candidates should interpret SLES results with care, following the scoring, reporting, and visualization guidelines established in @sec-scoring-reporting. Key principles include:
+Evaluators and candidates should interpret SPLE results with care, following the scoring, reporting, and visualization guidelines established in @sec-scoring-reporting. Key principles include:
 
-- **Frequency distributions, not averages.** SLES responses are ordered categorical data. They must not be averaged, and evaluators should examine the full distribution of responses, not any summary statistic.
+- **Frequency distributions, not averages.** SPLE responses are ordered categorical data. They must not be averaged, and evaluators should examine the full distribution of responses, not any summary statistic.
 - **Raw counts, not percentages.** With the class sizes typical of most courses, percentages create a misleading impression of precision.
-- **No cross-comparisons.** SLES results must not be compared across instructors, courses, departments, or disciplines. Differences in scores may reflect demographic biases, course characteristics, or nonresponse patterns rather than differences in the learning environment.
+- **No cross-comparisons.** SPLE results must not be compared across instructors, courses, departments, or disciplines. Differences in scores may reflect demographic biases, course characteristics, or nonresponse patterns rather than differences in the learning environment.
 - **No extrapolation.** Results from respondents should not be extrapolated to non-respondents. Students who submit evaluations are a self-selected sample of convenience, not a random sample.
 
 #### §8.3.6.2. Inherent limitations of student evaluation data
 
-Even when student survey items are framed as experiential reports about class climate — as in the SLES — rather than as evaluative judgments about teaching effectiveness, evaluators must be mindful of the inherent limitations of student evaluation data. These include, but are not limited to, the following factors ([Stark, 2026](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6193538)):
+Even when student survey items are framed as experiential reports about class climate — as in the SPLE — rather than as evaluative judgments about teaching effectiveness, evaluators must be mindful of the inherent limitations of student evaluation data. These include, but are not limited to, the following factors ([Stark, 2026](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6193538)):
 
 - **Gender bias.** Student evaluations have substantial bias from gender: female instructors sometimes receive lower ratings than objectively less effective male instructors; gender affects ratings of ostensibly "objective" items like promptness; and bias varies across disciplines and differs between male and female students ([Boring, Ottoboni, and Stark, 2016](https://www.scienceopen.com/hosted-document?doi=10.14293/S2199-1006.1.SOR-EDU.AETBZC.v1); [MacNell, Driscoll, and Hunt, 2015](https://doi.org/10.1007/s10755-014-9313-4); [Mengel, Sauermann, and Zölitz, 2018](https://doi.org/10.1093/jeaa/jvx057)).
 
@@ -112,7 +112,7 @@ Even when student survey items are framed as experiential reports about class cl
 
 #### §8.3.6.3. Department-associated questions
 
-Departments are not required to add questions to the Student Learning Experience Survey. The six university-wide items are designed to provide a comprehensive assessment of class climate, and many departments will find them sufficient.
+Departments are not required to add questions to the Student Perceptions of Learning Experience. The six university-wide items are designed to provide a comprehensive assessment of class climate, and many departments will find them sufficient.
 
 Departments that wish to add questions should weigh the benefit of additional information against the cost of making the instrument more burdensome for students to complete. A longer survey reduces response rates, and lower response rates weaken the representativeness of the data — undermining the very information the additional questions are meant to provide.
 
@@ -120,7 +120,7 @@ If a department elects to add questions, those questions must meet the same stan
 
 - **Students must be qualified to answer.** The question must concern something students can report on from their own experience, without requiring disciplinary or pedagogical expertise.
 - **Students must be able to answer with minimal bias.** The question must elicit an experiential report, not an evaluative judgment. Items that ask students to assess teaching effectiveness, course quality, or instructor competence are not permitted, as these are the items the literature identifies as most susceptible to bias.
-- **Closed-ended, structured items only.** Department-associated questions must be closed-ended items on the five-point Likert scale. Open-ended questions are not permitted on the summative instrument — for the same reasons they were removed from the university-wide items. Questions that invite unstructured commentary (e.g., "What could be changed about this course?") belong in the formative learning feedback process offered through the CTLT, not on the SLES.
+- **Closed-ended, structured items only.** Department-associated questions must be closed-ended items on the five-point Likert scale. Open-ended questions are not permitted on the summative instrument — for the same reasons they were removed from the university-wide items. Questions that invite unstructured commentary (e.g., "What could be changed about this course?") belong in the formative learning feedback process offered through the CTLT, not on the SPLE.
 - **No open-ended questions.** To be explicit: no department-associated question may solicit a free-text response. The evidence on equity bias in open-ended comments applies regardless of whether the question originates at the university or department level. Open-ended questions remain a central part of the [Formative Learning Feedback](https://eduardo-zambrano.github.io/formative-learning-feedback/) process, where they serve their intended developmental purpose — shared only with the instructor and not included in the personnel file.
 
 Department-associated questions must use the same five-point ordered categorical (Likert) response scale as the university-wide items (Strongly Agree, Agree, Neither Agree nor Disagree, Disagree, Strongly Disagree, plus Not Applicable). They must be scored and reported identically to the university-wide questions — as frequency distributions of raw counts, with no numerical averages, no cross-comparisons, and no extrapolation from respondents to non-respondents. Every guardrail established in @sec-scoring-reporting for the university-wide items applies in full force to department-associated questions, lest the protections built into the university-level instrument be undone at the department level.
@@ -133,7 +133,7 @@ This dimension is about whether the instructor clearly communicates the learning
 **Sources of evidence:** Student work samples, reflection, meeting with instructor, review of student materials.
 
 ::: {.callout-note title="Note"}
-This dimension is assessed through review of student work, analysis of learning outcomes, and instructor reflection, not through student surveys. The Student Learning Experience Survey does not assess this dimension. While it may seem natural to ask students how much they learned, perceived learning does not track actual learning. In a controlled experiment, Deslauriers et al. ([2019](https://doi.org/10.1073/pnas.1821936116)) found that students who learned *more* (as measured by test performance) reported feeling they had learned *less*, and vice versa. Uttl, White, and Gonzalez ([2017](https://doi.org/10.1016/j.stueduc.2016.08.007)), in a comprehensive meta-analysis, found that the correlation between student evaluation ratings and student learning is effectively zero. A "perceived learning" item would thus measure neither the learning environment nor actual learning, while carrying the same bias vulnerabilities as other evaluative items.
+This dimension is assessed through review of student work, analysis of learning outcomes, and instructor reflection, not through student surveys. The Student Perceptions of Learning Experience does not assess this dimension. While it may seem natural to ask students how much they learned, perceived learning does not track actual learning. In a controlled experiment, Deslauriers et al. ([2019](https://doi.org/10.1073/pnas.1821936116)) found that students who learned *more* (as measured by test performance) reported feeling they had learned *less*, and vice versa. Uttl, White, and Gonzalez ([2017](https://doi.org/10.1016/j.stueduc.2016.08.007)), in a comprehensive meta-analysis, found that the correlation between student evaluation ratings and student learning is effectively zero. A "perceived learning" item would thus measure neither the learning environment nor actual learning, while carrying the same bias vulnerabilities as other evaluative items.
 :::
 
 
@@ -144,7 +144,7 @@ This dimension is about how and why the instructor's teaching has changed over t
 **Sources of evidence:** Syllabi, course materials, student work samples, reflection, meeting with instructor.
 
 ::: {.callout-note title="Note"}
-This dimension is assessed through the candidate's reflective narrative and through longitudinal review of course materials and student outcomes. The Student Learning Experience Survey does not assess this dimension, though SLES results over time may inform the candidate's reflection.
+This dimension is assessed through the candidate's reflective narrative and through longitudinal review of course materials and student outcomes. The Student Perceptions of Learning Experience does not assess this dimension, though SPLE results over time may inform the candidate's reflection.
 :::
 
 
@@ -155,7 +155,7 @@ This dimension is about how effectively the instructor has worked individually w
 **Sources of evidence:** CV (student awards, achievements), reflection, meeting with instructor, review of student materials, letters from students.
 
 ::: {.callout-note title="Note"}
-This dimension is assessed through the candidate's CV, reflective narrative, meeting with the instructor, and letters from students — not through the Student Learning Experience Survey.
+This dimension is assessed through the candidate's CV, reflective narrative, meeting with the instructor, and letters from students — not through the Student Perceptions of Learning Experience.
 :::
 
 
@@ -166,7 +166,7 @@ This dimension is about how the instructor has contributed to the broader teachi
 **Sources of evidence:** CV (participation in teaching and learning committees), reflection, meeting with instructor.
 
 ::: {.callout-note title="Note"}
-This dimension is assessed through the candidate's CV and reflective narrative. The Student Learning Experience Survey does not assess this dimension.
+This dimension is assessed through the candidate's CV and reflective narrative. The Student Perceptions of Learning Experience does not assess this dimension.
 :::
 
 \newpage
@@ -197,11 +197,11 @@ Evaluators should use this rubric to organize their assessment of each dimension
 
 | Developing | Proficient | Expert |
 |---|---|---|
-| Class climate discourages student motivation or self-efficacy. Does not effectively create a respectful or welcoming learning environment. Consistently negative student reports of teacher accessibility or interaction skills. Little attempt to address concerns voiced by students. | Class climate promotes student motivation. Fosters a respectful learning environment. No consistently negative student ratings of teacher accessibility or interaction skills. Instructor articulates some lessons learned through student feedback. | Climate promotes motivation, self-efficacy, ownership of learning. Instructor models welcoming language and behavior. Fosters a respectful and open learning environment that promotes student-student and student-teacher dialogue. Student feedback on teacher accessibility and interaction is generally positive. Instructor seeks and is responsive to student feedback. |
+| Class climate discourages student motivation or self-efficacy. Does not effectively create a welcoming learning environment. Consistently negative student reports of instructor access or interaction. Little attempt to address concerns voiced by students. | Class climate promotes student motivation. Fosters a welcoming learning environment with regard for students as persons. No consistently negative student reports of instructor access or interaction. Instructor articulates some lessons learned through student feedback. | Climate promotes motivation, self-efficacy, ownership of learning. Instructor models welcoming language and behavior. Fosters an open learning environment that promotes student-student and student-instructor dialogue. Student feedback on instructor access and interaction is generally positive. Instructor seeks and is responsive to student feedback. |
 
 : {.striped}
 
-For Dimension 3 (Class Climate), the rubric tiers correspond to patterns observable in the [SLES frequency distributions](@sec-scoring-reporting) and in other evidence of class climate.
+For Dimension 3 (Class Climate), the rubric tiers correspond to patterns observable in the [SPLE frequency distributions](@sec-scoring-reporting) and in other evidence of class climate.
 
 #### Dimension 4: Achievement of Learning Outcomes
 
@@ -260,9 +260,9 @@ Departmental expectations should be:
 
 The evaluation framework described in this guidance represents a substantial change from current practice. Evaluators should not be expected to implement it without adequate preparation, and instructors should not be expected to navigate it without clear guidance. Prior to implementation, the university must invest in training for evaluators and orientation for instructors.
 
-**Training for evaluators.** All faculty who serve on peer review committees should receive training on the seven-dimension framework, the teaching effectiveness rubric, and the proper interpretation of Student Learning Experience Survey data — including the inherent limitations described in @sec-class-climate-guidance. Training should include **norming sessions** in which evaluators from the same peer review committee review sample evidence portfolios and calibrate their application of the rubric. Norming is essential to ensure that evaluators across the university understand and use the instruments and evaluation framework in a coherent way, so that the quality of an instructor's evaluation does not depend on which committee reviews it. Cross-departmental norming sessions are also recommended so that college and university-level review committees apply consistent standards. For this same reason, Deans, and the Provost, should receive the training as well. 
+**Training for evaluators.** All faculty who serve on peer review committees should receive training on the seven-dimension framework, the teaching effectiveness rubric, and the proper interpretation of Student Perceptions of Learning Experience data — including the inherent limitations described in @sec-class-climate-guidance. Training should include **norming sessions** in which evaluators from the same peer review committee review sample evidence portfolios and calibrate their application of the rubric. Norming is essential to ensure that evaluators across the university understand and use the instruments and evaluation framework in a coherent way, so that the quality of an instructor's evaluation does not depend on which committee reviews it. Cross-departmental norming sessions are also recommended so that college and university-level review committees apply consistent standards. For this same reason, Deans, and the Provost, should receive the training as well. 
 
-**Guidance for instructors.** Instructors should receive clear guidance on the evaluation framework before their first evaluation cycle under the new system. This guidance should explain the seven dimensions, the rubric tiers, the kinds of evidence that are appropriate for each dimension, and how SLES data will be used. Instructors should understand what is expected of them at their career phase and how to assemble an evidence portfolio.
+**Guidance for instructors.** Instructors should receive clear guidance on the evaluation framework before their first evaluation cycle under the new system. This guidance should explain the seven dimensions, the rubric tiers, the kinds of evidence that are appropriate for each dimension, and how SPLE data will be used. Instructors should understand what is expected of them at their career phase and how to assemble an evidence portfolio.
 
 **Resources and tools.** The university should develop and maintain resources to support both evaluators and instructors, including:
 

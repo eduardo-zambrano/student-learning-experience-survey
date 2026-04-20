@@ -121,8 +121,8 @@ The quality and timeliness of feedback is something students can directly experi
 - My professor promoted norms for classroom interactions that supported mutual respect.
 ::: -->
 
-::: {.callout-important title="How Dimension 6 relates to the SLES"}
-This dimension overlaps with the summative SLES, which also addresses class climate. The overlap is intentional: climate is important enough to warrant both a formative check (visible only to the instructor, actionable mid-course) and a summative record (entered in the personnel file at term's end). The two serve different institutional purposes even when they touch the same territory.
+::: {.callout-important title="How Dimension 6 relates to the SPLE"}
+This dimension overlaps with the summative SPLE, which also addresses class climate. The overlap is intentional: climate is important enough to warrant both a formative check (visible only to the instructor, actionable mid-course) and a summative record (entered in the personnel file at term's end). The two serve different institutional purposes even when they touch the same territory.
 :::
 
 

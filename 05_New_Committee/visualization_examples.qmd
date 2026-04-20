@@ -1,6 +1,6 @@
 ---
 title: "Reporting Guidelines — Visualization Examples"
-subtitle: "Draft mockups for the Student Learning Experience Survey"
+subtitle: "Draft mockups for the Student Perceptions of Learning Experience"
 format:
   html:
     theme: cosmo
@@ -152,7 +152,7 @@ mat <- matrix(c(q1_counts, q2_counts), nrow = 2, byrow = TRUE,
 likert(mat,
        positive.order = FALSE,
        as.percent = FALSE,
-       main = paste0("Student Learning Experience Survey  (",
+       main = paste0("Student Perceptions of Learning Experience  (",
                      responded, " of ", enrolled,
                      " enrolled students responded)"),
        sub = "",
@@ -270,7 +270,7 @@ ggplot(segments, aes(y = question)) +
     breaks = seq(-10, 15, by = 5),
     labels = abs(seq(-10, 15, by = 5))
   ) +
-  labs(title    = "Student Learning Experience Survey",
+  labs(title    = "Student Perceptions of Learning Experience",
        subtitle = paste0(responded, " of ", enrolled, " enrolled students responded"),
        x = "Number of respondents", y = NULL) +
   theme_tufte(base_size = 13, base_family = "Palatino") +

@@ -23,7 +23,7 @@ Two modes are recommended. Instructors should choose the one that best fits thei
 
 1. The instructor distributes a brief paper form or displays a link/QR code to an online form
 2. Students complete the feedback anonymously during class time (approximately 5 minutes)
-3. The instructor may remain in the room (unlike the summative SLES, the formative feedback process is not an evaluative instrument and does not require the instructor to leave)
+3. The instructor may remain in the room (unlike the summative SPLE, the formative feedback process is not an evaluative instrument and does not require the instructor to leave)
 4. If using paper, the instructor collects the forms; if using an online form, responses are submitted digitally
 
 ### Option B: Online administration (3-day window)
@@ -109,7 +109,7 @@ Instructors may find the following template useful for structuring their in-clas
 
 ## In sum
 
-The **Formative Learning Feedback** process complements the summative **Student Learning Experience Survey** by covering the dimensions of effective teaching that students can observe and report on but that fall outside what they can validly evaluate for personnel purposes. It is voluntary, developmental, and shared only with the instructor — making it the appropriate home for both structured feedback on teaching practices and the open-ended questions that the literature identifies as too susceptible to bias for inclusion in a personnel file. The seven dimensions, drawn from Ambrose et al. ([2010](https://www.wiley.com/en-us/How+Learning+Works-p-9780470484104)), give faculty a research-grounded menu of feedback options they can deploy at any point in the term, on their own terms, in service of their own growth as educators.
+The **Formative Learning Feedback** process complements the summative **Student Perceptions of Learning Experience** by covering the dimensions of effective teaching that students can observe and report on but that fall outside what they can validly evaluate for personnel purposes. It is voluntary, developmental, and shared only with the instructor — making it the appropriate home for both structured feedback on teaching practices and the open-ended questions that the literature identifies as too susceptible to bias for inclusion in a personnel file. The seven dimensions, drawn from Ambrose et al. ([2010](https://www.wiley.com/en-us/How+Learning+Works-p-9780470484104)), give faculty a research-grounded menu of feedback options they can deploy at any point in the term, on their own terms, in service of their own growth as educators.
 
 
 ## Bibliography

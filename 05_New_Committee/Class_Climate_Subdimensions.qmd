@@ -17,30 +17,32 @@ In 2013, the Academic Senate adopted [AS-759-13](https://digitalcommons.calpoly.
 
 The proposal this committee has crafted has three parts.
 
-**First**, it recommends that the instrument known as the **Student Evaluation of Instruction** and **Student Evaluation of Faculty** in the University Faculty Personnel Policies^[In sections 3.2, 3.4, 7.2, 8.1 and 8.4.] be renamed as **Student Learning Experience Survey**.
+**First**, it unanimously recommends that the instrument known as the **Student Evaluation of Instruction** and **Student Evaluation of Faculty** in the University Faculty Personnel Policies^[In sections 3.2, 3.4, 7.2, 8.1 and 8.4.] be renamed as **Student Perceptions of Learning Experience**.
 
-**Second**, it recommends that the aspects of teaching effectiveness assessed through the **Student Learning Experience Survey** are the following:
+**Second**, it unanimously recommends that the aspects of teaching effectiveness assessed through the **Student Perceptions of Learning Experience** are the following:
 
 *Interpersonal — how the instructor relates to individual students:*
 
-1. [Respect](#respect)
-2. [Fairness](#fairness)
-3. [Approachability](#approachability)
+1. [Regard for Students](#treatment-of-students)
+2. [No Differential Enforcement of Expectations](#no-differential-enforcement-of-expectations)
+3. [Access to Instructor and Instructor Resources](#access-to-instructor-and-instructor-resources)
 
 *Structural — how the course is experienced as a whole by the students:*
 
-4. [Coherence](#coherence)
+4. [Perceived Course Coherence](#perceived-course-coherence)
 
 *Environmental — what the classroom feels like as a shared space:*
 
 5. [Participatory Climate](#participatory-climate)
-6. [Inclusivity](#inclusivity)
+6. [Welcoming Learning Environment](#welcoming-learning-environment)
 
-**Third**, it recommends, by a vote of _____ to _____, discontinuing the use of open-ended questions in the **Student Learning Experience Survey** vs. retaining them under structured prompts. Open-ended questions remain a key component of the companion [Formative Learning Feedback](https://eduardo-zambrano.github.io/formative-learning-feedback/) proposal, where they serve their intended developmental purpose.
+**Third**, the committee discussed whether to remove open-ended questions from the summative instrument due to the extensive evidence of equity bias in unstructured student comments (see [Evidence on bias in open-ended comments](#sec-evidence-open-ended) below). A motion to remove them from the Student Perceptions of Learning Experience obtained three votes in favor and five votes against. The motion failed. The committee then voted unanimously to retain open-ended questions in the Student Perceptions of Learning Experience under structured prompts and guardrails designed to minimize bias (see [Guardrails for open-ended questions](#sec-guardrails-open-ended) below).
+
+Open-ended questions remain a key component of the companion [Formative Learning Feedback](https://eduardo-zambrano.github.io/formative-learning-feedback/) proposal, where they serve their intended developmental purpose.
 
 The committee understands that the final decision on open-ended questions rests with the Academic Senate, and that endorsement of this report does not commit the Senate to either approach.
 
-If the Academic Senate elects to retain open-ended questions in the Student Learning Experience Survey, the committee recommends their use under structured prompts (see [Guardrails for open-ended questions](#sec-guardrails-open-ended) below).
+
 
 The proposal also incorporates four companion documents addressing: (1) scoring, reporting, and visualization guidelines; (2) guidance for evaluation of instruction, including a teaching effectiveness rubric and appropriate and inappropriate uses of the survey data; (3) implementation details; and (4) a sample survey instrument incorporating all our recommendations.
 
@@ -48,20 +50,20 @@ The rest of this document briefly provides the rationale for these recommendatio
 
 ## Rationale for the name change
 
-The current names — **Student Evaluation of Instruction** and **Student Evaluation of Faculty** — mischaracterize what the instrument does and should do. The word "evaluation" implies that students are rendering a verdict on the quality of instruction or on the instructor. They are not. As detailed below, the instrument asks students to report on their own experiences in the classroom: whether they felt respected, treated fairly, able to access help, able to see how course elements connected, comfortable participating, and included. These are experiential reports, not evaluative judgments.
+The current names — **Student Evaluation of Instruction** and **Student Evaluation of Faculty** — mischaracterize what the instrument does and should do. The word "evaluation" implies that students are rendering a verdict on the quality of instruction or on the instructor. They are not. As detailed below, the instrument asks students to report on their own experiences in the classroom: whether they felt treated with dignity, held to consistent standards, able to access help, able to see how course elements connected, comfortable participating, and welcomed. These are experiential reports, not evaluative judgments.
 
 This distinction is not merely semantic. The peer-reviewed literature on student evaluations of teaching (SET) establishes that items framed as evaluations of teaching effectiveness, course effectiveness, or instructor competence are particularly susceptible to bias — including bias linked to the instructor's gender, race, and accent — and are evidently misleading ([Boring, Ottoboni, and Stark, 2016](https://www.scienceopen.com/hosted-document?doi=10.14293/S2199-1006.1.SOR-EDU.AETBZC.v1); [Stark, 2016](https://www.tfanet.ca/wp-content/uploads/2018/11/Stark_report.pdf); [Stark, 2026](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6193538)).^[The best evidence about the connection between SET
 and other variables comes from experiments that assign students at random to sections of courses, in a manner similar to clinical trials. For a summary of this evidence see [https://eduardo-zambrano.github.io/documents/SET/Appendix.pdf](https://eduardo-zambrano.github.io/documents/SET/Appendix.pdf).] By contrast, items that ask students to report on their own experience are less susceptible to these biases, precisely because they do not ask students to make judgments they are not qualified to make. The name of the instrument should reflect what it actually measures.
 
-Each word in the proposed name — **Student Learning Experience Survey** — is chosen deliberately:
+Each word in the proposed name — **Student Perceptions of Learning Experience** — is chosen deliberately:
 
 - **Student**: the respondent.
+- **Perceptions of**: what the data represent. The word "perceptions" acknowledges that the instrument captures how students experience the learning environment from their own vantage point. Students occupy a position in the classroom that no other observer shares — they are the only ones who can report on whether they felt welcomed, whether they could see how the course fit together, or whether they felt comfortable participating. "Perceptions" names this unique epistemic contribution directly: the data are the students' own account of their experience, grounded in what they are distinctively positioned to observe.
 - **Learning Experience**: what is being reported on. "Learning experience" scopes the instrument to the educational context without making the teaching or the instructor the object of assessment. It signals that the data concern the student's experience of learning — the process, not the outcome — rather than a judgment of instructional quality.
-- **Survey**: the instrument type. The word "survey" accurately describes what the instrument is — a data-collection tool — and replaces the evaluative framing of the current name.
 
 ## Rationale for the aspects of teaching effectiveness chosen to be included in the survey
 
-When determining which aspects of teaching effectiveness should be included in the **Student Learning Experience Survey**, the committee used the following three criteria. This approach is consistent with the broader movement toward multidimensional evaluation of teaching, which recognizes that student surveys should focus on dimensions students are qualified to assess, as part of a comprehensive evaluation system ([TEval Project, 2025](https://teval.net/); [Austin et al., 2025](https://hep.gse.harvard.edu/9798895570159/transforming-college-teaching-evaluation/)).
+When determining which aspects of teaching effectiveness should be included in the **Student Perceptions of Learning Experience**, the committee used the following three criteria. This approach is consistent with the broader movement toward multidimensional evaluation of teaching, which recognizes that student surveys should focus on dimensions students are qualified to assess, as part of a comprehensive evaluation system ([TEval Project, 2025](https://teval.net/); [Austin et al., 2025](https://hep.gse.harvard.edu/9798895570159/transforming-college-teaching-evaluation/)).
 
 1. **It carries a summative component.** The dimension is relevant to personnel decisions under the UFPP.
 2. **Students are qualified to assess it.** Reporting on the dimension does not require disciplinary or pedagogical expertise ([Palmer, 2026](https://docs.google.com/presentation/d/1Xd0rsImrPFJX4Zk-bKbEHzRWRj8fn1jMf9zmffYWN58/edit?slide=id.g106f77e0e56_0_6#slide=id.g106f77e0e56_0_6); [Stark, 2016](https://www.tfanet.ca/wp-content/uploads/2018/11/Stark_report.pdf)).
@@ -89,40 +91,40 @@ A useful starting point for applying these criteria is the TEval framework devel
 
 :::
 
-When the seven dimensions are assessed against the three criteria above, one dimension stands out as the natural focus of the student survey: **Dimension 3 — Class Climate**. Class climate carries a summative component: the UFPP requires evidence of the instructor's effectiveness in creating a productive learning environment, and how students experience the classroom is directly relevant to that requirement. Students are qualified to assess it: reporting on whether the classroom felt respectful, supportive, and inclusive does not require disciplinary or pedagogical expertise — it requires only that students reflect on their own experience. And students can assess it with minimal bias: items about class climate elicit experiential reports ("I felt respected," "I felt included") rather than the evaluative judgments about teaching effectiveness or instructor competence that the literature identifies as particularly susceptible to bias.
+When the seven dimensions are assessed against the three criteria above, one dimension stands out as the natural focus of the student survey: **Dimension 3 — Class Climate**. Class climate carries a summative component: the UFPP requires evidence of the instructor's effectiveness in creating a productive learning environment, and how students experience the classroom is directly relevant to that requirement. Students are qualified to assess it: reporting on whether the classroom felt supportive, welcoming, and conducive to their learning does not require disciplinary or pedagogical expertise — it requires only that students reflect on their own experience. And students can assess it with minimal bias: items about class climate elicit experiential reports ("I felt treated with dignity," "I felt that the instructor created a welcoming learning environment for everyone") rather than the evaluative judgments about teaching effectiveness or instructor competence that the literature identifies as particularly susceptible to bias.
 
 This focus on class climate is particularly fitting at a polytechnic university organized around Learn by Doing. Where students learn primarily through active engagement — in labs, studios, clinics, and collaborative projects — the learning environment is not a backdrop to instruction but the space in which learning happens. The climate of that space is, accordingly, not a secondary concern but a direct determinant of whether the pedagogy works.
 
 The remaining six dimensions, by contrast, do not meet all three criteria. Dimensions 1, 2, and 4 — concerning course goals, teaching methods, and achievement of learning outcomes — require disciplinary or pedagogical expertise that students do not possess, and items targeting these dimensions are among those most susceptible to bias ([Stark, 2016](https://www.tfanet.ca/wp-content/uploads/2018/11/Stark_report.pdf); [Boring, Ottoboni, and Stark, 2016](https://www.scienceopen.com/hosted-document?doi=10.14293/S2199-1006.1.SOR-EDU.AETBZC.v1); [Stark, 2026](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6193538)). Dimensions 5, 6, and 7 — reflection and growth, mentoring, and service — concern activities that students in a single course generally cannot observe or are not positioned to evaluate. It is worth noting that items asking students whether they feel they learned a great deal — while intuitively appealing — fall squarely within Dimension 4. The peer-reviewed evidence shows that perceived learning does not track actual learning. In a controlled experiment, Deslauriers et al. ([2019](https://www.pnas.org/doi/10.1073/pnas.1821936116)) found that students who learned *more* (as measured by test performance) reported feeling they had learned *less*, and vice versa — a strong anti-correlation between perceived and actual learning. Uttl, White, and Gonzalez ([2017](https://www.sciencedirect.com/science/article/abs/pii/S0191491X16300323)), in a comprehensive meta-analysis correcting for small-sample and publication bias, found that the correlation between student evaluation ratings and student learning is effectively zero. As Stark ([2026](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6193538)) summarizes, student perceptions of their learning do not match objectively measured learning — a finding replicated across multiple disciplines and study designs. A "perceived learning" item would thus measure neither the learning environment nor actual learning, while carrying the same bias vulnerabilities as other evaluative items.
 
-Having identified class climate as the appropriate focus, the committee then asked: *how can class climate be assessed comprehensively, with aspects that are conceptually distinct and collectively exhaustive?* The guiding questions for Dimension 3 in the TEval framework point toward the answer. They ask whether the climate is *respectful*, *supportive*, and *cooperative*; whether it encourages *motivation and engagement*; whether all students feel *included*; how *dialogue* is fostered; and what students' *views of their learning experiences* are. Drawing on these guiding questions — and on the broader literature on classroom climate ([Moos, 1979](https://psycnet.apa.org/record/1980-70076-000); [Fraser, Treagust, and Dennis, 1986](https://doi.org/10.1080/03075078612331378451); [Fraser, 1998](https://doi.org/10.1023/A:1009932514731); [Lizzio, Wilson, and Simons, 2002](https://doi.org/10.1080/03075070120099359); [Frisby and Martin, 2010](https://doi.org/10.1080/03634520903564362); [Ambrose et al., 2010](https://www.wiley.com/en-us/How+Learning+Works-p-9780470484104); [Hurtado et al., 2012](https://doi.org/10.1007/978-94-007-2950-6_2); [Hagenauer and Volet, 2014](https://doi.org/10.1080/03054985.2014.921613)) — the committee identified six aspects, each capturing a distinct facet of the student's experience in the classroom. These are described below.
+Having identified class climate as the appropriate focus, the committee then asked: *how can class climate be assessed comprehensively, with aspects that are conceptually distinct and collectively exhaustive?* The guiding questions for Dimension 3 in the TEval framework point toward the answer. They ask whether the climate reflects *regard for students as persons*, is *supportive*, and *cooperative*; whether it encourages *motivation and engagement*; whether all students feel *included*; how *dialogue* is fostered; and what students' *views of their learning experiences* are. Drawing on these guiding questions — and on the broader literature on classroom climate ([Moos, 1979](https://psycnet.apa.org/record/1980-70076-000); [Fraser, Treagust, and Dennis, 1986](https://doi.org/10.1080/03075078612331378451); [Fraser, 1998](https://doi.org/10.1023/A:1009932514731); [Lizzio, Wilson, and Simons, 2002](https://doi.org/10.1080/03075070120099359); [Frisby and Martin, 2010](https://doi.org/10.1080/03634520903564362); [Ambrose et al., 2010](https://www.wiley.com/en-us/How+Learning+Works-p-9780470484104); [Hurtado et al., 2012](https://doi.org/10.1007/978-94-007-2950-6_2); [Hagenauer and Volet, 2014](https://doi.org/10.1080/03054985.2014.921613)) — the committee identified six aspects, each capturing a distinct facet of the student's experience in the classroom. These are described below.
 
 ### Interpersonal — how the instructor relates to individual students {.unnumbered}
 
 ::: {.tier-group}
 
-### Respect
+### Regard for Students
 
-**What it captures:** Dignity and courtesy in how the instructor interacts with students — tone, responsiveness to contributions, and regard for students as persons.
+**What it captures:** Dignity in how the instructor interacts with students — responsiveness to contributions, and regard for students as persons.
 
-::: {.callout-tip collapse="true" title="How Respect differs from the other aspects"}
-An instructor can be *fair* (same rules for everyone) yet dismissive in manner. A class can be *participatory* (questions welcomed) without the instructor treating responses respectfully. A course can feel *coherent* (well-structured, connected) while the instructor is curt or condescending. Respect is about the quality of interpersonal treatment, not equity of standards (Fairness), access outside class (Approachability), perceived course structure (Coherence), conditions for engagement (Participatory Climate), or belonging (Inclusivity).
+::: {.callout-tip collapse="true" title="How Regard for Students differs from the other aspects"}
+An instructor can apply the same standards to everyone yet be dismissive in manner. A class can welcome questions without the instructor showing regard for the students offering them. A course can feel *coherent* (well-structured, connected) while the instructor is curt or condescending. Regard for Students is about the quality of interpersonal treatment, not consistency of standards (No Differential Enforcement of Expectations), availability outside class (Access to Instructor and Instructor Resources), perceived course structure (Perceived Course Coherence), conditions for engagement (Participatory Climate), or belonging (Welcoming Learning Environment).
 :::
 
-### Fairness
+### No Differential Enforcement of Expectations
 
-**What it captures:** Equitable treatment and consistent application of standards — no favoritism, equitable access to learning and assessment, no differential enforcement of expectations.
+**What it captures:** Equitable treatment and consistent application of standards — no favoritism, equitable access to learning and assessment.
 
-::: {.callout-tip collapse="true" title="How Fairness differs from the other aspects"}
-An instructor can be *respectful* in tone while playing favorites. A class can feel *inclusive* in atmosphere while grading or attention is unevenly distributed. A course can be *coherent* (activities clearly connected to goals) while standards are applied inconsistently. Fairness is about equity across students, not the character of interaction (Respect), access outside class (Approachability), perceived course structure (Coherence), the openness of the environment (Participatory Climate), or sense of belonging (Inclusivity).
+::: {.callout-tip collapse="true" title="How No Differential Enforcement of Expectations differs from the other aspects"}
+An instructor can show *regard for students as persons* while playing favorites. A class can feel welcoming in atmosphere while grading or attention is unevenly distributed. A course can be *coherent* (activities clearly connected to goals) while standards are applied inconsistently. No Differential Enforcement of Expectations is about equity across students, not the character of interaction (Regard for Students), availability outside class (Access to Instructor and Instructor Resources), perceived course structure (Perceived Course Coherence), the openness of the environment (Participatory Climate), or sense of belonging (Welcoming Learning Environment).
 :::
 
-### Approachability
+### Access to Instructor and Instructor Resources
 
-**What it captures:** Perceived accessibility of the instructor for help outside of class — office hours, email, after-class conversations.
+**What it captures:** Perceived access of the instructor for help outside of class — office hours, email, after-class conversations.
 
-::: {.callout-tip collapse="true" title="How Approachability differs from the other aspects"}
-An instructor can be approachable one-on-one but create a poor in-class climate (Participatory Climate). A student may find the instructor easy to reach but, once there, feel dismissed (Respect) or treated inequitably (Fairness). A course can be *coherent* in structure while the instructor is difficult to reach outside of class. Approachability is about access, not the quality of what happens during access (Respect), equity of standards (Fairness), perceived course structure (Coherence), in-class environment (Participatory Climate), or belonging (Inclusivity).
+::: {.callout-tip collapse="true" title="How Access to Instructor and Instructor Resources differs from the other aspects"}
+An instructor can be available one-on-one but create a poor in-class climate (Participatory Climate). A student may find the instructor easy to reach but, once there, feel dismissed (Regard for Students) or experience uneven standards (No Differential Enforcement of Expectations). A course can be *coherent* in structure while the instructor is difficult to reach outside of class. Access to Instructor and Instructor Resources is about availability, not the quality of what happens during interaction (Regard for Students), consistency of standards (No Differential Enforcement of Expectations), perceived course structure (Perceived Course Coherence), in-class environment (Participatory Climate), or belonging (Welcoming Learning Environment).
 :::
 
 :::
@@ -131,14 +133,14 @@ An instructor can be approachable one-on-one but create a poor in-class climate 
 
 ::: {.tier-group}
 
-### Coherence
+### Perceived Course Coherence
 
 **What it captures:** Whether the student could see connections between course elements — that what happened in class, what was assigned, and what was assessed were recognizably related. A course can be highly coherent — readings connect to lectures connect to assessments — even when the content is disorienting or challenges students' prior beliefs.
 
-Coherence might appear to belong with course design (Goals, Content, and Alignment) rather than with class climate. But what a peer reviewer assesses from the syllabus — whether the course elements are aligned — is different from what the student experiences in the classroom — whether the connections between those elements are *visible* to them. A syllabus can be perfectly aligned on paper while students experience the course as disjointed because the connections were never made explicit. It is this experiential dimension — perceived structure, not designed structure — that the SLES measures, and that makes Coherence as defined here a class climate variable.
+Perceived Course Coherence might appear to belong with course design (Goals, Content, and Alignment) rather than with class climate. But what a peer reviewer assesses from the syllabus — whether the course elements are aligned — is different from what the student experiences in the classroom — whether the connections between those elements are *visible* to them. A syllabus can be perfectly aligned on paper while students experience the course as disjointed because the connections were never made explicit. It is this experiential dimension — perceived structure, not designed structure — that the SPLE measures, and that makes Perceived Course Coherence a class climate variable.
 
-::: {.callout-tip collapse="true" title="How Coherence differs from the other aspects"}
-A class can be *respectful*, *fair*, *approachable*, *participatory*, and *inclusive* while the student still cannot see how the pieces fit together — how today's class connects to last week's, or how the assessments relate to what was covered. Coherence captures one specific, concrete experience: whether the student could see the connections between course elements. It is not a summary of the overall learning experience or a proxy for teaching effectiveness. It is about perceived structure, not interpersonal treatment (Respect), equity of standards (Fairness), out-of-class access (Approachability), conditions for engagement (Participatory Climate), or belonging (Inclusivity).
+::: {.callout-tip collapse="true" title="How Perceived Course Coherence differs from the other aspects"}
+A class can score well on every other aspect — students treated with dignity, standards applied consistently, instructor available, environment participatory and welcoming — while the student still cannot see how the pieces fit together, how today's class connects to last week's, or how the assessments relate to what was covered. Perceived Course Coherence captures one specific, concrete experience: whether the student could see the connections between course elements. It is not a summary of the overall learning experience or a proxy for teaching effectiveness. It is about perceived structure, not interpersonal treatment (Regard for Students), consistency of standards (No Differential Enforcement of Expectations), availability outside class (Access to Instructor and Instructor Resources), conditions for engagement (Participatory Climate), or belonging (Welcoming Learning Environment).
 :::
 
 :::
@@ -152,22 +154,24 @@ A class can be *respectful*, *fair*, *approachable*, *participatory*, and *inclu
 **What it captures:** Whether the classroom environment supports multiple modes of active engagement — asking questions, sharing idea and/or resources, discussing with peers, and making mistakes without penalty. This aspect concerns the conditions for engagement, not the format of instruction — a lecture in which the instructor welcomes questions and responds to them thoughtfully is a participatory climate no less than a seminar built around discussion.
 
 ::: {.callout-tip collapse="true" title="How Participatory Climate differs from the other aspects"}
-A class can be participatory in structure while individual students still don't feel they *belong* (Inclusivity). The instructor can be *respectful* in replies without the environment actually encouraging participation. A course can feel *coherent* (well-structured) while the classroom format discourages questions, discussion, or student-to-student dialogue. Participatory Climate is about the conditions for engagement in class — including peer interaction — not the quality of treatment (Respect), equity of standards (Fairness), out-of-class access (Approachability), perceived course structure (Coherence), or belonging (Inclusivity).
+A class can be participatory in structure while individual students still don't feel they *belong* (Welcoming Learning Environment). The instructor can show regard for students in replies without the environment actually encouraging participation. A course can feel *coherent* (well-structured) while the classroom format discourages questions, discussion, or student-to-student dialogue. Participatory Climate is about the conditions for engagement in class — including peer interaction — not the quality of treatment (Regard for Students), consistency of standards (No Differential Enforcement of Expectations), availability outside class (Access to Instructor and Instructor Resources), perceived course structure (Perceived Course Coherence), or belonging (Welcoming Learning Environment).
 :::
 
-### Inclusivity
+### Welcoming Learning Environment
 
-**What it captures:** Whether students, regardless of disability status, feel they belong in the class — that the environment is welcoming to them and not just to some subset of students.
+**What it captures:** Whether all students feel they belong in the class — that the environment is welcoming to them and not just to some subset of students.
 
-::: {.callout-tip collapse="true" title="How Inclusivity differs from the other aspects"}
-A student can be treated *respectfully* and *fairly* without feeling they belong. A class can be *participatory* (questions encouraged, ideas welcomed) while a student still feels like an outsider — because of whose experiences are centered, who dominates discussion, or what the implicit culture of the class signals. A course can be *coherent* (activities connect, expectations are clear) while a student feels the class was not designed with them in mind. Inclusivity is about belonging in the group, not individual treatment (Respect, Fairness), one-on-one access (Approachability), perceived course structure (Coherence), or conditions for engagement (Participatory Climate).
+::: {.callout-tip collapse="true" title="How Welcoming Learning Environment differs from the other aspects"}
+A student can be treated with dignity and held to consistent standards without feeling they belong. A class can be *participatory* (questions encouraged, ideas welcomed) while a student still feels like an outsider — because of whose experiences are centered, who dominates discussion, or what the implicit culture of the class signals. A course can be *coherent* (activities connect, expectations are clear) while a student feels the class was not designed with them in mind. Welcoming Learning Environment is about belonging in the group, not individual treatment (Regard for Students, No Differential Enforcement of Expectations), one-on-one availability (Access to Instructor and Instructor Resources), perceived course structure (Perceived Course Coherence), or conditions for engagement (Participatory Climate).
 :::
 
 :::
 
-## Rationale for the removal of the open-ended question
+## Evidence on bias in open-ended comments {#sec-evidence-open-ended}
 
-The design of the **Student Learning Experience Survey** rests on a principle: ask students only about things they are qualified to report on, in a form that minimizes bias. The six Likert-scale items above are carefully worded to elicit experiential reports — structured statements about what the student felt — rather than open-ended evaluative judgments. An open-ended question undoes this by design.
+The committee reviewed the following evidence on bias in open-ended comments. This evidence informed the committee's unanimous decision to retain open-ended questions only under the structured prompts and guardrails described in the next section.
+
+The design of the **Student Perceptions of Learning Experience** rests on a principle: ask students only about things they are qualified to report on, in a form that minimizes bias. The six Likert-scale items above are carefully worded to elicit experiential reports — structured statements about what the student felt — rather than open-ended evaluative judgments. An unstructured open-ended question undoes this by design.
 
 ::: {.callout-warning collapse="false" title="Open-ended comments reintroduce exactly the biases the instrument is built to exclude"}
 When given an unstructured prompt, students are free to comment on anything — teaching effectiveness, grading leniency, course organization, the instructor's appearance, accent, or personality — all topics the literature identifies as particularly susceptible to bias ([Boring, Ottoboni, and Stark, 2016](https://www.scienceopen.com/hosted-document?doi=10.14293/S2199-1006.1.SOR-EDU.AETBZC.v1); [Stark, 2026](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6193538)). The structured Likert items constrain responses to experiential reports about class climate; an open-ended field removes that constraint entirely.
@@ -178,7 +182,7 @@ In a controlled experiment where identical online courses were taught under male
 :::
 
 ::: {.callout-warning collapse="false" title="Open-ended comments resist the reporting standards this proposal establishes"}
-The scoring and reporting methodology for the **Student Learning Experience Survey** that this Committee recommends — frequency distributions, no numerical averages, no cross-comparisons — is designed to prevent misinterpretation and misuse of the data. Open-ended comments cannot be reported as frequency distributions, cannot be standardized, and invite selective quotation by evaluators. A single vivid comment, whether positive or negative, can disproportionately influence a reader in ways that a frequency distribution of structured responses does not ([Boysen et al., 2014](https://www.researchgate.net/publication/263094848_The_misinterpretation_of_teaching_evaluations_by_college_faculty_and_administrators); [Linse, 2017](https://www.sciencedirect.com/science/article/pii/S0191491X16300232)).
+The scoring and reporting methodology for the **Student Perceptions of Learning Experience** that this Committee recommends — frequency distributions, no numerical averages, no cross-comparisons — is designed to prevent misinterpretation and misuse of the data. Open-ended comments cannot be reported as frequency distributions, cannot be standardized, and invite selective quotation by evaluators. A single vivid comment, whether positive or negative, can disproportionately influence a reader in ways that a frequency distribution of structured responses does not ([Boysen et al., 2014](https://www.researchgate.net/publication/263094848_The_misinterpretation_of_teaching_evaluations_by_college_faculty_and_administrators); [Linse, 2017](https://www.sciencedirect.com/science/article/pii/S0191491X16300232)).
 :::
 
 ::: {.callout-note collapse="false" title="A growing number of institutions are restricting or removing open-ended comments"}
@@ -191,17 +195,17 @@ Cal Poly Pomona, the University of Houston, and Florida State University restric
 
 ## Guardrails for open-ended questions {#sec-guardrails-open-ended}
 
-If the Academic Senate elects to retain open-ended questions in the Student Learning Experience Survey, the committee recommends the following guardrails:
+If the Academic Senate elects to retain open-ended questions in the Student Perceptions of Learning Experience, which is this committee's recommendation, the committee recommends the following guardrails:
 
 1. **Informational framing.** The preamble must explicitly instruct students to comment on specific aspects of their learning experience and to avoid comments about the instructor's personal characteristics, consistent with the anti-bias framing described in @sec-framing ([Boring and Philippe, 2021](https://doi.org/10.1016/j.jpubeco.2020.104323)).
 
-2. **Structured prompts, not generic invitations.** Open-ended questions must not use generic prompts such as "Please comment on the instructor" or "What are your suggestions for improvement?" Instead, each open-ended question should be tied to a specific aspect of class climate — for example, asking the student to elaborate on their experience of respect, fairness, class coherence or participation. This channels comments toward the dimensions the instrument measures and away from the unstructured commentary that the literature identifies as most susceptible to bias.
+2. **Structured prompts, not generic invitations.** Open-ended questions must not use generic prompts such as "Please comment on the instructor" or "What are your suggestions for improvement?" Instead, each open-ended question should be tied to a specific aspect of class climate — for example, asking the student to elaborate on their experience of treatment, consistency of standards, class coherence, or participation. This channels comments toward the dimensions the instrument measures and away from the unstructured commentary that the literature identifies as most susceptible to bias.
 
-**Bias will persist.** Informational framing has been shown to reduce gender bias in *structured Likert-scale items* ([Boring and Philippe, 2021](https://doi.org/10.1016/j.jpubeco.2020.104323)), and the SLES is designed to benefit from this effect. However, the evidence indicates that these protections do not extend to *open-ended responses*, where the unstructured format gives bias room to operate regardless of how the prompt is framed. Owen, De Bruin, and Wu ([2024](https://doi.org/10.1080/02602938.2024.2407927)) tested alternative methods of soliciting feedback — including directed, structured questions — and found that while structured prompts elicited more specific and constructive comments, they did not successfully reduce gender bias. Women faculty were penalized at similar rates across all conditions. The Academic Senate should understand that retaining open-ended questions, even under these guardrails, will continue to expose faculty — particularly women and faculty from marginalized groups — to biased commentary in their personnel files.
+**Residual bias in open-ended responses.** The evidence on informational framing and structured prompts is encouraging for structured Likert-scale items ([Boring and Philippe, 2021](https://doi.org/10.1016/j.jpubeco.2020.104323)), and the SPLE is designed to benefit from this effect. The evidence is less encouraging for open-ended responses. Owen, De Bruin, and Wu ([2024](https://doi.org/10.1080/02602938.2024.2407927)) found that structured prompts improved the specificity and constructiveness of open-ended comments but did not reduce gender bias — women faculty were penalized at similar rates across all conditions. This finding is consistent with the broader literature documenting that the unstructured format of open-ended responses gives bias channels that structured items constrain.
 
 ## In sum
 
-The **Student Learning Experience Survey** proposed here is a short, focused instrument grounded in the peer-reviewed literature and aligned with the UFPP's requirements. By renaming the instrument, centering it on the six aspects of class climate that students are qualified to report on, and removing the open-ended question from the summative component, we can give students a meaningful voice in the evaluation of teaching while protecting both students and instructors from the well-documented biases of traditional teaching evaluations. This is an achievable reform — one that strengthens the integrity of the evaluation process and brings Cal Poly's practices in line with a growing movement across higher education toward multidimensional, evidence-based evaluation of teaching ([McCreary, 2026](https://engagedlearningcollective.substack.com/p/a-practical-guide-to-modern-teaching-evaluation); [Stark, 2026](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6193538)). Moreover, the instrument reflects Cal Poly's distinctive pedagogical identity: at a university where students learn by doing, a survey centered on the climate in which that doing takes place is not just methodologically sound — it is institutionally apt.
+The **Student Perceptions of Learning Experience** proposed here is a short, focused instrument grounded in the peer-reviewed literature and aligned with the UFPP's requirements. By renaming the instrument, centering it on the six aspects of class climate that students are qualified to report on, and removing the open-ended question from the summative component, we can give students a meaningful voice in the evaluation of teaching while protecting both students and instructors from the well-documented biases of traditional teaching evaluations. This is an achievable reform — one that strengthens the integrity of the evaluation process and brings Cal Poly's practices in line with a growing movement across higher education toward multidimensional, evidence-based evaluation of teaching ([McCreary, 2026](https://engagedlearningcollective.substack.com/p/a-practical-guide-to-modern-teaching-evaluation); [Stark, 2026](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6193538)). Moreover, the instrument reflects Cal Poly's distinctive pedagogical identity: at a university where students learn by doing, a survey centered on the climate in which that doing takes place is not just methodologically sound — it is institutionally apt.
 
 This proposal incorporates four companion documents addressing: (1) scoring, reporting and visualization guidelines for survey results; (2) guidance for evaluation of instruction, including a teaching effectiveness rubric, appropriate and inappropriate uses of the survey data, and guidance on department-associated questions; (3) implementation best practices, including timing, administration, and strategies for maximizing response rates while minimizing bias; and (4) a sample survey instrument with recommended preamble and sample items (@sec-sample-instrument).
 
@@ -209,7 +213,7 @@ This proposal incorporates four companion documents addressing: (1) scoring, rep
 
 All items use a five-point ordered categorical scale (Strongly Agree, Agree, Neither Agree nor Disagree, Disagree, Strongly Disagree) plus a Not Applicable option. The committee selects one item per subdimension.
 
-### Respect
+### Regard for Students
 
 ::: {.callout-note collapse="true" title="Candidate items"}
 a. "I felt the instructor treated students with respect."
@@ -219,10 +223,10 @@ b. "I felt the instructor responded to students' questions and ideas respectfull
 c. "I felt the instructor valued students' contributions."
 :::
 
-### Fairness
+### No Differential Enforcement of Expectations
 
 ::: {.callout-note collapse="true" title="Candidate items"}
-a. "I felt the instructor treated all students fairly."
+a. "I felt the instructor applied the same expectations and standards to all students."
 
 b. "I felt there was no favoritism in how the instructor treated students."
 
@@ -239,7 +243,7 @@ b. "I felt the classroom environment encouraged students to ask questions and sh
 c. "I felt comfortable expressing my thoughts during class without fear of judgment."
 :::
 
-### Approachability
+### Access to Instructor and Instructor Resources
 
 ::: {.callout-note collapse="true" title="Candidate items"}
 a. "I felt the instructor was approachable if I needed help (in office hours, after class, or by email)."
@@ -249,7 +253,7 @@ b. "I felt comfortable reaching out to the instructor for help outside of class.
 c. "I felt the instructor was available and willing to help when I needed assistance."
 :::
 
-### Inclusivity
+### Welcoming Learning Environment
 
 ::: {.callout-note collapse="true" title="Candidate items"}
 a. "I felt included in this class."

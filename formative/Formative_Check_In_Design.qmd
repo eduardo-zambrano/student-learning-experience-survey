@@ -41,14 +41,14 @@ The formative check-in is **developmental only**:
 - Results are **not** used for retention, tenure, promotion, or any other employment decision
 - Results are **not** reported to department chairs, deans, or any administrative unit
 
-The formative check-in is entirely separate from the **Student Learning Experience Survey (SLES)**, which is the summative instrument whose results enter the personnel file. The two serve fundamentally different purposes and operate under different rules.
+The formative check-in is entirely separate from the **Student Perceptions of Learning Experience (SPLE)**, which is the summative instrument whose results enter the personnel file. The two serve fundamentally different purposes and operate under different rules.
 
 
-# Relationship to the Summative SLES
+# Relationship to the Summative SPLE
 
-The formative check-in is **not** a practice run for the summative SLES, and it should not be framed as one. The two instruments differ in every relevant dimension:
+The formative check-in is **not** a practice run for the summative SPLE, and it should not be framed as one. The two instruments differ in every relevant dimension:
 
-| Dimension | Formative Check-In | Summative SLES |
+| Dimension | Formative Check-In | Summative SPLE |
 |---|---|---|
 | **Purpose** | Developmental: help the instructor improve the course in real time | Evaluative: provide data for the personnel file |
 | **Audience** | Instructor only | Instructor, department chair, personnel committee |
@@ -58,7 +58,7 @@ The formative check-in is **not** a practice run for the summative SLES, and it 
 | **Personnel file** | No | Yes |
 | **Required** | No (instructor's choice) | Yes (institutional requirement) |
 
-The formative check-in exists because some of the most useful feedback students can provide — what is working, what is not, what they wish were different — is most valuable *before* the course ends, when the instructor can still act on it. The summative SLES, by contrast, captures the student's experience of the full semester and provides data for institutional evaluation. These are complementary but distinct functions.
+The formative check-in exists because some of the most useful feedback students can provide — what is working, what is not, what they wish were different — is most valuable *before* the course ends, when the instructor can still act on it. The summative SPLE, by contrast, captures the student's experience of the full semester and provides data for institutional evaluation. These are complementary but distinct functions.
 
 
 # Evidence Base
@@ -118,7 +118,7 @@ These three items are the heart of the formative check-in. They are open-ended, 
 
 ## Optional Structured Check-In
 
-Instructors may optionally include a brief structured component — a "temperature read" on the five dimensions of the SLES — to get a quick quantitative snapshot alongside the qualitative responses. This is **not** the SLES itself; it is a lightweight check-in that uses the same conceptual dimensions.
+Instructors may optionally include a brief structured component — a "temperature read" on the five dimensions of the SPLE — to get a quick quantitative snapshot alongside the qualitative responses. This is **not** the SPLE itself; it is a lightweight check-in that uses the same conceptual dimensions.
 
 ::: {.callout-tip collapse="true" title="Optional: Quick check-in on learning environment dimensions"}
 
@@ -128,15 +128,15 @@ Response options: **Positive experience**, **Mixed experience**, **Negative expe
 
 | Dimension | |
 |---|---|
-| **Respect** — feeling treated with dignity and courtesy | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
-| **Fairness** — feeling that all students are treated equitably | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
+| **Regard for Students** — feeling treated with dignity and regard | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
+| **No Differential Enforcement of Expectations** — feeling that all students are treated equitably | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
 | **Participation** — feeling comfortable asking questions and sharing ideas | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
-| **Approachability** — feeling able to access help when needed | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
-| **Inclusivity** — feeling that you belong in this class | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
+| **Access to Instructor and Instructor Resources** — feeling able to access help when needed | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
+| **Welcoming Learning Environment** — feeling that you belong in this class | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
 
 :::
 
-This structured component serves two purposes: it gives the instructor an at-a-glance summary of the dimensions they will be evaluated on at the end of the semester, and it helps students become familiar with the conceptual framework before they encounter the summative SLES. It is **not** scored, reported, or retained beyond the instructor's own use.
+This structured component serves two purposes: it gives the instructor an at-a-glance summary of the dimensions they will be evaluated on at the end of the semester, and it helps students become familiar with the conceptual framework before they encounter the summative SPLE. It is **not** scored, reported, or retained beyond the instructor's own use.
 
 
 # Administration Instructions
@@ -147,7 +147,7 @@ The formative check-in should be administered around **weeks 6–8** of a 15-wee
 
 - Is early enough for the instructor to make meaningful adjustments
 - Is late enough that students have sufficient experience with the course to provide informed feedback
-- Leaves a substantial buffer before the summative SLES window (weeks 13–14)
+- Leaves a substantial buffer before the summative SPLE window (weeks 13–14)
 
 ## Mode
 
@@ -157,7 +157,7 @@ Two modes are recommended. Instructors should choose the one that best fits thei
 
 1. The instructor distributes a brief paper form or displays a link/QR code to an online form
 2. Students complete the check-in anonymously during class time (approximately 5 minutes)
-3. The instructor may remain in the room (unlike the summative SLES, the formative check-in is not an evaluative instrument and does not require the instructor to leave)
+3. The instructor may remain in the room (unlike the summative SPLE, the formative check-in is not an evaluative instrument and does not require the instructor to leave)
 4. If using paper, the instructor collects the forms; if using an online form, responses are submitted digitally
 
 ### Option B: Online Administration (3-day window)
@@ -221,11 +221,11 @@ Instructors may find the following template useful for structuring their in-clas
 
 To prevent misunderstanding, the following points should be communicated clearly to both instructors and students:
 
-- The formative check-in is **not** the Student Learning Experience Survey. The SLES is the summative instrument administered at the end of the term.
+- The formative check-in is **not** the Student Perceptions of Learning Experience. The SPLE is the summative instrument administered at the end of the term.
 - The formative check-in is **not** part of the personnel file. No administrator, department chair, or personnel committee will see the results.
 - The formative check-in is **not** required. It is a tool available to instructors who want real-time feedback on the learning environment in their course.
-- The formative check-in is **not** anonymous feedback about the instructor's teaching ability. It is feedback about the student's learning experience — the same conceptual framing as the SLES, but in a developmental rather than evaluative context.
-- The formative check-in **does not** replace the SLES. Students will still complete the summative instrument at the end of the term regardless of whether a mid-semester check-in was conducted.
+- The formative check-in is **not** anonymous feedback about the instructor's teaching ability. It is feedback about the student's learning experience — the same conceptual framing as the SPLE, but in a developmental rather than evaluative context.
+- The formative check-in **does not** replace the SPLE. Students will still complete the summative instrument at the end of the term regardless of whether a mid-semester check-in was conducted.
 
 
 # Bibliography

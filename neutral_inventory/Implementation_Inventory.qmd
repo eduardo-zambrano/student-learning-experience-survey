@@ -34,7 +34,7 @@ format:
 
 This document provides a comprehensive, dimension-by-dimension inventory of implementation practices for end-of-term student course evaluations at research universities and peer institutions. It is organized by implementation dimension and is intended as a neutral reference — cataloging the evidence and institutional variation without advocating a particular model.
 
-The inventory draws on the peer-reviewed literature, published institutional policies, and reports from survey administration platforms. It is a background document that supports but does not duplicate the recommendations in the companion *Implementation Best Practices* chapter of the Student Learning Experience Survey proposal.
+The inventory draws on the peer-reviewed literature, published institutional policies, and reports from survey administration platforms. It is a background document that supports but does not duplicate the recommendations in the companion *Implementation Best Practices* chapter of the Student Perceptions of Learning Experience proposal.
 
 
 # Timing of Administration

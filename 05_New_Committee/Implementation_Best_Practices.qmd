@@ -1,16 +1,16 @@
 # Appendix: Implementation Best Practices
 
-The preceding chapters define *what* the **Student Learning Experience Survey** (SLES) measures — six aspects of the learning environment that students are qualified to report on — and *how* its results should be scored and reported. This companion chapter addresses a third question: *how should the instrument be administered?*
+The preceding chapters define *what* the **Student Perceptions of Learning Experience** (SPLE) measures — six aspects of the learning environment that students are qualified to report on — and *how* its results should be scored and reported. This companion chapter addresses a third question: *how should the instrument be administered?*
 
-Cal Poly's transition to semesters — from 10-week quarters to 15-week terms — is a once-in-a-generation opportunity to design the administration of this instrument from scratch rather than inheriting the practices of a system it replaces. The recommendations below draw on the peer-reviewed literature and on the published practices of peer institutions to propose a concrete implementation model for the SLES.
+Cal Poly's transition to semesters — from 10-week quarters to 15-week terms — is a once-in-a-generation opportunity to design the administration of this instrument from scratch rather than inheriting the practices of a system it replaces. The recommendations below draw on the peer-reviewed literature and on the published practices of peer institutions to propose a concrete implementation model for the SPLE.
 
 ## Scope
 
-This chapter addresses the implementation of the SLES — the summative instrument whose results enter the personnel file under [CBA §15.17](https://www.calfac.org/contract-2022-2025/#article-15). It does not address the evaluation of teaching more broadly, nor does it address course design, pedagogy, or the other dimensions of the [TEval framework](https://teval.net/) that are assessed through peer review, self-reflection, and other evidence sources.
+This chapter addresses the implementation of the SPLE — the summative instrument whose results enter the personnel file under [CBA §15.17](https://www.calfac.org/contract-2022-2025/#article-15). It does not address the evaluation of teaching more broadly, nor does it address course design, pedagogy, or the other dimensions of the [TEval framework](https://teval.net/) that are assessed through peer review, self-reflection, and other evidence sources.
 
 The broader literature on teaching evaluation recognizes that many institutions complement their end-of-term summative instrument with informal mid-semester formative feedback — brief, anonymous check-ins designed to give instructors actionable information while the course is still in progress. Oregon's two-survey model, Angelo and Cross's Classroom Assessment Techniques ([1993](https://eric.ed.gov/?id=ED317097)), and Harvard's early-feedback recommendations ([Bok Center](https://bokcenter.harvard.edu/getting-feedback-from-your-students)) all exemplify this practice. Developing a formative feedback process at Cal Poly is a **separate effort** that may be undertaken independently by interested faculty, departments, or the Center for Teaching, Learning, and Technology. This chapter does not address it further.
 
-The sections that follow focus exclusively on the SLES instrument: when to administer it, how to administer it, how to maximize response rates, and how to frame it to minimize bias.
+The sections that follow focus exclusively on the SPLE instrument: when to administer it, how to administer it, how to maximize response rates, and how to frame it to minimize bias.
 
 ## Timing {#sec-timing}
 
@@ -34,7 +34,7 @@ All of these institutions release results only after final grades have been subm
 
 ### Recommendation for Cal Poly's 15-week semester
 
-The SLES window should **open at the beginning of week 14** and **close at the end of week 15**, before finals begin in week 16. This two-week window is consistent with the practice at most peer institutions, provides sufficient time for reminders and in-class completion, and ensures that the evaluation captures students' experience of nearly the full semester without bleeding into the final examination period.
+The SPLE window should **open at the beginning of week 14** and **close at the end of week 15**, before finals begin in week 16. This two-week window is consistent with the practice at most peer institutions, provides sufficient time for reminders and in-class completion, and ensures that the evaluation captures students' experience of nearly the full semester without bleeding into the final examination period.
 
 
 ## Mode of administration {#sec-mode}
@@ -49,13 +49,13 @@ The evidence is unambiguous: **in-class administration** produces the highest re
 
 A growing number of institutions have adopted a hybrid approach: dedicating class time for students to complete the evaluation *online*, on their own devices. This combines the response-rate benefits of in-class administration with the logistical efficiency of an online platform. Studies report response rates of **70–80%** with this model — comparable to traditional paper-based in-class administration ([Berk, 2013](https://doi.org/10.14434/josotl.v13i4.3609); [Chapman and Joines, 2017](https://doi.org/10.1007/s10755-017-9394-0)).
 
-The hybrid model is particularly well suited to the SLES. The instrument has **six Likert-scale items and no open-ended questions** — a student can complete it in under five minutes on a phone. Ten to fifteen minutes of dedicated class time is more than sufficient, even accounting for the time to display the link, wait for students to access it, and allow for thoughtful responses.
+The hybrid model is particularly well suited to the SPLE. The instrument has **six Likert-scale items and no open-ended questions** — a student can complete it in under five minutes on a phone. Ten to fifteen minutes of dedicated class time is more than sufficient, even accounting for the time to display the link, wait for students to access it, and allow for thoughtful responses.
 
 ### Recommendation
 
-The summative SLES should use a **hybrid model**: during the evaluation window, each instructor dedicates **10–15 minutes of class time** for students to complete the survey online. The instructor displays the survey link (URL or QR code), then **leaves the room**. A designated student or TA signals the instructor to return when time is up. Students who are absent during the in-class session complete the evaluation outside of class during the remainder of the window.
+The summative SPLE should use a **hybrid model**: during the evaluation window, each instructor dedicates **10–15 minutes of class time** for students to complete the survey online. The instructor displays the survey link (URL or QR code), then **leaves the room**. A designated student or TA signals the instructor to return when time is up. Students who are absent during the in-class session complete the evaluation outside of class during the remainder of the window.
 
-This is the single most effective step the university can take to ensure that the SLES produces high enough response rates.
+This is the single most effective step the university can take to ensure that the SPLE produces high enough response rates.
 
 
 ## Maximizing response rates {#sec-response-rates}
@@ -78,7 +78,7 @@ The literature identifies the following strategies, roughly ranked by their demo
 
 3. **LMS integration.** Embedding the evaluation link within Canvas — as a dashboard notification, a pop-up reminder, or a course navigation item — reduces the friction of locating and accessing the survey. Students are already in the LMS daily; the evaluation should meet them there.
 
-4. **Instructor communication.** When instructors discuss the evaluation on Day 1 (e.g., a syllabus note explaining that the SLES asks about the student's learning experience and that the data are read and taken seriously), and again when the evaluation window opens, response rates increase modestly. The mechanism is legitimacy: students participate when they believe their feedback matters ([Chen and Hoshower, 2003](https://doi.org/10.1080/0260293032000158163)).
+4. **Instructor communication.** When instructors discuss the evaluation on Day 1 (e.g., a syllabus note explaining that the SPLE asks about the student's learning experience and that the data are read and taken seriously), and again when the evaluation window opens, response rates increase modestly. The mechanism is legitimacy: students participate when they believe their feedback matters ([Chen and Hoshower, 2003](https://doi.org/10.1080/0260293032000158163)).
 
 5. **Class-level incentives.** Goodman, Anson, and Belcheir ([2015](https://eric.ed.gov/?id=EJ1305085)) found that a class-level incentive (e.g., a bonus point if the class achieves an 80% response rate) increased response rates by approximately 22 percentage points. Class-level incentives avoid the coercion problem of individual incentives because no individual student's participation can be identified.
 
@@ -88,10 +88,10 @@ The literature identifies the following strategies, roughly ranked by their demo
 
 We recommend the following:
 
-- **Dedicate class time.** Each instructor should set aside 10–15 minutes during the evaluation window for students to complete the SLES online in class. The instructor displays the survey link or QR code, then leaves the room. This is the single most effective intervention for achieving high response rates.
+- **Dedicate class time.** Each instructor should set aside 10–15 minutes during the evaluation window for students to complete the SPLE online in class. The instructor displays the survey link or QR code, then leaves the room. This is the single most effective intervention for achieving high response rates.
 - **Send four automated reminders** at 2–3 day intervals during the evaluation window, via email and Canvas notification.
 - **Integrate with the LMS.** Embed the evaluation link within Canvas — as a dashboard notification, pop-up reminder, or course navigation item — so that the survey meets students where they already are.
-- **Encourage instructor communication.** A brief mention on Day 1 (e.g., a syllabus note explaining that the SLES asks about the student's learning experience and that the data are taken seriously), repeated when the window opens, increases participation.
+- **Encourage instructor communication.** A brief mention on Day 1 (e.g., a syllabus note explaining that the SPLE asks about the student's learning experience and that the data are taken seriously), repeated when the window opens, increases participation.
 
 ## Framing the instrument to minimize bias {#sec-framing}
 
@@ -107,19 +107,19 @@ A natural question is whether the instructions presented to students before they
 
 ### Recommendation
 
-The SLES should open with a brief, concrete, **data-informed preamble** — not a generic "be fair" appeal, which the evidence shows is ineffective, but a factual statement that provides students with context about what the survey measures and what the research shows about evaluation biases. The preamble should:
+The SPLE should open with a brief, concrete, **data-informed preamble** — not a generic "be fair" appeal, which the evidence shows is ineffective, but a factual statement that provides students with context about what the survey measures and what the research shows about evaluation biases. The preamble should:
 
-1. **Name what the survey measures.** Remind students that the SLES asks about their *own experience* of the learning environment — not a verdict on the instructor as a person or professional.
+1. **Name what the survey measures.** Remind students that the SPLE asks about their *own experience* of the learning environment — not a verdict on the instructor as a person or professional.
 
 2. **Provide specific information about documented biases.** A brief, factual statement — e.g., "Research shows that students' evaluations of their learning experience can be influenced by characteristics of the instructor unrelated to the learning environment, such as gender and race. Being aware of this tendency helps produce more accurate feedback."
 
 3. **Reinforce the survey's purpose.** The data are used to understand the student learning experience and to support faculty development and evaluation. Thoughtful, honest responses improve the quality of the data.
 
-The name **Student Learning Experience Survey** is itself a framing device. By directing attention to the student's *experience* rather than to the instructor's *performance*, the instrument's name reinforces the experiential focus that the bias literature recommends.
+The name **Student Perceptions of Learning Experience** is itself a framing device. By directing attention to the student's *experience* rather than to the instructor's *performance*, the instrument's name reinforces the experiential focus that the bias literature recommends.
 
 ::: {.callout-note collapse="false" title="Draft preamble language"}
 
-**Student Learning Experience Survey**
+**Student Perceptions of Learning Experience**
 
 This brief survey asks about *your experience* in this course — whether you felt respected, treated fairly, comfortable participating, able to get help, and included. It does not ask you to evaluate the instructor's teaching ability or the course content.
 
@@ -132,18 +132,18 @@ Your responses are anonymous and will not be shared with the instructor until af
 
 ## Recommended implementation model {#sec-model}
 
-The following table synthesizes the evidence reviewed in this chapter into a concrete recommendation for administering the summative Student Learning Experience Survey under Cal Poly's 15-week semester calendar.
+The following table synthesizes the evidence reviewed in this chapter into a concrete recommendation for administering the summative Student Perceptions of Learning Experience under Cal Poly's 15-week semester calendar.
 
 | Element | Recommendation | Rationale |
 |---|---|---|
 | **When** | Weeks 13–14 (before finals in week 15) | Literature consensus: last 1–2 weeks of instruction, before finals begin ([Centra, 2003](https://doi.org/10.1023/A:1025492407752); [Marsh, 2007](https://doi.org/10.1007/978-1-4020-5742-3_9)) |
 | **Window duration** | 7–10 days within the 2-week period | Balances reach with urgency; aligns with what is done by our peer institutions |
 | **Mode** | Hybrid: dedicated class time for online completion | Single most effective method for achieving 70%+ response rates ([Berk, 2013](https://doi.org/10.14434/josotl.v13i4.3609)) |
-| **Class time** | 10–15 min; instructor displays link/QR code, then leaves | SLES has 5 Likert items and no open-ended questions — feasible in under 5 minutes |
+| **Class time** | 10–15 min; instructor displays link/QR code, then leaves | SPLE has 5 Likert items and no open-ended questions — feasible in under 5 minutes |
 | **Framing** | Informational preamble (data-informed, not generic) | Boring and Philippe ([2021](https://doi.org/10.1016/j.jpubeco.2020.104323)): informational framing reduces gender bias; generic appeals do not |
 | **Reminders** | 4 automated reminders at 2–3 day intervals | Adams and Umbach ([2012](https://doi.org/10.1007/s10755-011-9190-4)): achieves ~70% response rates |
 | **Results release** | Only after final grades are submitted | Universally recommended; protects anonymity and reduces grade-anxiety bias |
 <!-- | **Response rate target** | 70% minimum | Below this threshold, self-selection bias threatens validity ([Nulty, 2008](https://doi.org/10.1080/02602930801956059); [Holtgraves et al., 2023](https://doi.org/10.3389/fpsyg.2023.1138886)) | -->
 | **Response rate reporting** | Raw counts alongside results | Per the scoring and reporting guidelines; lets evaluators judge representativeness |
 
-Administering the SLES in the final two weeks of instruction, with dedicated class time and an informational preamble is an achievable model — it requires no new technology, no additional personnel, and minimal class time — and it reflects the best available evidence on how to implement a student survey that is both useful and fair.
+Administering the SPLE in the final two weeks of instruction, with dedicated class time and an informational preamble is an achievable model — it requires no new technology, no additional personnel, and minimal class time — and it reflects the best available evidence on how to implement a student survey that is both useful and fair.

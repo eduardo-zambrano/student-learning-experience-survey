@@ -84,7 +84,7 @@ WHEREAS,\quad The most useful feedback students can provide---what is working, w
 
 \vspace{0.5em}
 \noindent
-WHEREAS,\quad The Ad Hoc Committee's report, ``The Student Learning Experience Survey: Rationale and Broad Principles of Design,'' proposes a Student Learning Experience Survey centered on experiential reports of class climate---asking students to report on their own experience in the classroom rather than to render evaluative judgments about teaching effectiveness---together with companion documents on scoring, reporting, and implementation, and a formative learning feedback process offered through the Center for Teaching, Learning and Technology; therefore, be it
+WHEREAS,\quad The Ad Hoc Committee's report, ``The Student Perceptions of Learning Experience: Rationale and Broad Principles of Design,'' proposes a Student Perceptions of Learning Experience centered on experiential reports of class climate---asking students to report on their own experience in the classroom rather than to render evaluative judgments about teaching effectiveness---together with companion documents on scoring, reporting, and implementation, and a formative learning feedback process offered through the Center for Teaching, Learning and Technology; therefore, be it
 
 \vspace{0.75em}
 \noindent
@@ -92,23 +92,23 @@ RESOLVED:\quad That AS-759-13 is superseded by this resolution; and be it furthe
 
 \vspace{0.5em}
 \noindent
-RESOLVED:\quad That the Academic Senate approve the Ad Hoc Committee's report ``The Student Learning Experience Survey: Rationale and Broad Principles of Design'' and its companion documents on scoring and reporting, evaluator guidance, and implementation; and be it further
+RESOLVED:\quad That the Academic Senate approve the Ad Hoc Committee's report ``The Student Perceptions of Learning Experience: Rationale and Broad Principles of Design'' and its companion documents on scoring and reporting, evaluator guidance, and implementation; and be it further
 
 \vspace{0.5em}
 \noindent
-RESOLVED:\quad That the instrument currently known as the Student Evaluation of Instruction and Student Evaluation of Faculty be renamed the \textbf{Student Learning Experience Survey}; and be it further
+RESOLVED:\quad That the instrument currently known as the Student Evaluation of Instruction and Student Evaluation of Faculty be renamed the \textbf{Student Perceptions of Learning Experience}; and be it further
 
 \vspace{0.5em}
 \noindent
-RESOLVED:\quad That the Student Learning Experience Survey assess the following six aspects of class climate: Respect, Fairness, and Approachability (Interpersonal); Coherence (Structural); and Participatory Climate and Inclusivity (Environmental); and be it further
+RESOLVED:\quad That the Student Perceptions of Learning Experience assess the following six aspects of class climate: Regard for Students, No Differential Enforcement of Expectations, and Access to Instructor and Instructor Resources (Interpersonal); Perceived Course Coherence (Structural); and Participatory Climate and Welcoming Learning Environment (Environmental); and be it further
 
 \vspace{0.5em}
 \noindent
-RESOLVED:\quad That open-ended questions be discontinued from the summative component of the Student Learning Experience Survey, and that unstructured student feedback be provided through the formative component, which is shared only with the instructor and is not included in the personnel file; and be it further
+RESOLVED:\quad That open-ended questions be discontinued from the summative component of the Student Perceptions of Learning Experience, and that unstructured student feedback be provided through the formative component, which is shared only with the instructor and is not included in the personnel file; and be it further
 
 \vspace{0.5em}
 \noindent
-RESOLVED:\quad That the Center for Teaching, Learning and Technology develop a voluntary formative learning feedback process---distinct from the Student Learning Experience Survey---designed to give instructors actionable information about how students are experiencing the learning environment while the course is still in progress; that this process be organized around research-based principles of learning; that it include open-ended questions as part of the formative feedback; that results be shared only with the instructor and not included in the personnel file, not reported to department chairs or deans, and not used for retention, tenure, promotion, or any other employment decision; and that no instructor be required to use it and no administrator may mandate its use; and be it further
+RESOLVED:\quad That the Center for Teaching, Learning and Technology develop a voluntary formative learning feedback process---distinct from the Student Perceptions of Learning Experience---designed to give instructors actionable information about how students are experiencing the learning environment while the course is still in progress; that this process be organized around research-based principles of learning; that it include open-ended questions as part of the formative feedback; that results be shared only with the instructor and not included in the personnel file, not reported to department chairs or deans, and not used for retention, tenure, promotion, or any other employment decision; and that no instructor be required to use it and no administrator may mandate its use; and be it further
 
 \vspace{0.5em}
 \noindent
@@ -116,7 +116,7 @@ RESOLVED:\quad That the University provide the Center for Teaching, Learning and
 
 \vspace{0.5em}
 \noindent
-RESOLVED:\quad That colleges, departments, and/or programs may include additional questions in the Student Learning Experience Survey, based on their respective faculty-based governance procedures, provided that such questions follow the guidance established in the evaluator's manual---specifically, the experiential-reporting principle and bias-minimizing design criteria; and be it further
+RESOLVED:\quad That colleges, departments, and/or programs may include additional questions in the Student Perceptions of Learning Experience, based on their respective faculty-based governance procedures, provided that such questions follow the guidance established in the evaluator's manual---specifically, the experiential-reporting principle and bias-minimizing design criteria; and be it further
 
 \vspace{0.5em}
 \noindent
@@ -124,7 +124,7 @@ RESOLVED:\quad That faculty members may include student evaluation questions for
 
 \vspace{0.5em}
 \noindent
-RESOLVED:\quad That the Academic Senate designate the Instruction and Faculty Affairs Committees as the appropriate committees for making potential revisions to the Student Learning Experience Survey in the future, and that these revisions are subject to approval by the Academic Senate.
+RESOLVED:\quad That the Academic Senate designate the Instruction and Faculty Affairs Committees as the appropriate committees for making potential revisions to the Student Perceptions of Learning Experience in the future, and that these revisions are subject to approval by the Academic Senate.
 
 \end{linenumbers}
 
