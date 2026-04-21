@@ -39,3 +39,5 @@ response_to_kylie.html
 
 # Node (StaticCrypt)
 node_modules/
+*.toc
+"formative/Formative_Check_In_Design copy_backup.qmd"
