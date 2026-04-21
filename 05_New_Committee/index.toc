@@ -1,0 +1,78 @@
+\contentsline {chapter}{Preamble}{3}{chapter*.2}%
+\contentsline {chapter}{\numberline {1}The Proposal}{4}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Background}{4}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Summary of recommendations}{4}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Rationale for the name change}{5}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Rationale for the aspects of teaching effectiveness chosen to be included in the survey}{6}{section.1.4}%
+\contentsline {subsection}{Interpersonal --- how the instructor relates to individual students}{9}{Item.9}%
+\contentsline {subsection}{\numberline {1.4.1}Regard for Students}{9}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Consistent Communication and Enforcement of Expectations}{10}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.3}Access to Instructor and Instructor Resources}{10}{subsection.1.4.3}%
+\contentsline {subsection}{Structural --- how the course is experienced as a whole}{10}{subsection.1.4.3}%
+\contentsline {subsection}{\numberline {1.4.4}Perceived Course Coherence}{10}{subsection.1.4.4}%
+\contentsline {subsection}{Environmental --- what the classroom feels like as a shared space}{11}{subsection.1.4.4}%
+\contentsline {subsection}{\numberline {1.4.5}Participatory Climate}{11}{subsection.1.4.5}%
+\contentsline {subsection}{\numberline {1.4.6}Responsive Learning Environment}{12}{subsection.1.4.6}%
+\contentsline {section}{\numberline {1.5}Evidence on bias in open-ended comments}{12}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Guardrails for open-ended questions}{15}{section.1.6}%
+\contentsline {section}{\numberline {1.7}In sum}{15}{section.1.7}%
+\contentsline {chapter}{\numberline {2}Appendix: Scoring and Reporting Guidelines}{17}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Scoring Methodology}{17}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Reporting Guidelines}{18}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Visualization Guidelines}{19}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Bar chart for a single question}{19}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Diverging stacked bar chart for comparing multiple questions}{20}{subsection.2.3.2}%
+\contentsline {chapter}{\numberline {3}Appendix: Guidance for Evaluation of Instruction}{21}{chapter.3}%
+\contentsline {section}{\numberline {3.1}UFPP §8.3 --- Guidance for Evaluation of Instruction}{21}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}§8.3.1. Policy History}{21}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}§8.3.2. Purpose and Scope}{21}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}§8.3.3. Dimensions of Teaching for Evaluation}{22}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}§8.3.4. Dimension 1: Goals, Content, and Alignment}{24}{subsection.3.1.4}%
+\contentsline {subsection}{\numberline {3.1.5}§8.3.5. Dimension 2: Teaching Practices}{24}{subsection.3.1.5}%
+\contentsline {subsection}{\numberline {3.1.6}§8.3.6. Dimension 3: Class Climate}{24}{subsection.3.1.6}%
+\contentsline {subsubsection}{\numberline {3.1.6.1}§8.3.6.1. Interpreting Student Perceptions of Learning Experience results}{25}{subsubsection.3.1.6.1}%
+\contentsline {subsubsection}{\numberline {3.1.6.2}§8.3.6.2. Inherent limitations of student evaluation data}{25}{subsubsection.3.1.6.2}%
+\contentsline {subsubsection}{\numberline {3.1.6.3}§8.3.6.3. Department-associated questions}{26}{subsubsection.3.1.6.3}%
+\contentsline {subsection}{\numberline {3.1.7}§8.3.7. Dimension 4: Achievement of Learning Outcomes}{27}{subsection.3.1.7}%
+\contentsline {subsection}{\numberline {3.1.8}§8.3.8. Dimension 5: Reflection and Iterative Growth}{28}{subsection.3.1.8}%
+\contentsline {subsection}{\numberline {3.1.9}§8.3.9. Dimension 6: Mentoring and Advising}{28}{subsection.3.1.9}%
+\contentsline {subsection}{\numberline {3.1.10}§8.3.10. Dimension 7: Involvement in Teaching Service, Scholarship, or Community}{29}{subsection.3.1.10}%
+\contentsline {section}{\numberline {3.2}§8.3.11. Teaching Effectiveness Rubric}{30}{section.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.0.1}Dimension 1: Goals, Content, and Alignment}{30}{subsubsection.3.2.0.1}%
+\contentsline {subsubsection}{\numberline {3.2.0.2}Dimension 2: Teaching Practices}{30}{subsubsection.3.2.0.2}%
+\contentsline {subsubsection}{\numberline {3.2.0.3}Dimension 3: Class Climate}{31}{subsubsection.3.2.0.3}%
+\contentsline {subsubsection}{\numberline {3.2.0.4}Dimension 4: Achievement of Learning Outcomes}{32}{subsubsection.3.2.0.4}%
+\contentsline {subsubsection}{\numberline {3.2.0.5}Dimension 5: Reflection and Iterative Growth}{32}{subsubsection.3.2.0.5}%
+\contentsline {subsubsection}{\numberline {3.2.0.6}Dimension 6: Mentoring and Advising}{32}{subsubsection.3.2.0.6}%
+\contentsline {subsubsection}{\numberline {3.2.0.7}Dimension 7: Involvement in Teaching Service, Scholarship, or Community}{33}{subsubsection.3.2.0.7}%
+\contentsline {subsection}{\numberline {3.2.1}§8.3.12. Setting Departmental Expectations}{33}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}§8.3.13. Training, Resources, and Implementation}{34}{subsection.3.2.2}%
+\contentsline {chapter}{\numberline {4}Appendix: Implementation Best Practices}{36}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Scope}{36}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Timing}{37}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}The literature consensus}{37}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Recommendation for Cal Poly's 15-week semester}{37}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4.3}Mode of administration}{38}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}The response-rate problem}{38}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}The hybrid model}{38}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Recommendation}{38}{subsection.4.3.3}%
+\contentsline {section}{\numberline {4.4}Maximizing response rates}{39}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Why response rates matter}{39}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Recommendation}{40}{subsection.4.4.2}%
+\contentsline {section}{\numberline {4.5}Framing the instrument to minimize bias}{40}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}The evidence on anti-bias framing}{40}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Recommendation}{41}{subsection.4.5.2}%
+\contentsline {section}{\numberline {4.6}Recommended implementation model}{42}{section.4.6}%
+\contentsline {chapter}{\numberline {5}Appendix: Sample Survey Instrument}{44}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Preamble}{44}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Sample Items}{45}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Regard for Students}{45}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Consistent Communication and Enforcement of Expectations}{45}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Access to Instructor and Instructor Resources}{45}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}Perceived Course Coherence}{45}{subsection.5.2.4}%
+\contentsline {subsection}{\numberline {5.2.5}Participatory Climate}{45}{subsection.5.2.5}%
+\contentsline {subsection}{\numberline {5.2.6}Responsive Learning Environment}{45}{subsection.5.2.6}%
+\contentsline {section}{\numberline {5.3}Sample if the Academic Senate elects to retain open-ended questions}{45}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Perceived Course Coherence (with structured open-ended prompt)}{46}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Why an open-ended question only on Perceived Course Coherence?}{46}{subsection.5.3.2}%
+\contentsline {section}{\numberline {5.4}Relationship to Existing Cal Poly Maritime Academy Practices}{47}{section.5.4}%
