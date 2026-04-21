@@ -23,8 +23,8 @@ The proposal this committee has crafted has three parts.
 
 *Interpersonal — how the instructor relates to individual students:*
 
-1. [Regard for Students](#treatment-of-students)
-2. [No Differential Enforcement of Expectations](#no-differential-enforcement-of-expectations)
+1. [Regard for Students](#regard-for-students)
+2. [Consistent Communication and Enforcement of Expectations](#consistent-communication-and-enforcement-of-expectations)
 3. [Access to Instructor and Instructor Resources](#access-to-instructor-and-instructor-resources)
 
 *Structural — how the course is experienced as a whole by the students:*
@@ -34,7 +34,7 @@ The proposal this committee has crafted has three parts.
 *Environmental — what the classroom feels like as a shared space:*
 
 5. [Participatory Climate](#participatory-climate)
-6. [Welcoming Learning Environment](#welcoming-learning-environment)
+6. [Responsive Learning Environment](#responsive-learning-environment)
 
 **Third**, the committee discussed whether to remove open-ended questions from the summative instrument due to the extensive evidence of equity bias in unstructured student comments (see [Evidence on bias in open-ended comments](#sec-evidence-open-ended) below). A motion to remove them from the Student Perceptions of Learning Experience obtained three votes in favor and five votes against. The motion failed. The committee then voted unanimously to retain open-ended questions in the Student Perceptions of Learning Experience under structured prompts and guardrails designed to minimize bias (see [Guardrails for open-ended questions](#sec-guardrails-open-ended) below).
 
@@ -50,7 +50,7 @@ The rest of this document briefly provides the rationale for these recommendatio
 
 ## Rationale for the name change
 
-The current names — **Student Evaluation of Instruction** and **Student Evaluation of Faculty** — mischaracterize what the instrument does and should do. The word "evaluation" implies that students are rendering a verdict on the quality of instruction or on the instructor. They are not. As detailed below, the instrument asks students to report on their own experiences in the classroom: whether they felt treated with dignity, held to consistent standards, able to access help, able to see how course elements connected, comfortable participating, and welcomed. These are experiential reports, not evaluative judgments.
+The current names — **Student Evaluation of Instruction** and **Student Evaluation of Faculty** — mischaracterize what the instrument does and should do. The word "evaluation" implies that students are rendering a verdict on the quality of instruction or on the instructor. They are not. As detailed below, the instrument asks students to report on their own experiences in the classroom: whether they felt treated with regard, held to consistent standards, able to access help, able to see how course elements connected, comfortable participating, and that the learning environment was responsive to them. These are experiential reports, not evaluative judgments.
 
 This distinction is not merely semantic. The peer-reviewed literature on student evaluations of teaching (SET) establishes that items framed as evaluations of teaching effectiveness, course effectiveness, or instructor competence are particularly susceptible to bias — including bias linked to the instructor's gender, race, and accent — and are evidently misleading ([Boring, Ottoboni, and Stark, 2016](https://www.scienceopen.com/hosted-document?doi=10.14293/S2199-1006.1.SOR-EDU.AETBZC.v1); [Stark, 2016](https://www.tfanet.ca/wp-content/uploads/2018/11/Stark_report.pdf); [Stark, 2026](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6193538)).^[The best evidence about the connection between SET
 and other variables comes from experiments that assign students at random to sections of courses, in a manner similar to clinical trials. For a summary of this evidence see [https://eduardo-zambrano.github.io/documents/SET/Appendix.pdf](https://eduardo-zambrano.github.io/documents/SET/Appendix.pdf).] By contrast, items that ask students to report on their own experience are less susceptible to these biases, precisely because they do not ask students to make judgments they are not qualified to make. The name of the instrument should reflect what it actually measures.
@@ -58,7 +58,7 @@ and other variables comes from experiments that assign students at random to sec
 Each word in the proposed name — **Student Perceptions of Learning Experience** — is chosen deliberately:
 
 - **Student**: the respondent.
-- **Perceptions of**: what the data represent. The word "perceptions" acknowledges that the instrument captures how students experience the learning environment from their own vantage point. Students occupy a position in the classroom that no other observer shares — they are the only ones who can report on whether they felt welcomed, whether they could see how the course fit together, or whether they felt comfortable participating. "Perceptions" names this unique epistemic contribution directly: the data are the students' own account of their experience, grounded in what they are distinctively positioned to observe.
+- **Perceptions of**: what the data represent. The word "perceptions" acknowledges that the instrument captures how students experience the learning environment from their own vantage point. Students occupy a position in the classroom that no other observer shares — they are the only ones who can report on whether the instructor engaged with them as individuals, whether they could see how the course fit together, or whether they felt comfortable participating. "Perceptions" names this unique epistemic contribution directly: the data are the students' own account of their experience, grounded in what they are distinctively positioned to observe.
 - **Learning Experience**: what is being reported on. "Learning experience" scopes the instrument to the educational context without making the teaching or the instructor the object of assessment. It signals that the data concern the student's experience of learning — the process, not the outcome — rather than a judgment of instructional quality.
 
 ## Rationale for the aspects of teaching effectiveness chosen to be included in the survey
@@ -91,7 +91,7 @@ A useful starting point for applying these criteria is the TEval framework devel
 
 :::
 
-When the seven dimensions are assessed against the three criteria above, one dimension stands out as the natural focus of the student survey: **Dimension 3 — Class Climate**. Class climate carries a summative component: the UFPP requires evidence of the instructor's effectiveness in creating a productive learning environment, and how students experience the classroom is directly relevant to that requirement. Students are qualified to assess it: reporting on whether the classroom felt supportive, welcoming, and conducive to their learning does not require disciplinary or pedagogical expertise — it requires only that students reflect on their own experience. And students can assess it with minimal bias: items about class climate elicit experiential reports ("I felt treated with dignity," "I felt that the instructor created a welcoming learning environment for everyone") rather than the evaluative judgments about teaching effectiveness or instructor competence that the literature identifies as particularly susceptible to bias.
+When the seven dimensions are assessed against the three criteria above, one dimension stands out as the natural focus of the student survey: **Dimension 3 — Class Climate**. Class climate carries a summative component: the UFPP requires evidence of the instructor's effectiveness in creating a productive learning environment, and how students experience the classroom is directly relevant to that requirement. Students are qualified to assess it: reporting on whether the classroom felt supportive, responsive, and conducive to their learning does not require disciplinary or pedagogical expertise — it requires only that students reflect on their own experience. And students can assess it with minimal bias: items about class climate elicit experiential reports ("I felt treated with regard," "I felt the instructor created a learning environment that was responsive to all students") rather than the evaluative judgments about teaching effectiveness or instructor competence that the literature identifies as particularly susceptible to bias.
 
 This focus on class climate is particularly fitting at a polytechnic university organized around Learn by Doing. Where students learn primarily through active engagement — in labs, studios, clinics, and collaborative projects — the learning environment is not a backdrop to instruction but the space in which learning happens. The climate of that space is, accordingly, not a secondary concern but a direct determinant of whether the pedagogy works.
 
@@ -105,26 +105,26 @@ Having identified class climate as the appropriate focus, the committee then ask
 
 ### Regard for Students
 
-**What it captures:** Dignity in how the instructor interacts with students — responsiveness to contributions, and regard for students as persons.
+**What it captures:** Whether the instructor engages with students as individuals — acknowledging their contributions, responding to their questions with care, and treating them as persons whose presence and participation matter.
 
 ::: {.callout-tip collapse="true" title="How Regard for Students differs from the other aspects"}
-An instructor can apply the same standards to everyone yet be dismissive in manner. A class can welcome questions without the instructor showing regard for the students offering them. A course can feel *coherent* (well-structured, connected) while the instructor is curt or condescending. Regard for Students is about the quality of interpersonal treatment, not consistency of standards (No Differential Enforcement of Expectations), availability outside class (Access to Instructor and Instructor Resources), perceived course structure (Perceived Course Coherence), conditions for engagement (Participatory Climate), or belonging (Welcoming Learning Environment).
+An instructor can apply the same standards to everyone yet be dismissive in manner. A class can welcome questions without the instructor showing regard for the students offering them. A course can feel *coherent* (well-structured, connected) while the instructor is curt or condescending. Regard for Students is about the quality of interpersonal treatment, not consistency of standards (Consistent Communication and Enforcement of Expectations), availability outside class (Access to Instructor and Instructor Resources), perceived course structure (Perceived Course Coherence), conditions for engagement (Participatory Climate), or belonging (Responsive Learning Environment).
 :::
 
-### No Differential Enforcement of Expectations
+### Consistent Communication and Enforcement of Expectations
 
-**What it captures:** Equitable treatment and consistent application of standards — no favoritism, equitable access to learning and assessment.
+**What it captures:** Whether expectations are communicated clearly and applied consistently — no favoritism, uniform access to learning and assessment.
 
-::: {.callout-tip collapse="true" title="How No Differential Enforcement of Expectations differs from the other aspects"}
-An instructor can show *regard for students as persons* while playing favorites. A class can feel welcoming in atmosphere while grading or attention is unevenly distributed. A course can be *coherent* (activities clearly connected to goals) while standards are applied inconsistently. No Differential Enforcement of Expectations is about equity across students, not the character of interaction (Regard for Students), availability outside class (Access to Instructor and Instructor Resources), perceived course structure (Perceived Course Coherence), the openness of the environment (Participatory Climate), or sense of belonging (Welcoming Learning Environment).
+::: {.callout-tip collapse="true" title="How Consistent Communication and Enforcement of Expectations differs from the other aspects"}
+An instructor can show *regard for students as persons* while playing favorites. A class can feel responsive in atmosphere while grading or attention is unevenly distributed. A course can be *coherent* (activities clearly connected to goals) while standards are applied inconsistently. Consistent Communication and Enforcement of Expectations is about equity across students, not the character of interaction (Regard for Students), availability outside class (Access to Instructor and Instructor Resources), perceived course structure (Perceived Course Coherence), the openness of the environment (Participatory Climate), or sense of belonging (Responsive Learning Environment).
 :::
 
 ### Access to Instructor and Instructor Resources
 
-**What it captures:** Perceived access of the instructor for help outside of class — office hours, email, after-class conversations.
+**What it captures:** Whether the student can access the instructor and the resources the instructor provides — office hours, email, after-class conversations, course materials, and other support for learning.
 
 ::: {.callout-tip collapse="true" title="How Access to Instructor and Instructor Resources differs from the other aspects"}
-An instructor can be available one-on-one but create a poor in-class climate (Participatory Climate). A student may find the instructor easy to reach but, once there, feel dismissed (Regard for Students) or experience uneven standards (No Differential Enforcement of Expectations). A course can be *coherent* in structure while the instructor is difficult to reach outside of class. Access to Instructor and Instructor Resources is about availability, not the quality of what happens during interaction (Regard for Students), consistency of standards (No Differential Enforcement of Expectations), perceived course structure (Perceived Course Coherence), in-class environment (Participatory Climate), or belonging (Welcoming Learning Environment).
+An instructor can be available one-on-one but create a poor in-class climate (Participatory Climate). A student may find the instructor easy to reach but, once there, feel dismissed (Regard for Students) or experience uneven standards (Consistent Communication and Enforcement of Expectations). A course can be *coherent* in structure while the instructor is difficult to reach outside of class. Access to Instructor and Instructor Resources is about availability, not the quality of what happens during interaction (Regard for Students), consistency of standards (Consistent Communication and Enforcement of Expectations), perceived course structure (Perceived Course Coherence), in-class environment (Participatory Climate), or belonging (Responsive Learning Environment).
 :::
 
 :::
@@ -140,7 +140,7 @@ An instructor can be available one-on-one but create a poor in-class climate (Pa
 Perceived Course Coherence might appear to belong with course design (Goals, Content, and Alignment) rather than with class climate. But what a peer reviewer assesses from the syllabus — whether the course elements are aligned — is different from what the student experiences in the classroom — whether the connections between those elements are *visible* to them. A syllabus can be perfectly aligned on paper while students experience the course as disjointed because the connections were never made explicit. It is this experiential dimension — perceived structure, not designed structure — that the SPLE measures, and that makes Perceived Course Coherence a class climate variable.
 
 ::: {.callout-tip collapse="true" title="How Perceived Course Coherence differs from the other aspects"}
-A class can score well on every other aspect — students treated with dignity, standards applied consistently, instructor available, environment participatory and welcoming — while the student still cannot see how the pieces fit together, how today's class connects to last week's, or how the assessments relate to what was covered. Perceived Course Coherence captures one specific, concrete experience: whether the student could see the connections between course elements. It is not a summary of the overall learning experience or a proxy for teaching effectiveness. It is about perceived structure, not interpersonal treatment (Regard for Students), consistency of standards (No Differential Enforcement of Expectations), availability outside class (Access to Instructor and Instructor Resources), conditions for engagement (Participatory Climate), or belonging (Welcoming Learning Environment).
+A class can score well on every other aspect — students treated with regard, standards applied consistently, instructor available, environment participatory and responsive — while the student still cannot see how the pieces fit together, how today's class connects to last week's, or how the assessments relate to what was covered. Perceived Course Coherence captures one specific, concrete experience: whether the student could see the connections between course elements. It is not a summary of the overall learning experience or a proxy for teaching effectiveness. It is about perceived structure, not interpersonal treatment (Regard for Students), consistency of standards (Consistent Communication and Enforcement of Expectations), availability outside class (Access to Instructor and Instructor Resources), conditions for engagement (Participatory Climate), or belonging (Responsive Learning Environment).
 :::
 
 :::
@@ -151,18 +151,18 @@ A class can score well on every other aspect — students treated with dignity, 
 
 ### Participatory Climate
 
-**What it captures:** Whether the classroom environment supports multiple modes of active engagement — asking questions, sharing idea and/or resources, discussing with peers, and making mistakes without penalty. This aspect concerns the conditions for engagement, not the format of instruction — a lecture in which the instructor welcomes questions and responds to them thoughtfully is a participatory climate no less than a seminar built around discussion.
+**What it captures:** Whether the classroom environment supports multiple modes of active engagement — asking questions, sharing ideas and/or resources, discussing with peers, and making mistakes without penalty. This aspect concerns the conditions for engagement, not the format of instruction — a lecture in which the instructor welcomes questions and responds to them thoughtfully is a participatory climate no less than a seminar built around discussion.
 
 ::: {.callout-tip collapse="true" title="How Participatory Climate differs from the other aspects"}
-A class can be participatory in structure while individual students still don't feel they *belong* (Welcoming Learning Environment). The instructor can show regard for students in replies without the environment actually encouraging participation. A course can feel *coherent* (well-structured) while the classroom format discourages questions, discussion, or student-to-student dialogue. Participatory Climate is about the conditions for engagement in class — including peer interaction — not the quality of treatment (Regard for Students), consistency of standards (No Differential Enforcement of Expectations), availability outside class (Access to Instructor and Instructor Resources), perceived course structure (Perceived Course Coherence), or belonging (Welcoming Learning Environment).
+A class can be participatory in structure while individual students still don't feel they *belong* (Responsive Learning Environment). The instructor can show regard for students in replies without the environment actually encouraging participation. A course can feel *coherent* (well-structured) while the classroom format discourages questions, discussion, or student-to-student dialogue. Participatory Climate is about the conditions for engagement in class — including peer interaction — not the quality of treatment (Regard for Students), consistency of standards (Consistent Communication and Enforcement of Expectations), availability outside class (Access to Instructor and Instructor Resources), perceived course structure (Perceived Course Coherence), or belonging (Responsive Learning Environment).
 :::
 
-### Welcoming Learning Environment
+### Responsive Learning Environment
 
-**What it captures:** Whether all students feel they belong in the class — that the environment is welcoming to them and not just to some subset of students.
+**What it captures:** Whether the instructor creates a learning environment that is responsive to the range of students in the class — one that reflects awareness of differences in background, preparation, learning needs, and experience, rather than treating all students as interchangeable.
 
-::: {.callout-tip collapse="true" title="How Welcoming Learning Environment differs from the other aspects"}
-A student can be treated with dignity and held to consistent standards without feeling they belong. A class can be *participatory* (questions encouraged, ideas welcomed) while a student still feels like an outsider — because of whose experiences are centered, who dominates discussion, or what the implicit culture of the class signals. A course can be *coherent* (activities connect, expectations are clear) while a student feels the class was not designed with them in mind. Welcoming Learning Environment is about belonging in the group, not individual treatment (Regard for Students, No Differential Enforcement of Expectations), one-on-one availability (Access to Instructor and Instructor Resources), perceived course structure (Perceived Course Coherence), or conditions for engagement (Participatory Climate).
+::: {.callout-tip collapse="true" title="How Responsive Learning Environment differs from the other aspects"}
+A student can be treated with regard and held to consistent standards without feeling they belong. A class can be *participatory* (questions encouraged, ideas welcomed) while a student still feels like an outsider — because of whose experiences are centered, who dominates discussion, or what the implicit culture of the class signals. A course can be *coherent* (activities connect, expectations are clear) while a student feels the class was not designed with them in mind. Responsive Learning Environment is about belonging in the group, not individual treatment (Regard for Students, Consistent Communication and Enforcement of Expectations), one-on-one availability (Access to Instructor and Instructor Resources), perceived course structure (Perceived Course Coherence), or conditions for engagement (Participatory Climate).
 :::
 
 :::
@@ -223,7 +223,7 @@ b. "I felt the instructor responded to students' questions and ideas respectfull
 c. "I felt the instructor valued students' contributions."
 :::
 
-### No Differential Enforcement of Expectations
+### Consistent Communication and Enforcement of Expectations
 
 ::: {.callout-note collapse="true" title="Candidate items"}
 a. "I felt the instructor applied the same expectations and standards to all students."
@@ -253,7 +253,7 @@ b. "I felt comfortable reaching out to the instructor for help outside of class.
 c. "I felt the instructor was available and willing to help when I needed assistance."
 :::
 
-### Welcoming Learning Environment
+### Responsive Learning Environment
 
 ::: {.callout-note collapse="true" title="Candidate items"}
 a. "I felt included in this class."

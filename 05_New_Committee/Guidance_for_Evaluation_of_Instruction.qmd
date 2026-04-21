@@ -72,12 +72,12 @@ This dimension is about the extent to which the class climate reflects regard fo
 
 This is the only dimension assessed through the **Student Perceptions of Learning Experience (SPLE)**, which asks students to report on six aspects of class climate:
 
-- **Regard for Students** — Dignity in how the instructor interacts with students, and regard for students as persons.
-- **No Differential Enforcement of Expectations** — Equitable treatment and consistent application of standards.
+- **Regard for Students** — Regard for students as persons in how the instructor interacts with them.
+- **Consistent Communication and Enforcement of Expectations** — Equitable treatment and consistent application of standards.
 - **Access to Instructor and Instructor Resources** — Perceived accessibility of the instructor for help outside of class.
 - **Perceived Course Coherence** — Whether the student could see connections between course elements.
 - **Participatory Climate** — Whether the classroom environment supports multiple modes of active engagement.
-- **Welcoming Learning Environment** — Whether students feel they belong in the class.
+- **Responsive Learning Environment** — Whether students feel they belong in the class.
 
 #### §8.3.6.1. Interpreting Student Perceptions of Learning Experience results
 
@@ -197,7 +197,7 @@ Evaluators should use this rubric to organize their assessment of each dimension
 
 | Developing | Proficient | Expert |
 |---|---|---|
-| Class climate discourages student motivation or self-efficacy. Does not effectively create a welcoming learning environment. Consistently negative student reports of instructor access or interaction. Little attempt to address concerns voiced by students. | Class climate promotes student motivation. Fosters a welcoming learning environment with regard for students as persons. No consistently negative student reports of instructor access or interaction. Instructor articulates some lessons learned through student feedback. | Climate promotes motivation, self-efficacy, ownership of learning. Instructor models welcoming language and behavior. Fosters an open learning environment that promotes student-student and student-instructor dialogue. Student feedback on instructor access and interaction is generally positive. Instructor seeks and is responsive to student feedback. |
+| Class climate discourages student motivation or self-efficacy. Does not effectively create a responsive learning environment. Consistently negative student reports of instructor access or interaction. Little attempt to address concerns voiced by students. | Class climate promotes student motivation. Fosters a responsive learning environment with regard for students as persons. No consistently negative student reports of instructor access or interaction. Instructor articulates some lessons learned through student feedback. | Climate promotes motivation, self-efficacy, ownership of learning. Instructor models responsive language and behavior. Fosters an open learning environment that promotes student-student and student-instructor dialogue. Student feedback on instructor access and interaction is generally positive. Instructor seeks and is responsive to student feedback. |
 
 : {.striped}
 

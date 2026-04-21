@@ -10,7 +10,7 @@ The survey should open with the following informational preamble, consistent wit
 
 **Student Perceptions of Learning Experience**
 
-This brief survey asks about *your experience* in this course — whether you felt respected, treated fairly, comfortable participating, able to get help, and included. It does not ask you to evaluate the instructor's teaching ability or the course content.
+This brief survey asks about *your experience* in this course — the learning environment, your interactions with the instructor, and how you perceive the course was structured. It does not ask you to evaluate the instructor's teaching ability or the course content.
 
 Research shows that students' responses to surveys like this can be influenced by characteristics of the instructor — such as gender, race, and accent — that are unrelated to the learning environment. Being aware of this tendency helps you provide more accurate feedback.
 
@@ -26,15 +26,19 @@ All items use the following response scale:
 
 ### Regard for Students
 
-> "I felt the instructor treated students with dignity."
+> "I felt the instructor engaged with students as individuals."
 
-### No Differential Enforcement of Expectations
+### Consistent Communication and Enforcement of Expectations
+
+> "I knew what was expected of me in this course."
 
 > "I felt the instructor applied the same expectations and standards to all students."
 
 ### Access to Instructor and Instructor Resources
 
-> "I was able to access resources from my instructor (in office hours, after class, or by email)."
+> "I was able to get help from my instructor when I needed it (in office hours, after class, or by email)."
+
+> "I was able to access the course materials and resources I needed for this class."
 
 ### Perceived Course Coherence
 
@@ -44,11 +48,13 @@ All items use the following response scale:
 
 ### Participatory Climate
 
-> "I felt comfortable participating in class (asking questions, sharing ideas, or making mistakes)."
+> "I felt there were ways for me to participate in the course."
 
-### Welcoming Learning Environment
+> "I felt the instructor created opportunities for me to explore the ideas in the course."
 
-> "I felt the professor created a learning environment that was welcoming to all students."
+### Responsive Learning Environment
+
+> "I felt the instructor created a learning environment that was responsive to all students."
 
 ## Sample if the Academic Senate elects to retain open-ended questions
 
@@ -68,7 +74,7 @@ Your response here...
 </div>
 ```
 
-All other items (Regard for Students, No Differential Enforcement of Expectations, Access to Instructor and Instructor Resources, Participatory Climate, Welcoming Learning Environment) remain Likert-only.
+All other items (Regard for Students, Consistent Communication and Enforcement of Expectations, Access to Instructor and Instructor Resources, Participatory Climate, Responsive Learning Environment) remain Likert-only.
 
 ### Why an open-ended question only on Perceived Course Coherence?
 
@@ -76,11 +82,11 @@ The committee considered attaching an open-ended prompt to each of the six aspec
 
 - **Regard for Students.** An open-ended prompt here invites commentary on manner, demeanor, and personality — exactly the content that disproportionately targets women and faculty from marginalized groups ([Mitchell and Martin, 2018](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/gender-bias-in-student-evaluations/1224BE475C0AE75A2C2D8553210C4E27)). Highest risk, lowest benefit.
 
-- **No Differential Enforcement of Expectations.** An open-ended prompt here invites comments about grading, which correlates with grade *expectations*, not actual consistency of standards. It also invites favoritism allegations that can be racialized ([Chisadza, Nicholls, and Yitbarek, 2019](https://doi.org/10.1016/j.econlet.2019.03.022)). High risk.
+- **Consistent Communication and Enforcement of Expectations.** An open-ended prompt here invites comments about grading, which correlates with grade *expectations*, not actual consistency of standards. It also invites favoritism allegations that can be racialized ([Chisadza, Nicholls, and Yitbarek, 2019](https://doi.org/10.1016/j.econlet.2019.03.022)). High risk.
 
 - **Access.** An open-ended prompt here invites commentary on communication style, accent, and warmth — all heavily gendered and racialized ([Subtirelu, 2015](https://doi.org/10.1017/S0047404514000736); [Miller and Chamberlin, 2000](https://doi.org/10.2307/1318580)). High risk.
 
-- **Welcoming Learning Environment.** An open-ended prompt here could elicit valuable information, but it could also produce comments about the instructor's identity that are impossible to disentangle from bias. A student who doesn't feel they belong might attribute it to the instructor's demographics rather than to specific practices ([Heffernan, 2023](https://link.springer.com/article/10.1007/s10734-022-00831-x)). Moderate-to-high risk.
+- **Responsive Learning Environment.** An open-ended prompt here could elicit valuable information, but it could also produce comments about the instructor's identity that are impossible to disentangle from bias. A student who doesn't feel they belong might attribute it to the instructor's demographics rather than to specific practices ([Heffernan, 2023](https://link.springer.com/article/10.1007/s10734-022-00831-x)). Moderate-to-high risk.
 
 - **Perceived Course Coherence.** This is the safest choice. An open-ended prompt here channels comments toward course structure — readings, assignments, assessments, the connections between topics. These are the most impersonal, practice-oriented comments a student can make. It is hard (but not impossible) to write something biased about whether the exam matched the lectures. And it is the aspect where elaboration is most useful to evaluators — a Likert response tells you the student didn't see the connections; a structured comment tells you *which* connections were missing.
 

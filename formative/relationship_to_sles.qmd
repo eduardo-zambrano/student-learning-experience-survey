@@ -46,12 +46,12 @@ Response options: **Positive experience**, **Mixed experience**, **Negative expe
 
 | Dimension | |
 |---|---|
-| **Regard for Students** — feeling treated with dignity and regard | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
-| **No Differential Enforcement of Expectations** — feeling that all students are treated equitably | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
+| **Regard for Students** — feeling treated with regard | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
+| **Consistent Communication and Enforcement of Expectations** — feeling that all students are treated equitably | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
 | **Perceived Course Coherence** — seeing how course elements connect | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
 | **Participation** — feeling comfortable asking questions and sharing ideas | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
 | **Access to Instructor and Instructor Resources** — feeling able to access help when needed | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
-| **Welcoming Learning Environment** — feeling that you belong in this class | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
+| **Responsive Learning Environment** — feeling that you belong in this class | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
 
 :::
 
