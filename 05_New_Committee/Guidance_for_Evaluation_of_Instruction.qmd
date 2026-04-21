@@ -38,7 +38,7 @@ This guidance adopts the TEval framework ([Austin et al., 2025](https://hep.gse.
 We therefore propose that UFPP §7.2.5.2 be revised to read: "Evaluators shall consider such dimensions as (1) Goals, Content, and Alignment; (2) Teaching Practices; (3) Class Climate; (4) Achievement of Learning Outcomes; (5) Reflection and Iterative Growth; (6) Mentoring and Advising; and (7) Involvement in Teaching Service, Scholarship, or Community."
 :::
 
-Evidence for evaluating teaching comes from three sources: the instructor (e.g., CV, syllabi, course materials, student work samples, reflection), peers or observers (e.g., meeting with instructor, class observation, review of student materials), and students (e.g., Student Perceptions of Learning Experience, letters from students). The sections that follow describe each dimension, the guiding questions evaluators should consider, the sources of evidence appropriate to that dimension, and — where applicable — the limitations of particular evidence sources.
+Evidence for evaluating teaching comes from three sources: the instructor (e.g., CV, syllabi, course materials, student work samples, reflection), peers or observers (e.g., meeting with instructor, class observation, review of student materials), and students (e.g., Student Perceptions of Learning Experience instrument, letters from students). The sections that follow describe each dimension, the guiding questions evaluators should consider, the sources of evidence appropriate to that dimension, and — where applicable — the limitations of particular evidence sources.
 
 \newpage
 
@@ -49,7 +49,7 @@ This dimension is about what students are expected to learn from the courses tau
 **Sources of evidence:** Syllabi, course materials, reflection, meeting with instructor, class observation, review of student materials.
 
 ::: {.callout-note title="Note"}
-This dimension requires disciplinary expertise to evaluate. It is assessed through peer review (syllabi review, class observation, review of course materials) and instructor self-report (reflection), not through student surveys. The Student Perceptions of Learning Experience does not assess this dimension.
+This dimension requires disciplinary expertise to evaluate. It is assessed through peer review (syllabi review, class observation, review of course materials) and instructor self-report (reflection), not through student surveys. The Student Perceptions of Learning Experience instrument does not assess this dimension.
 :::
 
 
@@ -60,7 +60,7 @@ This dimension is about how in-class and out-of-class time is used, whether assi
 **Sources of evidence:** Syllabi, course materials, reflection, meeting with instructor, class observation, review of student materials.
 
 ::: {.callout-note title="Note"}
-This dimension requires pedagogical expertise to evaluate. It is assessed through peer observation, review of course materials, and instructor reflection, not through student surveys. The Student Perceptions of Learning Experience does not assess this dimension.
+This dimension requires pedagogical expertise to evaluate. It is assessed through peer observation, review of course materials, and instructor reflection, not through student surveys. The Student Perceptions of Learning Experience instrument does not assess this dimension.
 :::
 
 
@@ -68,9 +68,9 @@ This dimension requires pedagogical expertise to evaluate. It is assessed throug
 
 This dimension is about the extent to which the class climate reflects regard for students as persons, is supportive, and cooperative, whether it encourages motivation and engagement for all students, whether all students feel included, how student-student and student-instructor dialogue are fostered, what the students' views of their learning experiences are, and how the instructor has sought student feedback and used it to inform their teaching.
 
-**Sources of evidence:** Syllabi, reflection, class observation, **Student Perceptions of Learning Experience**, letters from students.
+**Sources of evidence:** Syllabi, reflection, class observation, **Student Perceptions of Learning Experience** instrument, letters from students.
 
-This is the only dimension assessed through the **Student Perceptions of Learning Experience (SPLE)**, which asks students to report on six aspects of class climate:
+This is the only dimension assessed through the **Student Perceptions of Learning Experience (SPLE)** instrument, which asks students to report on six aspects of class climate:
 
 - **Regard for Students** — Regard for students as persons in how the instructor interacts with them.
 - **Consistent Communication and Enforcement of Expectations** — Equitable treatment and consistent application of standards.
@@ -84,7 +84,6 @@ This is the only dimension assessed through the **Student Perceptions of Learnin
 Evaluators and candidates should interpret SPLE results with care, following the scoring, reporting, and visualization guidelines established in @sec-scoring-reporting. Key principles include:
 
 - **Frequency distributions, not averages.** SPLE responses are ordered categorical data. They must not be averaged, and evaluators should examine the full distribution of responses, not any summary statistic.
-- **Raw counts, not percentages.** With the class sizes typical of most courses, percentages create a misleading impression of precision.
 - **No cross-comparisons.** SPLE results must not be compared across instructors, courses, departments, or disciplines. Differences in scores may reflect demographic biases, course characteristics, or nonresponse patterns rather than differences in the learning environment.
 - **No extrapolation.** Results from respondents should not be extrapolated to non-respondents. Students who submit evaluations are a self-selected sample of convenience, not a random sample.
 
@@ -112,7 +111,7 @@ Even when student survey items are framed as experiential reports about class cl
 
 #### §8.3.6.3. Department-associated questions
 
-Departments are not required to add questions to the Student Perceptions of Learning Experience. The six university-wide items are designed to provide a comprehensive assessment of class climate, and many departments will find them sufficient.
+Departments are not required to add questions to the Student Perceptions of Learning Experience instrument. The six university-wide items are designed to provide a comprehensive assessment of class climate, and many departments will find them sufficient.
 
 Departments that wish to add questions should weigh the benefit of additional information against the cost of making the instrument more burdensome for students to complete. A longer survey reduces response rates, and lower response rates weaken the representativeness of the data — undermining the very information the additional questions are meant to provide.
 
@@ -120,8 +119,8 @@ If a department elects to add questions, those questions must meet the same stan
 
 - **Students must be qualified to answer.** The question must concern something students can report on from their own experience, without requiring disciplinary or pedagogical expertise.
 - **Students must be able to answer with minimal bias.** The question must elicit an experiential report, not an evaluative judgment. Items that ask students to assess teaching effectiveness, course quality, or instructor competence are not permitted, as these are the items the literature identifies as most susceptible to bias.
-- **Closed-ended, structured items only.** Department-associated questions must be closed-ended items on the five-point Likert scale. Open-ended questions are not permitted on the summative instrument — for the same reasons they were removed from the university-wide items. Questions that invite unstructured commentary (e.g., "What could be changed about this course?") belong in the formative learning feedback process offered through the CTLT, not on the SPLE.
-- **No open-ended questions.** To be explicit: no department-associated question may solicit a free-text response. The evidence on equity bias in open-ended comments applies regardless of whether the question originates at the university or department level. Open-ended questions remain a central part of the [Formative Learning Feedback](https://eduardo-zambrano.github.io/formative-learning-feedback/) process, where they serve their intended developmental purpose — shared only with the instructor and not included in the personnel file.
+- **Closed-ended, structured items only.** Department-associated questions must be closed-ended items on the five-point Likert scale. Questions that invite unstructured commentary (e.g., "What could be changed about this course?") belong in the formative learning feedback process offered through the CTLT, not on the SPLE.
+<!-- - **No open-ended questions.** To be explicit: no department-associated question may solicit a free-text response. The evidence on equity bias in open-ended comments applies regardless of whether the question originates at the university or department level. Open-ended questions remain a central part of the [Formative Learning Feedback](https://eduardo-zambrano.github.io/formative-learning-feedback/) process, where they serve their intended developmental purpose — shared only with the instructor and not included in the personnel file. -->
 
 Department-associated questions must use the same five-point ordered categorical (Likert) response scale as the university-wide items (Strongly Agree, Agree, Neither Agree nor Disagree, Disagree, Strongly Disagree, plus Not Applicable). They must be scored and reported identically to the university-wide questions — as frequency distributions of raw counts, with no numerical averages, no cross-comparisons, and no extrapolation from respondents to non-respondents. Every guardrail established in @sec-scoring-reporting for the university-wide items applies in full force to department-associated questions, lest the protections built into the university-level instrument be undone at the department level.
 
@@ -133,7 +132,7 @@ This dimension is about whether the instructor clearly communicates the learning
 **Sources of evidence:** Student work samples, reflection, meeting with instructor, review of student materials.
 
 ::: {.callout-note title="Note"}
-This dimension is assessed through review of student work, analysis of learning outcomes, and instructor reflection, not through student surveys. The Student Perceptions of Learning Experience does not assess this dimension. While it may seem natural to ask students how much they learned, perceived learning does not track actual learning. In a controlled experiment, Deslauriers et al. ([2019](https://doi.org/10.1073/pnas.1821936116)) found that students who learned *more* (as measured by test performance) reported feeling they had learned *less*, and vice versa. Uttl, White, and Gonzalez ([2017](https://doi.org/10.1016/j.stueduc.2016.08.007)), in a comprehensive meta-analysis, found that the correlation between student evaluation ratings and student learning is effectively zero. A "perceived learning" item would thus measure neither the learning environment nor actual learning, while carrying the same bias vulnerabilities as other evaluative items.
+This dimension is assessed through review of student work, analysis of learning outcomes, and instructor reflection, not through student surveys. The Student Perceptions of Learning Experience instrument does not assess this dimension. While it may seem natural to ask students how much they learned, perceived learning does not track actual learning. In a controlled experiment, Deslauriers et al. ([2019](https://doi.org/10.1073/pnas.1821936116)) found that students who learned *more* (as measured by test performance) reported feeling they had learned *less*, and vice versa. Uttl, White, and Gonzalez ([2017](https://doi.org/10.1016/j.stueduc.2016.08.007)), in a comprehensive meta-analysis, found that the correlation between student evaluation ratings and student learning is effectively zero. A "perceived learning" item would thus measure neither the learning environment nor actual learning, while carrying the same bias vulnerabilities as other evaluative items.
 :::
 
 
@@ -144,7 +143,7 @@ This dimension is about how and why the instructor's teaching has changed over t
 **Sources of evidence:** Syllabi, course materials, student work samples, reflection, meeting with instructor.
 
 ::: {.callout-note title="Note"}
-This dimension is assessed through the candidate's reflective narrative and through longitudinal review of course materials and student outcomes. The Student Perceptions of Learning Experience does not assess this dimension, though SPLE results over time may inform the candidate's reflection.
+This dimension is assessed through the candidate's reflective narrative and through longitudinal review of course materials and student outcomes. The Student Perceptions of Learning Experience instrument does not assess this dimension, though SPLE results over time may inform the candidate's reflection.
 :::
 
 
@@ -155,7 +154,7 @@ This dimension is about how effectively the instructor has worked individually w
 **Sources of evidence:** CV (student awards, achievements), reflection, meeting with instructor, review of student materials, letters from students.
 
 ::: {.callout-note title="Note"}
-This dimension is assessed through the candidate's CV, reflective narrative, meeting with the instructor, and letters from students — not through the Student Perceptions of Learning Experience.
+This dimension is assessed through the candidate's CV, reflective narrative, meeting with the instructor, and letters from students — not through the Student Perceptions of Learning Experience instrument.
 :::
 
 
@@ -166,7 +165,7 @@ This dimension is about how the instructor has contributed to the broader teachi
 **Sources of evidence:** CV (participation in teaching and learning committees), reflection, meeting with instructor.
 
 ::: {.callout-note title="Note"}
-This dimension is assessed through the candidate's CV and reflective narrative. The Student Perceptions of Learning Experience does not assess this dimension.
+This dimension is assessed through the candidate's CV and reflective narrative. The Student Perceptions of Learning Experience instrument does not assess this dimension.
 :::
 
 \newpage
