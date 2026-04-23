@@ -28,14 +28,8 @@ CLAUDE.md
 response_to_kylie.txt
 response_to_kylie.html
 
-# Plan B (not for distribution)
-05_New_Committee/Plan_B.qmd
-
-# Personal correspondence and handouts
-05_New_Committee/email_to_john_re_voting.txt
-05_New_Committee/Response_Likert_Bias.qmd
-05_New_Committee/Handout_Why_Not_Median.qmd
-05_New_Committee/Response_Why_Not_Open_Ended_On_Other_Aspects.qmd
+# Supporting documents (not for distribution)
+05_New_Committee/supporting_documents/
 
 # Node (StaticCrypt)
 node_modules/
