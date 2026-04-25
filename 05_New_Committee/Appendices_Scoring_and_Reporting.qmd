@@ -1,5 +1,7 @@
 # Appendix: Scoring and Reporting Guidelines {#sec-scoring-reporting}
 
+The recommendations in this appendix were approved by the committee with 7 votes in favor, 0 votes against, and 2 abstentions.
+
 ## Scoring Methodology
 
 The following scoring approach applies to all items in the **Student Perceptions of Learning Experience.**      
@@ -14,6 +16,122 @@ The following scoring approach applies to all items in the **Student Perceptions
 
     > "While it is common to replace the category names with numbers, for instance, using '1' to signify 'strongly disagree' and '5' to signify 'strongly agree,' the numbers themselves are not quantities, just new labels. They are codes that happen to be numerical. The actual magnitudes of the numbers do not mean anything. The labels are arbitrary. Averaging such numbers is meaningless as a matter of statistics. For the average to be meaningful, the difference between '1' and '2' would need to mean the same thing as the difference between '4' and '5.' A '1' would have to balance a '5' to be the equivalent of two '3's. But adding or subtracting labels from each other does not make sense, any more than it makes sense to add or average postal codes" ([Stark, 2016, ¶28–29](https://www.tfanet.ca/wp-content/uploads/2018/11/Stark_report.pdf); see also [Stark, 2026](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6193538)).
 
+### Why frequency distributions are preferred over measures of central tendency for this kind of data
+
+With only five possible values and many more than five students in a classroom, the median cannot move until the distribution shifts enough to push the 50th percentile across a category boundary. Small but meaningful differences — and even some large ones — are invisible to it. This creates two distinct problems.
+
+#### Problem 1: The median hides variation
+
+Two distributions can have very different spreads yet produce the same median.
+
+```{r median-setup, include=FALSE}
+library(knitr)
+library(kableExtra)
+library(ggplot2)
+library(ggthemes)
+library(dplyr)
+library(patchwork)
+
+resp_levels_med <- c("Strongly\nDisagree", "Disagree",
+                 "Neither Agree\nnor Disagree", "Agree",
+                 "Strongly\nAgree")
+
+make_bar_med <- function(counts, title, subtitle, max_y = NULL) {
+  df <- data.frame(
+    response = factor(resp_levels_med, levels = resp_levels_med),
+    count = counts
+  )
+  if (is.null(max_y)) max_y <- max(counts) + 2
+  ggplot(df, aes(x = response, y = count)) +
+    geom_col(fill = "#3F6D8E", width = 0.6) +
+    geom_text(aes(label = count), vjust = -0.7,
+              size = 3.2, color = "#333333") +
+    scale_y_continuous(breaks = seq(0, max_y, by = 2),
+                       limits = c(0, max_y),
+                       expand = c(0, 0)) +
+    labs(title = title, subtitle = subtitle,
+         x = NULL, y = NULL) +
+    theme_tufte(base_size = 11, base_family = "Palatino") +
+    theme(
+      plot.title    = element_text(size = 11, face = "bold", color = "#222222"),
+      plot.subtitle = element_text(size = 8, color = "#666666", margin = margin(b = 8)),
+      axis.ticks.x  = element_blank(),
+      axis.ticks.y  = element_line(color = "#CCCCCC", linewidth = 0.3),
+      axis.text.x   = element_text(size = 7, color = "#333333", lineheight = 0.9),
+      axis.text.y   = element_text(size = 7, color = "#999999"),
+      panel.grid    = element_blank(),
+      plot.margin   = margin(5, 10, 5, 5)
+    )
+}
+```
+
+```{r median-problem1-table, echo=FALSE}
+tbl_m1 <- data.frame(
+  Response = c("Strongly Agree", "Agree", "Neither Agree nor Disagree",
+               "Disagree", "Strongly Disagree"),
+  A = c(6, 4, 0, 4, 6),
+  B = c(2, 2, 16, 0, 0)
+)
+
+tbl_m1 %>%
+  kable(col.names = c("", "Section A", "Section B"),
+        align = c("l", "c", "c"),
+        caption = "Frequency distribution of responses (20 of 28 enrolled students responded)") %>%
+  kable_styling(bootstrap_options = c("condensed"),
+                full_width = FALSE, font_size = 13) %>%
+  row_spec(0, bold = TRUE, color = "#333333") %>%
+  column_spec(1, width = "14em") %>%
+  column_spec(2:3, width = "7em")
+```
+
+```{r median-problem1-charts, echo=FALSE, fig.width=8, fig.height=3, fig.align='center', dpi=150}
+p1a <- make_bar_med(c(6, 4, 0, 4, 6), "Section A", "20 of 28 enrolled students responded", max_y = 18)
+p1b <- make_bar_med(c(0, 0, 16, 2, 2), "Section B", "20 of 28 enrolled students responded", max_y = 18)
+p1a + p1b
+```
+
+Sections A and B above have the same median (Neither Agree nor Disagree), and very different distributions. Section A is deeply polarized — students are split between strong agreement and strong disagreement. Section B is concentrated at the center. An evaluator seeing "Neither Agree nor Disagree" twice would assume these are similar. They are not.
+
+#### Problem 2: The median is too coarse to locate the center
+
+The median also fails to distinguish distributions that differ in where their weight sits. Problem 1 showed that two distributions with different spreads can share a median. The following examples show that even distributions with very different centers of gravity — where one class is overwhelmingly positive and another is split down the middle — can produce the same median.
+
+```{r median-problem2-table, echo=FALSE}
+tbl_m2 <- data.frame(
+  Response = c("Strongly Agree", "Agree", "Neither Agree nor Disagree",
+               "Disagree", "Strongly Disagree"),
+  A = c(9, 11, 0, 0, 0),
+  B = c(1, 11, 8, 0, 0),
+  C = c(7, 7, 0, 0, 6),
+  D = c(0, 11, 0, 9, 0)
+)
+
+tbl_m2 %>%
+  kable(col.names = c("", "Section C", "Section D", "Section E", "Section F"),
+        align = c("l", "c", "c", "c", "c"),
+        caption = "Frequency distribution of responses (20 of 28 enrolled students responded)") %>%
+  kable_styling(bootstrap_options = c("condensed"),
+                full_width = FALSE, font_size = 13) %>%
+  row_spec(0, bold = TRUE, color = "#333333") %>%
+  column_spec(1, width = "14em") %>%
+  column_spec(2:5, width = "6em")
+```
+
+```{r median-problem2-charts, echo=FALSE, fig.width=9, fig.height=5.5, fig.align='center', dpi=150}
+p2a <- make_bar_med(c(0, 0, 0, 11, 9), "Section C", "20 of 28 enrolled students responded", max_y = 14)
+p2b <- make_bar_med(c(0, 0, 8, 11, 1), "Section D", "20 of 28 enrolled students responded", max_y = 14)
+p2c <- make_bar_med(c(6, 0, 0, 7, 7), "Section E", "20 of 28 enrolled students responded", max_y = 14)
+p2d <- make_bar_med(c(0, 9, 0, 11, 0), "Section F", "20 of 28 enrolled students responded", max_y = 14)
+(p2a + p2b) / (p2c + p2d)
+```
+
+All four sections report median = "Agree." But Section C is overwhelmingly positive, Section D is lukewarm, Section E is fairly polarized, and Section F is a knife-edge split. The median cannot tell them apart because five categories do not give it enough resolution — the distribution must shift *a lot* before the median moves to the next step. The distributions shown above shift *plenty* and the median does not budge.
+
+**The frequency distribution tells you instantly which case you are looking at. The median hides it.**
+
+In practice, the problem is sharper still. Student evaluations are typically such that most students who respond to the survey report nominally positive experiences. With a five-category scale and typical class sizes (15–40 students), the median will almost always fall at "Agree" or "Strongly Agree." This compresses nearly all instructors into two bins, making the median nearly useless for the purpose it is most needed for: helping evaluators distinguish between cases.
+
+A well-designed bar chart is not merely an illustration — it is itself the most effective summary available. As Tufte ([1983](https://www.edwardtufte.com/tufte/books_vdqi)) observed, the best statistical graphics communicate the full distribution of the data at a glance, rendering patterns, extreme values, and variation instantly legible in a way that no single summary statistic can. For a five-category ordinal variable, a bar chart *is* the summary measure — one that preserves the distributional information that the median discards.
 
 ## Reporting Guidelines
 
@@ -33,7 +151,7 @@ However, with the class sizes typical of most courses, percentages create a misl
 
     First, student experience scores are confounded with variables unrelated to teaching effectiveness — including the instructor's gender, race, and age — and these biases are large enough to cause more effective instructors to receive lower scores than less effective ones ([Boring, Ottoboni, and Stark, 2016](https://www.scienceopen.com/hosted-document?doi=10.14293/S2199-1006.1.SOR-EDU.AETBZC.v1)). The bias cannot be corrected because it varies by discipline, by student gender, by survey item, and by other factors. This means that comparing Instructor A's scores to Instructor B's scores — even for the same course — does not reveal who taught more effectively. It reveals the combined effect of demographics, student biases, and nonresponse patterns.
 
-    Second, cross-comparisons are invalidated by differences in course characteristics that have nothing to do with teaching: class size, course level, whether the course is required or elective, and student preparation ([Stark and Freishtat, 2014, Recommendation 5](https://www.scienceopen.com/hosted-document?doi=10.14293/S2199-1006.1.SOR-EDU.AOFRQA.v1); [McKeachie, 1997, p. 1222](https://doi.org/10.1037/0003-066X.52.11.1218)).
+    Second, cross-comparisons are invalidated by differences in course characteristics that have nothing to do with teaching: class size, course level, whether the course is required or elective, and student preparation ([Stark and Freishtat, 2014, Recommendation 5](https://www.scienceopen.com/hosted-document?doi=10.14293/S2199-1006.1.SOR-EDU.AOFRQA.v1); [McKeachie, 1997, p. 1222](https://doi.org/10.1037/0003-066X.52.11.1218)). Evaluators should assess each faculty member individually; evaluations and decisions should stand alone without reference to other faculty members or to a unit average ([Linse, 2017](https://doi.org/10.1016/j.stueduc.2016.12.004)).
 
 The following table illustrates the recommended reporting format. Each cell contains the raw count and percentage of respondents selecting that category. The table caption states both the number of respondents and the number of enrolled students, making the response rate immediately visible. No numerical averages or information about other instructors or groups of instructors appear.
 
@@ -104,7 +222,7 @@ pal5 <- c("#C06060",   # Strongly Disagree
           "#3F6D8E")   # Strongly Agree
 ```
 
-The distribution of responses should also be displayed as a bar chart showing the count and percentage of respondents in each category. "The distribution is easy to convey using a bar chart" ([Stark and Freishtat, 2014](https://www.scienceopen.com/hosted-document?doi=10.14293/S2199-1006.1.SOR-EDU.AOFRQA.v1)).
+The distribution of responses should be examined across the entire scale, not reduced to a single summary statistic ([Linse, 2017](https://doi.org/10.1016/j.stueduc.2016.12.004); [Stark and Freishtat, 2014](https://www.scienceopen.com/hosted-document?doi=10.14293/S2199-1006.1.SOR-EDU.AOFRQA.v1)). The distribution should also be displayed as a bar chart showing the count and percentage of respondents in each category.
 
 ### Bar chart for a single question
 

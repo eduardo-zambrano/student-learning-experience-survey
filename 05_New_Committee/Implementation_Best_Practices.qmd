@@ -4,11 +4,13 @@ The preceding chapters define *what* the **Student Perceptions of Learning Exper
 
 Cal Poly's transition to semesters — from 10-week quarters to 15-week terms — is a once-in-a-generation opportunity to design the administration of this instrument from scratch rather than inheriting the practices of a system it replaces. The recommendations below draw on the peer-reviewed literature and on the published practices of peer institutions to propose a concrete implementation model for the SPLE.
 
+The recommendations in this chapter were approved unanimously by the committee.
+
 ## Scope
 
 This chapter addresses the implementation of the SPLE — the summative instrument whose results enter the personnel file under [CBA §15.17](https://www.calfac.org/contract-2022-2025/#article-15). It does not address the evaluation of teaching more broadly, nor does it address course design, pedagogy, or the other dimensions of the [TEval framework](https://teval.net/) that are assessed through peer review, self-reflection, and other evidence sources.
 
-The broader literature on teaching evaluation recognizes that many institutions complement their end-of-term summative instrument with informal mid-semester formative feedback — brief, anonymous check-ins designed to give instructors actionable information while the course is still in progress. Oregon's two-survey model, Angelo and Cross's Classroom Assessment Techniques ([1993](https://eric.ed.gov/?id=ED317097)), and Harvard's early-feedback recommendations ([Bok Center](https://bokcenter.harvard.edu/getting-feedback-from-your-students)) all exemplify this practice. Developing a formative feedback process at Cal Poly is a **separate effort** that may be undertaken independently by interested faculty, departments, or the Center for Teaching, Learning, and Technology. This chapter does not address it further.
+The broader literature on teaching evaluation recognizes that many institutions complement their end-of-term summative instrument with informal mid-semester formative feedback — brief, anonymous check-ins designed to give instructors actionable information while the course is still in progress. Oregon's two-survey model, Angelo and Cross's Classroom Assessment Techniques ([1993](https://eric.ed.gov/?id=ED317097)), and Harvard's early-feedback recommendations ([Bok Center](https://bokcenter.harvard.edu/getting-feedback-from-your-students)) all exemplify this practice. Developing a formative feedback process at Cal Poly is a **separate effort**. A sub-committee of this Ad Hoc Committee prepared a separate document that is not part of this report — [Formative Learning Feedback: A Companion to the Student Perceptions of Learning Experience Report](https://eduardo-zambrano.github.io/formative-learning-feedback/) — that addresses this topic in detail. This chapter does not address it further.
 
 The sections that follow focus exclusively on the SPLE instrument: when to administer it, how to administer it, how to maximize response rates, and how to frame it to minimize bias.
 
@@ -22,7 +24,7 @@ The peer-reviewed literature is clear on one point: summative course evaluations
 
 | Institution | Evaluation Window | Source |
 |---|---|---|
-| San José State | ~10 days; last 2 weeks of classes | [SJSU Teaching Evaluation](https://www.sjsu.edu/teachingeval/) |
+| San José State | ~10 days; last 2 weeks of classes | [SJSU Teaching Evaluation](https://www.sjsu.edu/teachingeval/); [SOTE Interpretation Guide (2022)](https://www.sjsu.edu/senate/policies/pol_sote/) |
 | San Diego State | ~14 days; two-week window before finals | [SDSU Student Feedback](https://my.sdsu.edu/faculty/faq) |
 | UC Davis | Last week of each quarter (~7 days) | [UC Davis ACE](https://eval.ucdavis.edu/Home/About) |
 | UC Santa Barbara | Week 9 Monday – Week 10 Friday (~10 days) | [UCSB Course Evaluations](https://course-evals.ucsb.edu/instructors/) |
@@ -34,7 +36,7 @@ All of these institutions release results only after final grades have been subm
 
 ### Recommendation for Cal Poly's 15-week semester
 
-The SPLE window should **open at the beginning of week 14** and **close at the end of week 15**, before finals begin in week 16. This two-week window is consistent with the practice at most peer institutions, provides sufficient time for reminders and in-class completion, and ensures that the evaluation captures students' experience of nearly the full semester without bleeding into the final examination period.
+The SPLE window should be **open during the last two weeks of instruction before finals week**. This two-week window is consistent with the practice at most peer institutions, provides sufficient time for reminders and in-class completion, and ensures that the evaluation captures students' experience of nearly the full semester without bleeding into the final examination period.
 
 
 ## Mode of administration {#sec-mode}
@@ -49,7 +51,7 @@ The evidence is unambiguous: **in-class administration** produces the highest re
 
 A growing number of institutions have adopted a hybrid approach: dedicating class time for students to complete the evaluation *online*, on their own devices. This combines the response-rate benefits of in-class administration with the logistical efficiency of an online platform. Studies report response rates of **70–80%** with this model — comparable to traditional paper-based in-class administration ([Berk, 2013](https://doi.org/10.14434/josotl.v13i4.3609); [Chapman and Joines, 2017](https://doi.org/10.1007/s10755-017-9394-0)).
 
-The hybrid model is particularly well suited to the SPLE. The instrument has **six Likert-scale items and no open-ended questions** — a student can complete it in under five minutes on a phone. Ten to fifteen minutes of dedicated class time is more than sufficient, even accounting for the time to display the link, wait for students to access it, and allow for thoughtful responses.
+The hybrid model is particularly well suited to the SPLE. The instrument is designed to be short and focused — a student can complete it in under five minutes on a phone. Ten to fifteen minutes of dedicated class time is more than sufficient, even accounting for the time to display the link, wait for students to access it, and allow for thoughtful responses.
 
 ### Recommendation
 
@@ -136,8 +138,7 @@ The following table synthesizes the evidence reviewed in this chapter into a con
 
 | Element | Recommendation | Rationale |
 |---|---|---|
-| **When** | Weeks 13–14 (before finals in week 15) | Literature consensus: last 1–2 weeks of instruction, before finals begin ([Centra, 2003](https://doi.org/10.1023/A:1025492407752); [Marsh, 2007](https://doi.org/10.1007/978-1-4020-5742-3_9)) |
-| **Window duration** | 7–10 days within the 2-week period | Balances reach with urgency; aligns with what is done by our peer institutions |
+| **When** | Last two weeks of instruction before finals week | Literature consensus: last 1–2 weeks of instruction, before finals begin ([Centra, 2003](https://doi.org/10.1023/A:1025492407752); [Marsh, 2007](https://doi.org/10.1007/978-1-4020-5742-3_9)) |
 | **Mode** | Hybrid: dedicated class time for online completion | Single most effective method for achieving 70%+ response rates ([Berk, 2013](https://doi.org/10.14434/josotl.v13i4.3609)) |
 | **Class time** | 10–15 min; instructor displays link/QR code, then leaves | SPLE has 5 Likert items and no open-ended questions — feasible in under 5 minutes |
 | **Framing** | Informational preamble (data-informed, not generic) | Boring and Philippe ([2021](https://doi.org/10.1016/j.jpubeco.2020.104323)): informational framing reduces gender bias; generic appeals do not |
