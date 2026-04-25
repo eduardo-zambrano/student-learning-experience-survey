@@ -36,7 +36,7 @@ jobs:
 
       - name: Install R packages
         run: |
-          Rscript -e 'install.packages(c("knitr", "kableExtra", "ggplot2", "ggthemes", "dplyr"), repos = "https://packagemanager.posit.co/cran/__linux__/jammy/latest")'
+          Rscript -e 'install.packages(c("knitr", "kableExtra", "ggplot2", "ggthemes", "dplyr", "patchwork"), repos = "https://packagemanager.posit.co/cran/__linux__/jammy/latest")'
 
       - uses: actions/setup-node@v4
         with:
@@ -52,11 +52,6 @@ jobs:
         run: |
           cd 05_New_Committee
           quarto render
-
-      - name: Encrypt HTML with StaticCrypt
-        run: |
-          cd 05_New_Committee
-          npx staticrypt@3 _book/*.html -p "${{ secrets.SITE_PASSWORD }}" --remember 30 -d _book
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
