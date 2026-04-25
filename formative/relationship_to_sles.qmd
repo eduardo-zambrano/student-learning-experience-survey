@@ -8,23 +8,22 @@ The formative feedback process is **not** a practice run for the summative SPLE,
 |---|---|---|
 | **Purpose** | Developmental: help the instructor improve the course in real time | Evaluative: provide data for the personnel file |
 | **Audience** | Instructor only | Instructor, department chair, personnel committee |
-| **Timing** | Throughout the term (weeks 2–3, 6–8, 11–12) | End of term (weeks 13–14) |
+| **Timing** | Throughout the term (weeks 2–3, 6–8, 11–12) | Last two weeks of instruction before finals week |
 | **Content** | Seven dimensions of learning (Ambrose et al., 2010) | Six aspects of class climate |
-| **Format** | Flexible: structured items, open-ended questions, or both; faculty choose dimensions | Standardized: six Likert-scale items |
+| **Format** | Flexible: structured items, open-ended questions, or both; faculty choose dimensions | Standardized: Likert-scale items and structured open-ended prompts |
 | **Anonymity** | Anonymous | Anonymous |
 | **Personnel file** | No | Yes |
 | **Required** | No (instructor's choice) | Yes (institutional requirement) |
+| **Input for self-reflection and iterative growth** | Yes | Yes |
 
 : Comparison of formative and summative instruments {#tbl-comparison}
 
-The formative feedback process exists because some of the most useful feedback students can provide — what is working, what is not, what they wish were different — is most valuable *before* the course ends, when the instructor can still act on it. The summative SPLE, by contrast, captures the student's experience of the full term and provides data for institutional evaluation. **These are complementary but distinct functions.**
+The formative feedback process exists because some of the most useful feedback students can provide — what is working, what is not, what they wish were different — is most valuable *before* the course ends, when the instructor can still act on it. The summative SPLE, by contrast, captures the student's experience of the full term and provides data for institutional evaluation. **These are complementary but distinct functions.** Both instruments provide input for self-reflection and iterative growth (Dimension 5 of the TEval framework) — the formative process by giving instructors actionable feedback while the course is still in progress, and the summative instrument by revealing patterns across terms that inform longer-term development.
 
 
 ## Formative feedback as the home for open-ended questions
 
-The SPLE committee recommended removing open-ended questions from the summative instrument because unstructured comments reintroduce the biases the instrument is designed to exclude (see the SPLE proposal for the full evidence base). But this does not mean students should have no voice beyond structured items.
-
-The formative feedback process is the designated home for open-ended questions. In a formative context:
+The SPLE committee voted to retain open-ended questions on the summative instrument under structured prompts and guardrails designed to minimize the equity bias that the literature documents in unstructured responses (see the SPLE proposal for the full evidence base). Open-ended questions also play a central role in the formative feedback process. In the formative context, results go only to the instructor, so potentially biased comments cannot influence personnel decisions. In a formative context:
 
 - Results go only to the instructor, so biased comments cannot influence personnel decisions
 - The instructor can contextualize comments with their knowledge of the class
@@ -49,9 +48,9 @@ Response options: **Positive experience**, **Mixed experience**, **Negative expe
 | **Regard for Students** — feeling treated with regard | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
 | **Consistent Communication and Enforcement of Expectations** — feeling that all students are treated equitably | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
 | **Perceived Course Coherence** — seeing how course elements connect | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
-| **Participation** — feeling comfortable asking questions and sharing ideas | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
+| **Participatory Climate** — feeling comfortable asking questions and sharing ideas | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
 | **Access to Instructor and Instructor Resources** — feeling able to access help when needed | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
-| **Responsive Learning Environment** — feeling that you belong in this class | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
+| **Responsive Learning Environment** — feeling that the learning environment is responsive to all students | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
 
 :::
 
@@ -62,8 +61,8 @@ This structured component serves two purposes: it gives the instructor an at-a-g
 
 To prevent misunderstanding, the following points should be communicated clearly to both instructors and students:
 
-- The formative feedback process is **not** the Student Perceptions of Learning Experience. The SPLE is the summative instrument administered at the end of the term.
+- The formative feedback process is **not** the Student Perceptions of Learning Experience instrument. The SPLE is the summative instrument administered at the end of the term.
 - The formative feedback process is **not** part of the personnel file. No administrator, department chair, or personnel committee will see the results.
 - The formative feedback process is **not** required. It is a tool available to instructors who want real-time feedback on the learning environment in their course.
-- The formative feedback process is **not** anonymous feedback about the instructor's teaching ability. It is feedback about the student's learning experience — the same conceptual framing as the SPLE, but in a developmental rather than evaluative context.
+- The formative feedback process is **not** anonymous feedback about the instructor's teaching ability. It is anonymous feedback about the student's learning experience — the same conceptual framing as the SPLE, but in a developmental rather than evaluative context.
 - The formative feedback process **does not** replace the SPLE. Students will still complete the summative instrument at the end of the term regardless of whether formative feedback was collected.

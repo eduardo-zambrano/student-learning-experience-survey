@@ -130,9 +130,9 @@ Response options: **Positive experience**, **Mixed experience**, **Negative expe
 |---|---|
 | **Regard for Students** — feeling treated with regard | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
 | **Consistent Communication and Enforcement of Expectations** — feeling that all students are treated equitably | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
-| **Participation** — feeling comfortable asking questions and sharing ideas | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
+| **Participatory Climate** — feeling comfortable asking questions and sharing ideas | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
 | **Access to Instructor and Instructor Resources** — feeling able to access help when needed | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
-| **Responsive Learning Environment** — feeling that you belong in this class | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
+| **Responsive Learning Environment** — feeling that the learning environment is responsive to all students | ○ Positive  ○ Mixed  ○ Negative  ○ N/A |
 
 :::
 
