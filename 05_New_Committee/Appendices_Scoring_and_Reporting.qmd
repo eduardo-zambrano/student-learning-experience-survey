@@ -107,14 +107,14 @@ tbl_m2 <- data.frame(
 )
 
 tbl_m2 %>%
-  kable(col.names = c("", "Section C", "Section D", "Section E", "Section F"),
+  kable(col.names = c("", "Sec. C", "Sec. D", "Sec. E", "Sec. F"),
         align = c("l", "c", "c", "c", "c"),
         caption = "Frequency distribution of responses (20 of 28 enrolled students responded)") %>%
   kable_styling(bootstrap_options = c("condensed"),
                 full_width = FALSE, font_size = 13) %>%
   row_spec(0, bold = TRUE, color = "#333333") %>%
-  column_spec(1, width = "14em") %>%
-  column_spec(2:5, width = "6em")
+  column_spec(1, width = "12em") %>%
+  column_spec(2:5, width = "4em")
 ```
 
 ```{r median-problem2-charts, echo=FALSE, fig.width=9, fig.height=5.5, fig.align='center', dpi=150}

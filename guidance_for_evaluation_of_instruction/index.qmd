@@ -1,6 +1,10 @@
-# Appendix: Guidance for Evaluation of Instruction {#sec-guidance-evaluation}
+# Guidance for Evaluation of Instruction {#sec-guidance-evaluation}
 
-This appendix provides guidance for the evaluation of instruction in a format that can be directly incorporated into the University Faculty Personnel Policies (UFPP) as §8.3. The section numbering, structure, and language are designed so that, upon approval by the Academic Senate, this text can serve as the basis for the corresponding UFPP section with minimal modification.
+*This document was prepared by a sub-committee of the Ad Hoc Committee on Student Perceptions of Teaching Effectiveness as a companion resource. It has not been formally adopted by the full committee and is offered as proposed language for consideration by the Academic Senate Faculty Affairs Committee.*
+
+---
+
+This document provides guidance for the evaluation of instruction in a format that can be directly incorporated into the University Faculty Personnel Policies (UFPP) as §8.3. The section numbering, structure, and language are designed so that, upon approval by the Academic Senate, this text can serve as the basis for the corresponding UFPP section with minimal modification.
 
 This guidance addresses the **summative** evaluation of teaching as understood and required by the UFPP and the [Collective Bargaining Agreement](https://www.calstate.edu/csu-system/faculty-staff/labor-and-employee-relations/Pages/unit3-cfa.aspx) — that is, the formal assessment of teaching effectiveness for purposes of retention, tenure, promotion, and other personnel decisions. It is distinct from the **formative** assessment of teaching, which is an informal, voluntary, ongoing process of instructor development offered through the Center for Teaching, Learning and Technology (CTLT). The formative process is described in a separate companion document, [Formative Learning Feedback](https://eduardo-zambrano.github.io/formative-learning-feedback/).
 
@@ -81,9 +85,9 @@ This is the only dimension assessed through the **Student Perceptions of Learnin
 
 #### §8.3.6.1. Interpreting Student Perceptions of Learning Experience results
 
-Evaluators and candidates should interpret SPLE results with care, following the scoring, reporting, and visualization guidelines established in @sec-scoring-reporting. Key principles include:
+Evaluators and candidates should interpret SPLE results with care, following the scoring, reporting, and visualization guidelines established in the "Student Perceptions of Learning Experience: Rationale and Broad Principles of Design" report. Key principles include:
 
-- **Frequency distributions, not averages.** SPLE responses are ordered categorical data. They must not be averaged, and evaluators should examine the full distribution of responses, not any summary statistic.
+- **Frequency distributions and percentages, not averages.** SPLE responses are ordered categorical data. They must not be averaged, and evaluators should examine the full distribution of responses, not any summary statistic.
 - **No cross-comparisons.** SPLE results must not be compared across instructors, courses, departments, or disciplines. Differences in scores may reflect demographic biases, course characteristics, or nonresponse patterns rather than differences in the learning environment.
 - **No extrapolation.** Results from respondents should not be extrapolated to non-respondents. Students who submit evaluations are a self-selected sample of convenience, not a random sample.
 
@@ -119,9 +123,9 @@ If a department elects to add questions, those questions must meet the same stan
 
 - **Students must be qualified to answer.** The question must concern something students can report on from their own experience, without requiring disciplinary or pedagogical expertise.
 - **Students must be able to answer with minimal bias.** The question must elicit an experiential report, not an evaluative judgment. Items that ask students to assess teaching effectiveness, course quality, or instructor competence are not permitted, as these are the items the literature identifies as most susceptible to bias.
-- **Closed-ended, structured items only.** Department-associated questions must be closed-ended items on the five-point Likert scale. The university-wide instrument already includes open-ended questions with structured prompts and guardrails designed to minimize equity bias; there is no need for departments to add additional open-ended questions at the department level.
+- **Closed-ended, structured items only.** Department-associated questions must be closed-ended items on the five-point Likert scale. The university-wide instrument already includes open-ended questions with structured prompts and guardrails designed to minimize equity bias.
 
-Department-associated questions must use the same five-point ordered categorical (Likert) response scale as the university-wide items (Strongly Agree, Agree, Neither Agree nor Disagree, Disagree, Strongly Disagree, plus Not Applicable). They must be scored and reported identically to the university-wide questions — as frequency distributions of raw counts, with no numerical averages, no cross-comparisons, and no extrapolation from respondents to non-respondents. Every guardrail established in @sec-scoring-reporting for the university-wide items applies in full force to department-associated questions, lest the protections built into the university-level instrument be undone at the department level.
+Department-associated questions must use the same five-point ordered categorical (Likert) response scale as the university-wide items (Strongly Agree, Agree, Neither Agree nor Disagree, Disagree, Strongly Disagree, plus Not Applicable). They must be scored and reported identically to the university-wide questions — as frequency distributions of raw counts and percentages, with no numerical averages, no cross-comparisons, and no extrapolation from respondents to non-respondents. Every guardrail established in the Scoring and Reporting Guidelines of the "Student Perceptions of Learning Experience" report for the university-wide items applies in full force to department-associated questions, lest the protections built into the university-level instrument be undone at the department level.
 
 
 ### §8.3.7. Dimension 4: Achievement of Learning Outcomes
@@ -199,7 +203,7 @@ Evaluators should use this rubric to organize their assessment of each dimension
 
 : {.striped}
 
-For Dimension 3 (Class Climate), the rubric tiers correspond to patterns observable in the [SPLE frequency distributions](@sec-scoring-reporting) and in other evidence of class climate.
+For Dimension 3 (Class Climate), the rubric tiers correspond to patterns observable in the SPLE frequency distributions (see the Scoring and Reporting Guidelines of the "Student Perceptions of Learning Experience" report) and in other evidence of class climate.
 
 #### Dimension 4: Achievement of Learning Outcomes
 
