@@ -5,14 +5,19 @@ project:
 book:
   title: "Student Perceptions of Learning Experience"
   subtitle: "Rationale and Broad Principles of Design"
-  author: "Ad Hoc Committee on Student Perceptions of Teaching Effectiveness"
+  author: "A Report by the Ad Hoc Committee on Student Perceptions of Teaching Effectiveness"
   date: today
   downloads: [pdf]
   chapters:
     - index.qmd
-    - Class_Climate_Subdimensions.qmd
+    - Executive_Summary.qmd
+    - Ch1_Introduction.qmd
+    - Ch2_SPLE.qmd
+    - Ch3_Questionnaire_Design.qmd
     - Appendices_Scoring_and_Reporting.qmd
     - Implementation_Best_Practices.qmd
+    - Conclusions.qmd
+  appendices:
     - Sample_Survey_Instrument.qmd
 
 format:

@@ -1,4 +1,4 @@
-# Appendix: Implementation Best Practices
+# Implementation Best Practices
 
 The preceding chapters define *what* the **Student Perceptions of Learning Experience** (SPLE) measures — six aspects of the learning environment that students are qualified to report on — and *how* its results should be scored and reported. This companion chapter addresses a third question: *how should the instrument be administered?*
 

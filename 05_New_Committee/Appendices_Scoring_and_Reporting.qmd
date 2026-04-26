@@ -1,6 +1,6 @@
-# Appendix: Scoring and Reporting Guidelines {#sec-scoring-reporting}
+# Scoring and Reporting Guidelines {#sec-scoring-reporting}
 
-The recommendations in this appendix were approved by the committee with 7 votes in favor, 0 votes against, and 2 abstentions.
+The recommendations in this chapter were approved by the committee with 7 votes in favor, 0 votes against, and 2 abstentions.
 
 ## Scoring Methodology
 

@@ -1,0 +1,42 @@
+# Introduction
+
+
+## Background
+
+In 2013, the Academic Senate adopted [AS-759-13](https://digitalcommons.calpoly.edu/senateresolutions/761/), establishing the current university-wide student evaluation questions. In 2025, ASI [Resolution #25-04](https://www.asi.calpoly.edu/wp-content/uploads/2025/05/Resolution-25-04_Resolution-on-Course-Evaluations.pdf) called for reform of the evaluation instrument and processes. In turn, the Academic Senate established [the Ad Hoc Committee on Student Perception of Teaching Effectiveness](https://content-calpoly-edu.s3.amazonaws.com/academicsenate/1/images/Ad%20Hoc%20Committee%20on%20Teaching%20Effectiveness.pdf), charged with providing a revised policy and resolution to replace [AS-759-13](https://digitalcommons.calpoly.edu/senateresolutions/761/).
+
+
+## Summary of recommendations
+
+The proposal this committee has crafted has three parts.
+
+**First**, it unanimously recommends that the instrument known as the **Student Evaluation of Instruction** and **Student Evaluation of Faculty** in the University Faculty Personnel Policies^[In sections 3.2, 3.4, 7.2, 8.1 and 8.4.] be renamed as **Student Perceptions of Learning Experience**.
+
+**Second**, it unanimously recommends that the aspects of teaching effectiveness assessed through the **Student Perceptions of Learning Experience** instrument are the following:
+
+*Interpersonal — how the instructor relates to individual students:*
+
+1. [Regard for Students](#regard-for-students)
+2. [Consistent Communication and Enforcement of Expectations](#consistent-communication-and-enforcement-of-expectations)
+3. [Access to Instructor and Instructor Resources](#access-to-instructor-and-instructor-resources)
+
+*Structural — how the course is experienced as a whole by the students:*
+
+4. [Perceived Course Coherence](#perceived-course-coherence)
+
+*Environmental — what the classroom feels like as a shared space:*
+
+5. [Participatory Climate](#participatory-climate)
+6. [Responsive Learning Environment](#responsive-learning-environment)
+
+In the context of this recommendation, the committee unanimously recommends that the Academic Senate establish a standing committee with broad representation charged with oversight of all student feedback instruments and initiatives—summative, formative, and department-originated—including future revisions to the instrument.
+
+**Third**, the committee discussed whether to remove open-ended questions from the summative instrument due to the extensive evidence of bias in unstructured student comments (see [Evidence on bias in open-ended comments](#sec-evidence-open-ended) below). A motion to remove them from the Student Perceptions of Learning Experience obtained three votes in favor and five votes against. The motion failed. The committee then voted unanimously to retain open-ended questions in the Student Perceptions of Learning Experience instrument under structured prompts and guardrails designed to minimize bias (see [Guardrails for open-ended questions](#sec-guardrails-open-ended) below).
+
+Open-ended questions remain a key component of the companion [Formative Learning Feedback](https://eduardo-zambrano.github.io/formative-learning-feedback/) proposal, where they serve their intended developmental purpose.
+
+The committee understands that the final decision on open-ended questions rests with the Academic Senate, and that endorsement of this report does not commit the Senate to either approach.
+
+
+
+This report is organized as follows. Chapters 2 and 3 provide the rationale for the instrument's name and design. Chapter 4 establishes scoring and reporting guidelines. Chapter 5 addresses implementation best practices. The appendix presents a sample survey instrument with a recommended preamble and sample items. The items presented in the sample survey are illustrative. They are intended to demonstrate how the six aspects of class climate can be operationalized as experiential survey items. **The sample survey is not intended to be the final instrument.**

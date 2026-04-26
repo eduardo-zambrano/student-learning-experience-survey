@@ -1,3 +1,18 @@
-# Preamble {.unnumbered}
+# Committee Members {.unnumbered}
 
-*This draft is a preliminary **unofficial** and incomplete working document, subject to additions and revisions. Everyone's input is welcome.*
+| Name | Affiliation |
+|---|---|
+| John Pan (Chair) | Industrial and Manufacturing Engineering, CENG |
+| Anelise Sabbag | Statistics, COSAM |
+| Shantanu Kumar | Construction Management, CAED |
+| Laura Cacciamani | Psychology and Child Development, CLA |
+| Eduardo Zambrano | Economics, OCOB |
+| Jermaine Washington | Architecture, CAED (Lecturer) |
+| Carrie A. Langner | Psychology and Child Development, CLA (Department Head) |
+| Jett Palmer | Student Representative (ASI) |
+| Silvia Marijuan | World Languages and Cultures, CLA (CFA) |
+| Kylie Parrotta | Social Sciences, CLA (Faculty Affairs Committee) |
+| James Bingaman | Agricultural Education and Communication, CAFES (Instruction Committee) |
+| Simone Aloisio | Academic Personnel (ex officio, non-voting) |
+| Jean Lee | Academic Programs and Planning (Faculty Director) |
+| Patrick O'Sullivan | Center for Teaching, Learning and Technology (ex officio) |
