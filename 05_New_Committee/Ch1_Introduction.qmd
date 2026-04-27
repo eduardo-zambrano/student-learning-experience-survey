@@ -1,3 +1,7 @@
+```{=latex}
+\pagenumbering{arabic}
+```
+
 # Introduction
 
 
@@ -8,7 +12,7 @@ In 2013, the Academic Senate adopted [AS-759-13](https://digitalcommons.calpoly.
 
 ## Summary of recommendations
 
-The proposal this committee has crafted has three parts.
+The proposal this committee has crafted has five parts.
 
 **First**, it unanimously recommends that the instrument known as the **Student Evaluation of Instruction** and **Student Evaluation of Faculty** in the University Faculty Personnel Policies^[In sections 3.2, 3.4, 7.2, 8.1 and 8.4.] be renamed as **Student Perceptions of Learning Experience**.
 
@@ -36,6 +40,10 @@ In the context of this recommendation, the committee unanimously recommends that
 Open-ended questions remain a key component of the companion [Formative Learning Feedback](https://eduardo-zambrano.github.io/formative-learning-feedback/) proposal, where they serve their intended developmental purpose.
 
 The committee understands that the final decision on open-ended questions rests with the Academic Senate, and that endorsement of this report does not commit the Senate to either approach.
+
+**Fourth**, it unanimously recommends that Likert-scale results be reported as frequency distributions — raw counts together with percentages — excluding the use of means and medians, with guidance for the proper interpretation of these results (see Chapter 4).
+
+**Fifth**, it unanimously recommends a hybrid approach where online surveys are completed during in-class time in the last two weeks of instruction before finals (see Chapter 5).
 
 
 

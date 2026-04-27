@@ -48,6 +48,7 @@ format:
       text: |
         \usepackage{xcolor}
         \usepackage{titlesec}
+        \pagenumbering{roman}
         \titleformat{\section}{\Large\bfseries\sffamily}{\thesection}{1em}{}
         \titleformat{\subsection}{\large\bfseries\sffamily}{\thesubsection}{1em}{}
         \titlespacing*{\section}{0pt}{1.5em}{0.75em}
