@@ -53,7 +53,7 @@ The evidence is unambiguous: **in-class administration** produces the highest re
 
 A growing number of institutions have adopted a hybrid approach: dedicating class time for students to complete the evaluation *online*, on their own devices. This combines the response-rate benefits of in-class administration with the logistical efficiency of an online platform. Studies report response rates of **70–80%** with this model — comparable to traditional paper-based in-class administration ([Berk, 2013](https://doi.org/10.14434/josotl.v13i4.3609); [Chapman and Joines, 2017](https://doi.org/10.1007/s10755-017-9394-0)).
 
-The hybrid model is particularly well suited to the SPLE. The instrument is designed to be short and focused — a student can complete it in under five minutes on a phone. Ten to fifteen minutes of dedicated class time is more than sufficient, even accounting for the time to display the link, wait for students to access it, and allow for thoughtful responses.
+The hybrid model is particularly well suited to the SPLE. The instrument is designed to be short and focused — a student can complete it in under ten minutes on a phone. Ten to fifteen minutes of dedicated class time is more than sufficient, even accounting for the time to display the link, wait for students to access it, and allow for thoughtful responses.
 
 ### Recommendation
 
@@ -142,7 +142,7 @@ The following table synthesizes the evidence reviewed in this chapter into a con
 |---|---|---|
 | **When** | Last two weeks of instruction before finals week | Literature consensus: last 1–2 weeks of instruction, before finals begin ([Centra, 2003](https://doi.org/10.1023/A:1025492407752); [Marsh, 2007](https://doi.org/10.1007/978-1-4020-5742-3_9)) |
 | **Mode** | Hybrid: dedicated class time for online completion | Single most effective method for achieving 70%+ response rates ([Berk, 2013](https://doi.org/10.14434/josotl.v13i4.3609)) |
-| **Class time** | 10–15 min; instructor displays link/QR code, then leaves | SPLE has 5 Likert items and no open-ended questions — feasible in under 5 minutes |
+| **Class time** | 10–15 min; instructor displays link/QR code, then leaves | The instrument is short and focused — feasible in under ten minutes |
 | **Framing** | Informational preamble (data-informed, not generic) | Boring and Philippe ([2021](https://doi.org/10.1016/j.jpubeco.2020.104323)): informational framing reduces gender bias; generic appeals do not |
 | **Reminders** | 4 automated reminders at 2–3 day intervals | Adams and Umbach ([2012](https://doi.org/10.1007/s10755-011-9190-4)): achieves ~70% response rates |
 | **Results release** | Only after final grades are submitted | Universally recommended; protects anonymity and reduces grade-anxiety bias |
