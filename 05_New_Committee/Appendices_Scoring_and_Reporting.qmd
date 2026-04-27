@@ -16,7 +16,7 @@ The following scoring approach applies to all items in the **Student Perceptions
 
     > "While it is common to replace the category names with numbers, for instance, using '1' to signify 'strongly disagree' and '5' to signify 'strongly agree,' the numbers themselves are not quantities, just new labels. They are codes that happen to be numerical. The actual magnitudes of the numbers do not mean anything. The labels are arbitrary. Averaging such numbers is meaningless as a matter of statistics. For the average to be meaningful, the difference between '1' and '2' would need to mean the same thing as the difference between '4' and '5.' A '1' would have to balance a '5' to be the equivalent of two '3's. But adding or subtracting labels from each other does not make sense, any more than it makes sense to add or average postal codes" ([Stark, 2016, ¶28–29](https://www.tfanet.ca/wp-content/uploads/2018/11/Stark_report.pdf); see also [Stark, 2026](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6193538)).
 
-### Why frequency distributions are preferred over measures of central tendency for this kind of data
+### Why frequency distributions are preferred over measures of central tendency for this instrument
 
 With only five possible values and many more than five students in a classroom, the median cannot move until the distribution shifts enough to push the 50th percentile across a category boundary. Small but meaningful differences — and even some large ones — are invisible to it. This creates two distinct problems.
 
@@ -178,10 +178,10 @@ tbl %>%
         caption = "Frequency distribution of responses (22 of 33 enrolled students responded; response rate 67 percent)") %>%
   kable_styling(bootstrap_options = c("condensed"),
                 full_width = FALSE,
-                font_size = 15) %>%
+                font_size = 13) %>%
   row_spec(0, bold = TRUE, color = "#333333") %>%
-  column_spec(1, width = "14em", color = "#333333") %>%
-  column_spec(2:3, width = "8em")
+  column_spec(1, width = "12em", color = "#333333") %>%
+  column_spec(2:3, width = "7em")
 ```
 
 ## Visualization Guidelines

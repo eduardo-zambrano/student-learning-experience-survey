@@ -1,15 +1,15 @@
 # Executive Summary {.unnumbered}
 
-The Academic Senate charged this committee with providing a revised policy and instrument to replace AS-759-13, which established the current university-wide student evaluation questions in 2013.
+The Academic Senate charged this committee with providing a revised policy and instrument to replace [AS-759-13](https://digitalcommons.calpoly.edu/senateresolutions/761/), which established the current university-wide student evaluation questions in 2013.
 
 The current instrument asks students to assess "educational effectiveness" — a judgment that peer-reviewed research has shown to be susceptible to bias linked to the instructor's gender, race, and other characteristics, and that does not reliably measure teaching quality. Students are, however, uniquely positioned to report on their own experience of the learning environment — whether they felt the instructor engaged with them as individuals, whether expectations were clear and consistently applied, and whether the environment supported their participation and learning.
 
-Building on this distinction, and drawing on the TEval framework for multidimensional evaluation of teaching (Austin et al., 2025), the committee adopted the following five motions:
+Building on this distinction, and drawing on the TEval framework for multidimensional evaluation of teaching ([Austin et al., 2025](https://hep.gse.harvard.edu/9798895570159/transforming-college-teaching-evaluation/)), the committee adopted the following five motions:
 
 1. **Rename the instrument** to Student Perceptions of Learning Experience (SPLE).
 2. **Adopt six aspects of class climate** as the focus of the instrument: Regard for Students, Consistent Communication and Enforcement of Expectations, Access to Instructor and Instructor Resources, Perceived Course Coherence, Participatory Climate, and Responsive Learning Environment.
 3. **Retain open-ended questions** tied to specific aspects of class climate through structured prompts, accompanied by an informational anti-bias preamble.
-4. **Report Likert-scale results as frequency distributions** — raw counts together with percentages — excluding the use of means and medians. Guidance for the proper interpretation of these results is provided in this report.
+4. **Report Likert-scale results as frequency distributions** — raw counts together with percentages — excluding the use of means and medians, and provide guidance for the proper interpretation of these results.
 5. **Administer the instrument using a hybrid approach** where online surveys are completed during in-class time in the last two weeks of instruction before finals.
 
 The remainder of this report provides the rationale, evidence base, and implementation details for these recommendations.

@@ -1,4 +1,120 @@
+```{=html}
+<style>
+.tier-group {
+  padding-left: 1.5em;
+}
+</style>
+```
+
 # SPLE Questionnaire Design
+
+The recommendations in this chapter — the adoption of the six aspects of class climate as the focus of the instrument, and the retention of open-ended questions under structured prompts with an informational anti-bias preamble — were approved unanimously by the committee.
+
+## Rationale for the aspects of teaching effectiveness chosen to be included in the survey
+
+When determining which aspects of teaching effectiveness should be included in the **Student Perceptions of Learning Experience**, the committee used the following three criteria. This approach is consistent with the broader movement toward multidimensional evaluation of teaching, which recognizes that student surveys should focus on dimensions students are qualified to assess, as part of a comprehensive evaluation system ([TEval Project, 2025](https://teval.net/); [Austin et al., 2025](https://hep.gse.harvard.edu/9798895570159/transforming-college-teaching-evaluation/)).
+
+1. **It carries a summative component.** The dimension is relevant to personnel decisions under the UFPP.
+2. **Students are qualified to assess it.** Reporting on the dimension does not require disciplinary or pedagogical expertise ([Palmer, 2026](https://docs.google.com/presentation/d/1Xd0rsImrPFJX4Zk-bKbEHzRWRj8fn1jMf9zmffYWN58/edit?slide=id.g106f77e0e56_0_6#slide=id.g106f77e0e56_0_6); [Stark, 2016](https://www.tfanet.ca/wp-content/uploads/2018/11/Stark_report.pdf)).
+3. **Students can assess it with minimal bias.** The dimension concerns experiential reports rather than evaluative judgments that the literature identifies as particularly susceptible to bias.
+
+A useful starting point for applying these criteria is the TEval framework developed by Austin et al. ([2025](https://hep.gse.harvard.edu/9798895570159/transforming-college-teaching-evaluation/)), an NSF-funded initiative that draws on twenty-five years of scholarly work on teaching evaluation. The framework identifies seven dimensions of teaching for evaluation, each accompanied by guiding questions that articulate what the dimension captures. Together, the seven dimensions provide a comprehensive definition of high-quality educational practice.
+
+::: {.callout-note collapse="true" title="The seven dimensions of the TEval framework (Austin et al., 2025)"}
+
+**Guiding questions for each dimension of the framework**
+
+**Dimension 1: Goals, Content, and Alignment.** What are students expected to learn from the courses taught? Are learning goals clearly articulated in a way that is accessible to all students? Are course goals appropriate for the course as part of the larger curriculum and for the audience for which it is intended? Are topics appropriately challenging and related to current issues in the field? Are the materials high-quality and aligned with course goals? Does the content represent diverse perspectives? Are assessments aligned with course goals?
+
+**Dimension 2: Teaching Practices.** How is in-class and out-of-class time used? Are assignments, assessments, and learning activities designed to help all students learn? What effective or high-impact methods are used to improve understanding and engage all students in learning? Do in- and out-of-class activities provide opportunities for practice and feedback on important skills and concepts? Are forms of assessment varied to allow for the success of diverse learners?
+
+**Dimension 3: Class Climate.** To what extent is the class climate respectful, supportive, and cooperative? Does it encourage motivation and engagement for all students? Do all students feel included? How are student-student and student-instructor dialogue fostered? What are the students' views of their learning experiences? How has the instructor sought student feedback, and how has feedback informed the instructor's teaching?
+
+**Dimension 4: Achievement of Learning Outcomes.** Does the instructor clearly communicate the learning goals for the course? What evidence is used to determine the degree to which students achieve the defined course goals? How well are course assignments, assessments, and learning activities aligned with the defined learning goals? Are there efforts to ensure that all students have equitable opportunities to achieve the learning goals? Are standards for evaluating learning clear and connected to program, curriculum, or professional expectations? Does the quality of learning support success in other contexts?
+
+**Dimension 5: Reflection and Iterative Growth.** How and why has the instructor's teaching changed over time? How have changes been informed by evidence of student learning and student feedback? How has peer feedback been incorporated as changes in the instructor's teaching over time? How have the instructor's goals for their courses and students changed over time?
+
+**Dimension 6: Mentoring and Advising.** How effectively has the instructor worked individually with undergraduate or graduate students? Does the instructor establish clear, individualized, and responsive expectations for student and mentor? Does the instructor provide constructive and timely coaching and feedback? How does the quality of and time commitment to mentoring fit with disciplinary and departmental expectations?
+
+**Dimension 7: Involvement in Teaching Service, Scholarship, or Community.** How has the instructor contributed to the broader teaching community, both on and off campus? Areas of contribution can include the learning culture in the department or institution (e.g., curriculum committees, program assessment, cocurricular activities); engaging with peers on or off campus in teaching communities, workshops, peer reviews, or similar activities; educational leadership activities (e.g., leading teaching workshops, presentations or publications about teaching, grants related to teaching).
+
+:::
+
+When the seven dimensions are assessed against the three criteria above, one dimension stands out as the natural focus of the student survey: **Dimension 3 — Class Climate**. Class climate carries a summative component: the UFPP requires evidence of the instructor's effectiveness in creating a productive learning environment, and how students experience the classroom is directly relevant to that requirement. Students are qualified to assess it: reporting on whether the classroom felt supportive, responsive, and conducive to their learning does not require disciplinary or pedagogical expertise — it requires only that students reflect on their own experience. And students can assess it with minimal bias: items about class climate elicit experiential reports ("I felt treated with regard," "I felt the instructor created a learning environment that was responsive to all students") rather than the evaluative judgments about teaching effectiveness or instructor competence that the literature identifies as particularly susceptible to bias.
+
+This focus on class climate is particularly fitting at a polytechnic university organized around Learn by Doing. Where students learn primarily through active engagement — in labs, studios, clinics, and collaborative projects — the learning environment is not a backdrop to instruction but the literal space in which learning happens. The climate of that space is, accordingly, not a secondary concern but a direct determinant of whether the pedagogy works.
+
+The remaining six dimensions, by contrast, do not meet all three criteria. Dimensions 1, 2, and 4 — concerning course goals, teaching methods, and achievement of learning outcomes — require disciplinary or pedagogical expertise that students do not possess, and items targeting these dimensions are among those most susceptible to bias ([Stark, 2016](https://www.tfanet.ca/wp-content/uploads/2018/11/Stark_report.pdf); [Boring, Ottoboni, and Stark, 2016](https://www.scienceopen.com/hosted-document?doi=10.14293/S2199-1006.1.SOR-EDU.AETBZC.v1); [Stark, 2026](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6193538)). Dimensions 5, 6, and 7 — reflection and growth, mentoring, and service — concern activities that students in a single course generally cannot observe or are not positioned to evaluate. It is worth noting that items asking students whether they feel they learned a great deal — while intuitively appealing — fall squarely within Dimension 4. The peer-reviewed evidence shows that perceived learning does not track actual learning. In a controlled experiment, Deslauriers et al. ([2019](https://www.pnas.org/doi/10.1073/pnas.1821936116)) found that students who learned *more* (as measured by test performance) reported feeling they had learned *less*, and vice versa — a strong anti-correlation between perceived and actual learning. Uttl, White, and Gonzalez ([2017](https://www.sciencedirect.com/science/article/abs/pii/S0191491X16300323)), in a comprehensive meta-analysis correcting for small-sample and publication bias, found that the correlation between student evaluation ratings and student learning is effectively zero. As Stark ([2026](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6193538)) summarizes, student perceptions of their learning do not match objectively measured learning — a finding replicated across multiple disciplines and study designs. A "perceived learning" item would thus measure neither the learning environment nor actual learning, while carrying the same bias vulnerabilities as other evaluative items.
+
+Having identified class climate as the appropriate focus, the committee then asked: *how can class climate be assessed comprehensively, with aspects that are conceptually distinct and collectively exhaustive?* The guiding questions for Dimension 3 in the TEval framework point toward the answer. They ask whether the climate reflects *regard for students as persons*, is *supportive*, and *cooperative*; whether it encourages *motivation and engagement*; whether all students feel *included*; how *dialogue* is fostered; and what students' *views of their learning experiences* are. Drawing on these guiding questions — and on the broader literature on classroom climate ([Moos, 1979](https://psycnet.apa.org/record/1980-70076-000); [Fraser, Treagust, and Dennis, 1986](https://doi.org/10.1080/03075078612331378451); [Fraser, 1998](https://doi.org/10.1023/A:1009932514731); [Lizzio, Wilson, and Simons, 2002](https://doi.org/10.1080/03075070120099359); [Frisby and Martin, 2010](https://doi.org/10.1080/03634520903564362); [Ambrose et al., 2010](https://www.wiley.com/en-us/How+Learning+Works-p-9780470484104); [Hurtado et al., 2012](https://doi.org/10.1007/978-94-007-2950-6_2); [Hagenauer and Volet, 2014](https://doi.org/10.1080/03054985.2014.921613)) — the committee identified six aspects, each capturing a distinct facet of the student's experience in the classroom. In naming these aspects, the committee was deliberate in selecting language that describes what students experience without invoking terms that the literature associates with gendered or racialized expectations in evaluation contexts. These are described below.
+
+### Interpersonal — how the instructor relates to individual students {.unnumbered}
+
+::: {.tier-group}
+
+### Regard for Students
+
+**What it captures:** Whether the instructor engages with students as individuals — acknowledging their contributions, responding to their questions with care, and treating them as persons whose presence and participation matter.
+
+::: {.callout-tip collapse="true" title="How Regard for Students differs from the other aspects"}
+An instructor can apply the same standards to everyone yet be dismissive in manner. A class can welcome questions without the instructor showing regard for the students offering them. A course can feel *coherent* (well-structured, connected) while the instructor is curt or condescending. Regard for Students is about the quality of interpersonal treatment, not consistency of standards (Consistent Communication and Enforcement of Expectations), availability outside class (Access to Instructor and Instructor Resources), perceived course structure (Perceived Course Coherence), conditions for engagement (Participatory Climate), or belonging (Responsive Learning Environment).
+:::
+
+### Consistent Communication and Enforcement of Expectations
+
+**What it captures:** Whether expectations are communicated clearly and applied consistently — no favoritism, uniform access to learning and assessment.
+
+::: {.callout-tip collapse="true" title="How Consistent Communication and Enforcement of Expectations differs from the other aspects"}
+An instructor can show *regard for students as persons* while playing favorites. A class can feel responsive in atmosphere while grading or attention is unevenly distributed. A course can be *coherent* (activities clearly connected to goals) while standards are applied inconsistently. Consistent Communication and Enforcement of Expectations is about equity across students, not the character of interaction (Regard for Students), availability outside class (Access to Instructor and Instructor Resources), perceived course structure (Perceived Course Coherence), the openness of the environment (Participatory Climate), or sense of belonging (Responsive Learning Environment).
+:::
+
+### Access to Instructor and Instructor Resources
+
+**What it captures:** Whether the student can access the instructor and the resources the instructor provides — office hours, email, after-class conversations, course materials, and other support for learning.
+
+::: {.callout-tip collapse="true" title="How Access to Instructor and Instructor Resources differs from the other aspects"}
+An instructor can be available one-on-one but create a poor in-class climate (Participatory Climate). A student may find the instructor easy to reach but, once there, feel dismissed (Regard for Students) or experience uneven standards (Consistent Communication and Enforcement of Expectations). A course can be *coherent* in structure while the instructor is difficult to reach outside of class. Access to Instructor and Instructor Resources is about availability, not the quality of what happens during interaction (Regard for Students), consistency of standards (Consistent Communication and Enforcement of Expectations), perceived course structure (Perceived Course Coherence), in-class environment (Participatory Climate), or belonging (Responsive Learning Environment).
+:::
+
+:::
+
+### Structural — how the course is experienced as a whole {.unnumbered}
+
+::: {.tier-group}
+
+### Perceived Course Coherence
+
+**What it captures:** Whether the student could see connections between course elements — that what happened in class, what was assigned, and what was assessed were recognizably related. A course can be highly coherent — readings connect to lectures connect to assessments — even when the content is disorienting or challenges students' prior beliefs.
+
+Perceived Course Coherence might appear to belong with course design (Goals, Content, and Alignment) rather than with class climate. But what a peer reviewer assesses from the syllabus — whether the course elements are aligned — is different from what the student experiences in the classroom — whether the connections between those elements are *visible* to them. A syllabus can be perfectly aligned on paper while students experience the course as disjointed because the connections were never made explicit. It is this experiential dimension — perceived structure, not designed structure — that the SPLE measures, and that makes Perceived Course Coherence a class climate variable.
+
+::: {.callout-tip collapse="true" title="How Perceived Course Coherence differs from the other aspects"}
+A class can score well on every other aspect — students treated with regard, standards applied consistently, instructor available, environment participatory and responsive — while the student still cannot see how the pieces fit together, how today's class connects to last week's, or how the assessments relate to what was covered. Perceived Course Coherence captures one specific, concrete experience: whether the student could see the connections between course elements. It is not a summary of the overall learning experience or a proxy for teaching effectiveness. It is about perceived structure, not interpersonal treatment (Regard for Students), consistency of standards (Consistent Communication and Enforcement of Expectations), availability outside class (Access to Instructor and Instructor Resources), conditions for engagement (Participatory Climate), or belonging (Responsive Learning Environment).
+:::
+
+:::
+
+### Environmental — what the classroom feels like as a shared space {.unnumbered}
+
+::: {.tier-group}
+
+### Participatory Climate
+
+**What it captures:** Whether the classroom environment supports multiple modes of active engagement — asking questions, sharing ideas and/or resources, discussing with peers, and making mistakes without penalty. This aspect concerns the conditions for engagement, not the format of instruction — a lecture in which the instructor welcomes questions and responds to them thoughtfully is a participatory climate no less than a seminar built around discussion.
+
+::: {.callout-tip collapse="true" title="How Participatory Climate differs from the other aspects"}
+A class can be participatory in structure while individual students still don't feel they *belong* (Responsive Learning Environment). The instructor can show regard for students in replies without the environment actually encouraging participation. A course can feel *coherent* (well-structured) while the classroom format discourages questions, discussion, or student-to-student dialogue. Participatory Climate is about the conditions for engagement in class — including peer interaction — not the quality of treatment (Regard for Students), consistency of standards (Consistent Communication and Enforcement of Expectations), availability outside class (Access to Instructor and Instructor Resources), perceived course structure (Perceived Course Coherence), or belonging (Responsive Learning Environment).
+:::
+
+### Responsive Learning Environment
+
+**What it captures:** Whether the instructor creates a learning environment that is responsive to the range of students in the class — one that reflects awareness of differences in background, preparation, learning needs, and experience, rather than treating all students as interchangeable.
+
+::: {.callout-tip collapse="true" title="How Responsive Learning Environment differs from the other aspects"}
+A student can be treated with regard and held to consistent standards without feeling they belong. A class can be *participatory* (questions encouraged, ideas welcomed) while a student still feels like an outsider — because of whose experiences are centered, who dominates discussion, or what the implicit culture of the class signals. A course can be *coherent* (activities connect, expectations are clear) while a student feels the class was not designed with them in mind. Responsive Learning Environment is about belonging in the group, not individual treatment (Regard for Students, Consistent Communication and Enforcement of Expectations), one-on-one availability (Access to Instructor and Instructor Resources), perceived course structure (Perceived Course Coherence), or conditions for engagement (Participatory Climate).
+:::
+
+:::
 
 ## Evidence on bias in open-ended comments {#sec-evidence-open-ended}
 
@@ -23,8 +139,6 @@ Cal Poly Pomona, the University of Houston, and Florida State University restric
 :::
 
 **This does not mean students should have no voice beyond the six items.** It means that unstructured feedback belongs in the formative component of the evaluation of teaching — a separate, developmental process designed exclusively to help the instructor grow as an educator ([Centra, 1993](https://eric.ed.gov/?id=ED363233); [Berk, 2005](https://www.isetl.org/ijtlhe/pdf/IJTLHE8.pdf)). Best practices are that formative results are shared only with the instructor and are not used for employment decisions ([Benton and Young, 2018](https://eric.ed.gov/?id=ED588352); [Stark and Freishtat, 2014](https://www.stat.berkeley.edu/~stark/Preprints/evaluations14.pdf)). In this context, open-ended questions can serve their intended purpose without the risk of biased comments influencing personnel decisions.
-
-\newpage
 
 ## Guardrails for open-ended questions {#sec-guardrails-open-ended}
 

@@ -1,10 +1,12 @@
 # Implementation Best Practices
 
+The recommendations in this chapter were approved unanimously by the committee.
+
 The preceding chapters define *what* the **Student Perceptions of Learning Experience** (SPLE) measures — six aspects of the learning environment that students are qualified to report on — and *how* its results should be scored and reported. This companion chapter addresses a third question: *how should the instrument be administered?*
 
 Cal Poly's transition to semesters — from 10-week quarters to 15-week terms — is a once-in-a-generation opportunity to design the administration of this instrument from scratch rather than inheriting the practices of a system it replaces. The recommendations below draw on the peer-reviewed literature and on the published practices of peer institutions to propose a concrete implementation model for the SPLE.
 
-The recommendations in this chapter were approved unanimously by the committee.
+
 
 ## Scope
 
@@ -105,7 +107,7 @@ A natural question is whether the instructions presented to students before they
 
 **Informational framing** — pairing the warning with institution-specific data showing that previous cohorts had evaluated male and female instructors differently — produced a markedly different result. In the same experiment, Boring and Philippe found that informational framing significantly reduced the gender bias, raising ratings of female instructors without affecting ratings of male instructors. The effect was driven primarily by male students' evaluations of female instructors; female students' ratings were not significantly affected by either treatment.
 
-**An important caveat:** The evidence that informational framing reduces bias applies to *structured Likert-scale items*. It does not extend to *open-ended responses*, where the unstructured format gives bias room to operate regardless of how the prompt is framed. Owen, De Bruin, and Wu ([2024](https://doi.org/10.1080/02602938.2024.2407927)) found that even directed, structured prompts — while they improved the specificity and constructiveness of open-ended comments — did not reduce gender bias. This is one of the reasons the committee recommends discontinuing open-ended questions from the summative instrument.
+**An important caveat:** The evidence that informational framing reduces bias applies to *structured Likert-scale items*. It does not extend to *open-ended responses*, where the unstructured format gives bias room to operate regardless of how the prompt is framed. Owen, De Bruin, and Wu ([2024](https://doi.org/10.1080/02602938.2024.2407927)) found that even directed, structured prompts — while they improved the specificity and constructiveness of open-ended comments — did not reduce gender bias. This is one of the reasons the committee considered discontinuing open-ended questions from the summative instrument, and ultimately voted to retain them only under the structured prompts and guardrails described in Chapter 3.
 
 ### Recommendation
 
@@ -145,6 +147,6 @@ The following table synthesizes the evidence reviewed in this chapter into a con
 | **Reminders** | 4 automated reminders at 2–3 day intervals | Adams and Umbach ([2012](https://doi.org/10.1007/s10755-011-9190-4)): achieves ~70% response rates |
 | **Results release** | Only after final grades are submitted | Universally recommended; protects anonymity and reduces grade-anxiety bias |
 <!-- | **Response rate target** | 70% minimum | Below this threshold, self-selection bias threatens validity ([Nulty, 2008](https://doi.org/10.1080/02602930801956059); [Holtgraves et al., 2023](https://doi.org/10.3389/fpsyg.2023.1138886)) | -->
-| **Response rate reporting** | Raw counts alongside results | Per the scoring and reporting guidelines; lets evaluators judge representativeness |
+<!-- | **Response rate reporting** | Raw counts alongside results | Per the scoring and reporting guidelines; lets evaluators judge representativeness | -->
 
 Administering the SPLE in the final two weeks of instruction, with dedicated class time and an informational preamble is an achievable model — it requires no new technology, no additional personnel, and minimal class time — and it reflects the best available evidence on how to implement a student survey that is both useful and fair.

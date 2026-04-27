@@ -74,6 +74,12 @@ Your response here...
 </div>
 ```
 
+```{=latex}
+\vspace{0.5em}
+\noindent\hspace{2em}\fbox{\parbox{0.85\textwidth}{\vspace{2.5em}\textcolor{gray}{\textit{Your response here...}}\vspace{2.5em}}}
+\vspace{0.5em}
+```
+
 All other items (Regard for Students, Consistent Communication and Enforcement of Expectations, Access to Instructor and Instructor Resources, Participatory Climate, Responsive Learning Environment) remain Likert-only.
 
 ### Why an open-ended question only on Perceived Course Coherence?
