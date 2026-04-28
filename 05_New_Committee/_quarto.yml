@@ -17,6 +17,7 @@ book:
     - Appendices_Scoring_and_Reporting.qmd
     - Implementation_Best_Practices.qmd
     - Conclusions.qmd
+    - References.qmd
   appendices:
     - Sample_Survey_Instrument.qmd
 
