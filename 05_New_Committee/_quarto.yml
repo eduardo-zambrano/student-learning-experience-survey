@@ -5,7 +5,7 @@ project:
 book:
   title: "Student Perceptions of Learning Experience: Rationale and Broad Principles of Design"
   author: "A Report by the Ad Hoc Committee on Student Perceptions of Teaching Effectiveness"
-  date: today
+  date: 2026-04-28
   downloads: [pdf]
   chapters:
     - index.qmd
