@@ -6,12 +6,11 @@ format:
     geometry:
       - top=1in
       - bottom=1in
-      - left=1.25in
-      - right=1.25in
-    fontsize: 11pt
-    mainfont: "TeX Gyre Pagella"
-    sansfont: "TeX Gyre Heros"
-    linestretch: 1.15
+      - left=1in
+      - right=1in
+    fontsize: 12pt
+    mainfont: "Helvetica Neue"
+    linestretch: 1.0
     number-sections: false
     toc: false
     colorlinks: true
@@ -21,9 +20,20 @@ format:
       text: |
         \usepackage{xcolor}
         \usepackage{lineno}
-        \usepackage{ragged2e}
         \pagenumbering{gobble}
-        \renewcommand\linenumberfont{\normalfont\small}
+        \renewcommand\linenumberfont{\normalfont\normalsize}
+        \newlength{\clauseindent}
+        \setlength{\clauseindent}{1.15in}
+        \tolerance=1000
+        \hyphenpenalty=500
+        \exhyphenpenalty=500
+        \emergencystretch=1em
+        \newcommand{\clause}[2]{%
+          \par\noindent
+          \hangindent=\clauseindent\hangafter=1%
+          \makebox[\clauseindent][l]{#1}%
+          #2\par}
+        \newcommand{\blankline}{\par\noindent\strut\par}
 ---
 
 ```{=latex}
@@ -33,84 +43,84 @@ Adopted: XX/XX/20XX
 
 \begin{center}
 {\Large\bfseries ACADEMIC SENATE}\\[4pt]
-of\\[4pt]
+{\bfseries of}\\[4pt]
 {\large\bfseries CALIFORNIA POLYTECHNIC STATE UNIVERSITY}\\[4pt]
-San Luis Obispo, CA\\[1.5em]
-\textbf{AS-XXX-26}\\[1em]
+{\bfseries San Luis Obispo, CA}\\[1.5em]
+{\bfseries AS-XXX-26}\\[1em]
 {\large\bfseries RESOLUTION ON STUDENT PERCEPTIONS OF LEARNING EXPERIENCE}
 \end{center}
 
-\vspace{1.5em}
+\vspace{1em}
 
-\begin{linenumbers}
-\noindent
-WHEREAS,\quad In 2013, the Academic Senate adopted AS-759-13, establishing the current university-wide student evaluation questions; and
+\linenumbers
 
-\vspace{0.5em}
-\noindent
-WHEREAS,\quad In 2025, ASI Resolution \#25-04 called for reform of the student evaluation instrument and processes, citing concerns about bias, validity, and the impact of evaluations on faculty from underrepresented groups; and
+\clause{WHEREAS,}{In 2013, the Academic Senate adopted AS-759-13, establishing the current university-wide student evaluation questions: (1) ``Overall, this instructor was educationally effective'' and (2) ``Overall, this course was educationally effective''; and}
 
-\vspace{0.5em}
-\noindent
-WHEREAS,\quad The Academic Senate established the Ad Hoc Committee on Student Perception of Teaching Effectiveness, charged with providing a revised policy and resolution to replace AS-759-13; and
+\blankline
 
-\vspace{0.5em}
-\noindent
-WHEREAS,\quad A substantial body of peer-reviewed research establishes that student evaluations of teaching have little connection to teaching quality; have large unpredictable biases from the instructor's gender, race, and other characteristics protected under employment law; reflect grade expectations rather than learning; and are sometimes negatively associated with teaching effectiveness (Stark, 2026); and
+\clause{WHEREAS,}{In 2025, ASI Resolution \#25-04 called for reform of the student evaluation instrument and processes, citing concerns about bias, validity, and the impact of evaluations on faculty from underrepresented groups; and}
 
-\vspace{0.5em}
-\noindent
-WHEREAS,\quad Research establishes that open-ended comments in student evaluations show the strongest evidence of equity bias (Kreitzer and Sweet-Cushman, 2021); and
+\blankline
 
-\vspace{0.5em}
-\noindent
-WHEREAS,\quad Assessments of disciplinary competence, pedagogical technique, and achievement of learning outcomes require perspectives beyond what students can observe from within a single course---and evidence confirms that student perceptions of their own learning do not track actual learning (Deslauriers et al., 2019; Uttl, White, and Gonzalez, 2017); and
+\clause{WHEREAS,}{The Academic Senate established the Ad Hoc Committee on Student Perception of Teaching Effectiveness, charged with providing a revised policy and resolution to replace AS-759-13; and}
 
-\vspace{0.5em}
-\noindent
-WHEREAS,\quad There is a broader movement toward multidimensional evaluation of teaching, which recognizes that student surveys should focus on dimensions students are qualified to assess with minimal bias, as part of a comprehensive evaluation system (TEval Project, 2025; Austin et al., 2025); and
+\blankline
 
-\vspace{0.5em}
-\noindent
-WHEREAS,\quad The NSF-sponsored TEval initiative identifies seven dimensions for the multidimensional evaluation of teaching: (1) Goals, Content, and Alignment; (2) Teaching Practices; (3) Class Climate; (4) Achievement of Learning Outcomes; (5) Reflection and Iterative Growth; (6) Mentoring and Advising; and (7) Involvement in Teaching Service, Scholarship, or Community; therefore, be it
+\clause{WHEREAS,}{A substantial body of peer-reviewed research establishes that student evaluations of teaching have little connection to teaching quality; have large unpredictable biases from the instructor's gender, race, and other characteristics protected under employment law; reflect grade expectations rather than learning; and are sometimes negatively associated with teaching effectiveness (Stark, 2026); and}
 
-\vspace{0.75em}
-\noindent
-RESOLVED:\quad That AS-759-13 is superseded upon implementation of this resolution; and be it further
+\blankline
 
-\vspace{0.5em}
-\noindent
-RESOLVED:\quad That the Academic Senate require that the university-wide student evaluation instrument be redesigned to ask only about aspects of the learning experience that students are qualified to assess with minimal bias, avoiding items that frame students as evaluators of teaching effectiveness, course effectiveness, or instructor competence; and be it further
+\clause{WHEREAS,}{Research establishes that open-ended comments in student evaluations show the strongest evidence of equity bias (Kreitzer and Sweet-Cushman, 2021); and}
 
-\vspace{0.5em}
-\noindent
-RESOLVED:\quad That the instrument, once redesigned, be named the \textbf{Student Perceptions of Learning Experience}; and be it further
+\blankline
 
-\vspace{0.5em}
-\noindent
-RESOLVED:\quad That the Student Perceptions of Learning Experience instrument assess the following six aspects of class climate (Dimension 3 of the TEval framework): Regard for Students, Consistent Communication and Enforcement of Expectations, Access to Instructor and Instructor Resources, Perceived Course Coherence, Participatory Climate, and Responsive Learning Environment; and be it further
+\clause{WHEREAS,}{Assessments of disciplinary competence, pedagogical technique, and achievement of learning outcomes require perspectives beyond what students can observe from within a single course---and evidence suggests that student perceptions of their own learning are inconsistent with actual learning (Deslauriers et al., 2019; Uttl, White, and Gonzalez, 2017); and}
 
-\vspace{0.5em}
-\noindent
-RESOLVED:\quad That any open-ended questions on the Student Perceptions of Learning Experience instrument be tied to specific aspects of class climate through structured prompts, and be accompanied by an informational anti-bias preamble; and be it further
+\blankline
 
-\vspace{0.5em}
-\noindent
-RESOLVED:\quad That the Academic Senate approve the Ad Hoc Committee's report ``Student Perceptions of Learning Experience: Rationale and Broad Principles of Design'' and its appendices on scoring and reporting, and implementation; and be it further
+\clause{WHEREAS,}{There is a broader movement toward multidimensional evaluation of teaching, which recognizes that student surveys should focus on dimensions students are qualified to assess with minimal bias, as part of a comprehensive evaluation system (TEval Project, 2025; Austin et al., 2025); and}
 
-\vspace{0.5em}
-\noindent
-RESOLVED:\quad That the Academic Senate establish a standing committee with broad representation charged with oversight of all student evaluation instruments and initiatives---summative, formative, and department-originated---including future revisions to the Student Perceptions of Learning Experience instrument, subject to approval by the Academic Senate; and be it further
+\blankline
 
-\vspace{0.5em}
-\noindent
-RESOLVED:\quad That the Academic Senate forward the companion document ``Formative Learning Feedback: A Companion to the Student Perceptions of Learning Experience Report'', prepared by a sub-committee to this Ad Hoc Committee, to the Academic Senate Instruction Committee and to the Center for Teaching, Learning and Technology for their consideration; and be it further
+\clause{WHEREAS,}{The NSF-funded TEval initiative identifies seven dimensions for the multidimensional evaluation of teaching: (1) Goals, Content, and Alignment; (2) Teaching Practices; (3) Class Climate; (4) Achievement of Learning Outcomes; (5) Reflection and Iterative Growth; (6) Mentoring and Advising; and (7) Involvement in Teaching Service, Scholarship, or Community; therefore, be it}
 
-\vspace{0.5em}
-\noindent
-RESOLVED:\quad That the Academic Senate forward the companion document ``Guidance for Evaluation of Instruction'' (formatted as proposed language for UFPP \S8.3), prepared by a sub-committee to this Ad Hoc Committee, to the Academic Senate Faculty Affairs Committee for their consideration.
+\blankline
 
-\end{linenumbers}
+\clause{RESOLVED:}{That AS-759-13 is superseded upon implementation of this resolution; and be it further}
+
+\blankline
+
+\clause{RESOLVED:}{That the Academic Senate approve that the university-wide student evaluation instrument be redesigned to ask only about aspects of the learning experience that students are qualified to assess with minimal bias, avoiding items that frame students as evaluators of teaching effectiveness, course effectiveness, or instructor competence; and be it further}
+
+\blankline
+
+\clause{RESOLVED:}{That the Academic Senate approve that the instrument, once redesigned, be named the Student Perceptions of Learning Experience; and be it further}
+
+\blankline
+
+\clause{RESOLVED:}{That the Academic Senate approve that the instrument assess the following six aspects of class climate (Dimension 3 of the TEval framework): Regard for Students, Consistent Communication and Enforcement of Expectations, Access to Instructor and Instructor Resources, Perceived Course Coherence, Participatory Climate, and Responsive Learning Environment; and be it further}
+
+\blankline
+
+\clause{RESOLVED:}{That the Academic Senate approve that any open-ended questions on the instrument be tied to specific aspects of class climate through structured prompts, and be accompanied by an informational anti-bias preamble; and be it further}
+
+\blankline
+
+\clause{RESOLVED:}{That the Academic Senate implement the Ad Hoc Committee's report ``Student Perceptions of Learning Experience: Rationale and Broad Principles of Design'' and its appendices on scoring and reporting, and implementation; and be it further}
+
+\blankline
+
+\clause{RESOLVED:}{That the Academic Senate establish a standing committee with broad representation charged with oversight of all student evaluation instruments and initiatives---summative, formative, and department-originated---including future revisions to the instrument, subject to approval by the Academic Senate; and be it further}
+
+\blankline
+
+\clause{RESOLVED:}{That the Academic Senate forward the companion document ``Formative Learning Feedback: A Companion to the Student Perceptions of Learning Experience Report'', prepared by a sub-committee of this Ad Hoc Committee, to the Academic Senate Instruction Committee and to the Center for Teaching, Learning and Technology for their consideration; and be it further}
+
+\blankline
+
+\clause{RESOLVED:}{That the Academic Senate forward the companion document ``Guidance for Evaluation of Instruction'' (formatted as proposed language for UFPP \S8.3), prepared by a sub-committee of this Ad Hoc Committee, to the Academic Senate Faculty Affairs Committee for their consideration.}
+
+\nolinenumbers
 
 \vspace{2em}
 \noindent

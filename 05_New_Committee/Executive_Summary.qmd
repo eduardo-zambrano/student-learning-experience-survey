@@ -4,7 +4,7 @@ The Academic Senate charged this committee with providing a revised policy and i
 
 The current instrument asks students to assess "educational effectiveness" — a judgment that peer-reviewed research has shown to be susceptible to bias linked to the instructor's gender, race, and other characteristics, and that does not reliably measure teaching quality. Students are, however, uniquely positioned to report on their own experience of the learning environment — whether they felt the instructor engaged with them as individuals, whether expectations were clear and consistently applied, and whether the environment supported their participation and learning.
 
-Building on this distinction, and drawing on the TEval framework for multidimensional evaluation of teaching ([Austin et al., 2025](https://hep.gse.harvard.edu/9798895570159/transforming-college-teaching-evaluation/)), the committee adopted the following five motions:
+Building on this distinction, and drawing on the TEval framework for multidimensional evaluation of teaching ([Austin et al., 2025](https://hep.gse.harvard.edu/9798895570159/transforming-college-teaching-evaluation/)), the committee approved the following five motions:
 
 1. **Rename the instrument** to Student Perceptions of Learning Experience (SPLE).
 2. **Adopt six aspects of class climate** as the focus of the instrument: Regard for Students, Consistent Communication and Enforcement of Expectations, Access to Instructor and Instructor Resources, Perceived Course Coherence, Participatory Climate, and Responsive Learning Environment.

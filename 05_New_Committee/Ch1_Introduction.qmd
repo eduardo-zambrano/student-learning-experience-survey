@@ -9,6 +9,13 @@
 
 In 2013, the Academic Senate adopted [AS-759-13](https://digitalcommons.calpoly.edu/senateresolutions/761/), establishing the current university-wide student evaluation questions. In 2025, ASI [Resolution #25-04](https://www.asi.calpoly.edu/wp-content/uploads/2025/05/Resolution-25-04_Resolution-on-Course-Evaluations.pdf) called for reform of the evaluation instrument and processes. In turn, the Academic Senate established [the Ad Hoc Committee on Student Perception of Teaching Effectiveness](https://content-calpoly-edu.s3.amazonaws.com/academicsenate/1/images/Ad%20Hoc%20Committee%20on%20Teaching%20Effectiveness.pdf), charged with providing a revised policy and resolution to replace [AS-759-13](https://digitalcommons.calpoly.edu/senateresolutions/761/).
 
+The committee was given the following charges:
+
+1. Reviewing the reliability and validity of the prompts required on all student evaluation instruments, suggesting revisions to the prompts if necessary, and determining if additional prompts are necessary to obtain a more reliable and valid assessment of teaching effectiveness at Cal Poly.
+2. Revisiting the criteria for procedures for conducting student evaluations to increase response rates and reduce incidences of bias, particularly negative bias toward people of color, women, and other minoritized populations in student feedback.
+3. Reviewing how both quantitative and qualitative data collected from student evaluations are provided to faculty, the analysis of the data, and how data are presented for review for retention, promotion, and tenure. The committee should also consider as part of their charges what data is appropriate for development of teaching effectiveness purposes and data appropriate for performance evaluation.
+4. Suggesting processes for disseminating results of student evaluations to Cal Poly students.^[After consulting with the Academic Senate Faculty Affairs Committee, Academic Personnel, and CFA, the committee learned that it is not possible to share course evaluation survey information with students under the current CBA and therefore did not pursue this charge further.]
+
 
 ## Summary of recommendations
 
@@ -16,7 +23,7 @@ The proposal this committee has crafted has five parts.
 
 **First**, it unanimously recommends that the instrument known as the **Student Evaluation of Instruction** and **Student Evaluation of Faculty** in the University Faculty Personnel Policies^[In sections 3.2, 3.4, 7.2, 8.1 and 8.4.] be renamed as **Student Perceptions of Learning Experience**.
 
-**Second**, it unanimously recommends that the aspects of teaching effectiveness assessed through the **Student Perceptions of Learning Experience** instrument are the following:
+**Second**, it unanimously recommends for the aspects of teaching effectiveness assessed through the **Student Perceptions of Learning Experience** instrument to be the following:
 
 *Interpersonal — how the instructor relates to individual students:*
 

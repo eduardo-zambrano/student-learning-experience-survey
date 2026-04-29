@@ -4,7 +4,7 @@ The recommendations in this chapter were approved unanimously by the committee.
 
 The preceding chapters define *what* the **Student Perceptions of Learning Experience** (SPLE) measures — six aspects of the learning environment that students are qualified to report on — and *how* its results should be scored and reported. This companion chapter addresses a third question: *how should the instrument be administered?*
 
-Cal Poly's transition to semesters — from 10-week quarters to 15-week terms — is a once-in-a-generation opportunity to design the administration of this instrument from scratch rather than inheriting the practices of a system it replaces. The recommendations below draw on the peer-reviewed literature and on the published practices of peer institutions to propose a concrete implementation model for the SPLE.
+Cal Poly's transition to semesters — from 10-week quarters — is a once-in-a-generation opportunity to design the administration of this instrument from scratch rather than inheriting the practices of a system it replaces. The recommendations below draw on the peer-reviewed literature and on the published practices of peer institutions to propose a concrete implementation model for the SPLE.
 
 
 
@@ -36,7 +36,7 @@ All of these institutions release results only after final grades have been subm
 
 :::
 
-### Recommendation for Cal Poly's 15-week semester
+### Recommendation for Cal Poly's semester
 
 The SPLE window should be **open during the last two weeks of instruction before finals week**. This two-week window is consistent with the practice at most peer institutions, provides sufficient time for reminders and in-class completion, and ensures that the evaluation captures students' experience of nearly the full semester without bleeding into the final examination period.
 
@@ -136,7 +136,7 @@ Your responses are anonymous and will not be shared with the instructor until af
 
 ## Recommended implementation model {#sec-model}
 
-The following table synthesizes the evidence reviewed in this chapter into a concrete recommendation for administering the summative Student Perceptions of Learning Experience under Cal Poly's 15-week semester calendar.
+The following table synthesizes the evidence reviewed in this chapter into a concrete recommendation for administering the summative Student Perceptions of Learning Experience under Cal Poly's semester calendar.
 
 | Element | Recommendation | Rationale |
 |---|---|---|

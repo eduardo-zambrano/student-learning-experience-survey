@@ -3,8 +3,7 @@ project:
   output-dir: _book
 
 book:
-  title: "Student Perceptions of Learning Experience"
-  subtitle: "Rationale and Broad Principles of Design"
+  title: "Student Perceptions of Learning Experience: Rationale and Broad Principles of Design"
   author: "A Report by the Ad Hoc Committee on Student Perceptions of Teaching Effectiveness"
   date: today
   downloads: [pdf]
@@ -54,3 +53,24 @@ format:
         \titleformat{\subsection}{\large\bfseries\sffamily}{\thesubsection}{1em}{}
         \titlespacing*{\section}{0pt}{1.5em}{0.75em}
         \titlespacing*{\subsection}{0pt}{1.25em}{0.5em}
+        \makeatletter
+        \renewcommand{\maketitle}{%
+          \begin{titlepage}
+            \centering
+            \vspace*{3cm}
+            {\LARGE\bfseries Student Perceptions of Learning Experience \par}
+            \vspace{0.5em}
+            {\large Rationale and Broad Principles of Design \par}
+            \vspace{2em}
+            {\large A Report \par}
+            \vspace{0.3em}
+            {\large by \par}
+            \vspace{0.3em}
+            {\large the Ad Hoc Committee on \par}
+            \vspace{0.3em}
+            {\large Student Perceptions of Teaching Effectiveness \par}
+            \vspace{2em}
+            {\large \@date \par}
+          \end{titlepage}
+        }
+        \makeatother

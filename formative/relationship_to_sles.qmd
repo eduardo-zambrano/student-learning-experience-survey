@@ -23,9 +23,9 @@ The formative feedback process exists because some of the most useful feedback s
 
 ## Formative feedback as the home for open-ended questions
 
-The SPLE committee voted to retain open-ended questions on the summative instrument under structured prompts and guardrails designed to minimize the equity bias that the literature documents in unstructured responses (see the SPLE proposal for the full evidence base). Open-ended questions also play a central role in the formative feedback process. In the formative context, results go only to the instructor, so potentially biased comments cannot influence personnel decisions. In a formative context:
+The SPLE committee voted to retain open-ended questions on the summative instrument under structured prompts and guardrails designed to minimize the equity bias that the literature documents in unstructured responses (see the SPLE report for the full evidence base). Open-ended questions also play a central role in the formative feedback process. In the formative context:
 
-- Results go only to the instructor, so biased comments cannot influence personnel decisions
+- Results go only to the instructor, so potentially biased comments cannot influence personnel decisions
 - The instructor can contextualize comments with their knowledge of the class
 - The developmental framing encourages constructive rather than evaluative responses
 - There is no need to standardize or compare across instructors
